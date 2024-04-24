@@ -1,0 +1,19 @@
+#!/bin/bash
+# Desc: day_move helper for Stellarium
+# Requires: apt install jq bc wget
+# Requires: Stellarium plugin enabled: Remote Control
+
+set +x
+if [ "x$1" == "x" ]; then
+  echo "day_move requires a positive or negative integer as an argument."
+  exit 0
+fi
+
+ADD=$1
+IP=127.0.0.1
+
+CUR=$(wget -O - -q http://$IP:8090/api/main/status | jq '.time.jday')
+DT=$( echo "${CUR} + ${ADD}" | bc -l )
+#echo $DT
+#echo $CUR
+wget -O - -q --post-data="time=${DT}" http://$IP:8090/api/main/time 2>/dev/null 1>/dev/null

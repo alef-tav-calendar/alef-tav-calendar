@@ -1,0 +1,23 @@
+#!/bin/bash
+# Desc: year_move helper for Stellarium
+# Requires: apt install jq bc wget
+# Requires: Stellarium plugin enabled: Remote Control
+
+set +x
+if [ "x$1" == "x" ]; then
+  echo "year_move requires a positive or negative integer as an argument."
+  exit 0
+fi
+
+ADD=$1
+IP=127.0.0.1
+
+ADD=$( echo "$1 * 365" | bc -l )
+LEAP=$( echo "$1 / 4" | bc -l | awk -F. '{print $1}' )
+echo $LEAP | egrep -q '[0-9]'
+if [ "$?" -eq "1" ]; then LEAP=0; fi
+CUR=$(wget -O - -q http://$IP:8090/api/main/status | jq '.time.jday')
+DT=$( echo "${CUR} + ${ADD} + ${LEAP}" | bc -l )
+echo $DT
+echo $CUR
+wget -O - -q --post-data="time=${DT}" http://$IP:8090/api/main/time
