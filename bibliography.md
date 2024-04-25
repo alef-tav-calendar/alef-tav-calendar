@@ -1,6 +1,6 @@
 NOTE: As this study is still preliminary research, this reference list will not be formatted in APA, MLA, etc. This reference document is also a work in progress.
 
-Often times, the video itself includes the URL on the screen from which this preliminary research information was obtained. I would try my best to use "Creative Commons" material from Google search filters as well as https://commons.wikimedia.org/ to avoid accidentally infringing on someone's copyrighted material.
+Often times, the video itself includes the URL on the screen from which this preliminary research information was obtained. I try my best to use "Creative Commons" material from Google search filters as well as https://commons.wikimedia.org/ to avoid accidentally infringing on someone's copyrighted material.
 
 ## Lexicons used are generally:
 - Brown-Driver-Briggs
