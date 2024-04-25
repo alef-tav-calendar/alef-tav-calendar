@@ -2,7 +2,7 @@ NOTE: As this study is still preliminary research, this reference list will not 
 
 Often times the video itself includes the URL on the screen from which this preliminary research information was obtained.  I would try my best to use "Creative Commons" material from Google search filters as well as https://commons.wikimedia.org/ so as to not accidently infringe on someone's copyright material.
 
-# Lexicons used are generally:
+## Lexicons used are generally:
 - Brown-Driver-Briggs
 - Strongs Dictionaries.
 - Ancient Hebrew Lexicon - Jeff Benner.
