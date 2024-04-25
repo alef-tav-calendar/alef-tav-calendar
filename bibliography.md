@@ -88,9 +88,9 @@ This chapter contains the references used to find the date October 21 -2726.
 - URLs seen in the video.
 - Genesis 1
 - The Wall Chart of World History, Edward Hull
--- This contained a list of suggested flood dates of which we got an average of -2751.
+    - This contained a list of suggested flood dates of which we got an average of -2751.
 - “Quintuple planetary groupings - Rarity, historical events and popular beliefs.”  by de Meis, S. & Meeus, J.  (vol.104, no.6, p.293-297). https://adsabs.harvard.edu/full/1994JBAA..104..293D
--- Contained a table of dates with the closest to -2751 being: October 21, -2726
+    - Contained a table of dates with the closest to -2751 being: October 21, -2726
 - https://www.chabad.org/library/article_cdo/aid/4529929/jewish/10-Facts-About-the-Month-of-Cheshvan-Every-Jew-Should-Know.htm
 
 
@@ -100,7 +100,7 @@ This chapter contains the references used to find the date October 21 -2726.
 - https://astrojourney.wordpress.com/tag/star-charts/
 - https://www.nasa.gov/mission_pages/NPP/news/earth-at-night.html
 - https://stellarium.org/
--- See stellarium.md for some configuration suggestions.
+    - See stellarium.md for some configuration suggestions.
 
 ## Chapter 12:
 - URLs seen in the video.
@@ -112,7 +112,7 @@ This chapter contains the references used to find the date October 21 -2726.
 - URLs seen in the video.
 - Genesis 6-8
 - https://www.worldweatheronline.com/lang/zh-hans/sharur-weather-averages/zanjan/ir.aspx
--- https://www.worldweatheronline.com/sharur-weather-averages/zanjan/ir.aspx
+    - https://www.worldweatheronline.com/sharur-weather-averages/zanjan/ir.aspx
 
 ## Chapter 14:
 - URLs seen in the video.
