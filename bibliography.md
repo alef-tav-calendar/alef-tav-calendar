@@ -29,8 +29,11 @@ Often times, the video itself includes the URL on the screen from which this pre
 
 ## Images
 - https://welcome.astrobin.com/
+- https://amazingsky.net/ 
 - https://commons.wikimedia.org/wiki/Main_Page
 - Google image search.
+
+NOTE: I've attempted some amount of due diligence to ensure that the AstroBin and AmazingSky photos contain the site and photographer's name within the video to credit them. The time and money they invest in the equipment they use to obtain these amazing photos are well deserving of credits.
 
 ## Chapter 1:
 - Space Suit Testing https://youtu.be/KO8L9tKR4CY
