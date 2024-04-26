@@ -2,23 +2,25 @@ NOTE: As this study is still preliminary research, this reference list will not 
 
 Often times, the video itself includes the URL on the screen from which this preliminary research information was obtained. I try my best to use "Creative Commons" material from Google search filters as well as https://commons.wikimedia.org/ to avoid accidentally infringing on someone's copyrighted material.
 
-## Lexicons used are generally:
-- Brown-Driver-Briggs
-- Strongs Dictionaries.
-- Ancient Hebrew Lexicon - Jeff Benner.
-
-## English and Hebrew bibles:
-- New King James
-- New American Standard
-- Youngs Literal
-- Hebrew bible (no need to "translate")
-
 ## Software used in the project:
 - https://stellarium.org/
 - https://www.gimp.org/
 - https://fontforge.org/
 - https://inkscape.org/
 - Stellarium Landscape Tutorial https://astro-geo-gis.com/how-to-make-the-custom-stellarium-landscape-using-street-view/
+- Logos/Libronix
+
+## Bibles used:
+- Hebrew
+- New King James
+- New American Standard
+- Youngs Literal
+
+## Lexicons used are generally:
+- Brown-Driver-Briggs
+- Strongs Dictionaries.
+- Ancient Hebrew Lexicon - Jeff Benner.
+- Gesenius Hebrew Lexicon
 
 ## Background music
 - Ancient Armenian Duduk Music (Creative Commons) https://www.youtube.com/watch?v=N_YCkwwIla8
@@ -156,89 +158,166 @@ This chapter contains the references used to find the date October 21 -2726.
 
 ## Chapter 19:
 - URLs seen in the video.
-- 
+- https://archive.org/details/GeseniusHebrewChaldeeLexiconOldTestamentScriptures.tregelles.1857.24/01.GesenHebChalLexOTS.Aleph.Tregelles1857.ggle.msft./
+- Gesenius and BDB Lexicons
+- Genesis 6-8, Deut 14
+- https://cosmicpursuits.com/tag/taurus/
+- https://en.wikipedia.org/wiki/Golden_Gate_of_the_Ecliptic
+
 
 ## Chapter 20:
 - URLs seen in the video.
-- 
+- https://www.youtube.com/watch?v=SukHJKTB-ho
+- https://youtu.be/J-X18jKmdzs?t=10
+- https://www.worldweatheronline.com/lang/zh-hans/sharur-weather-averages/zanjan/ir.aspx
+- https://www.astrobin.com/f6o5hc/?nc=group&nce=30&q=
+- https://www.astrobin.com/137754/
 
 ## Chapter 21:
 - URLs seen in the video.
-- 
+- https://archive.org/details/GeseniusHebrewChaldeeLexiconOldTestamentScriptures.tregelles.1857.24/02.GesenHebChalLexOTS.Beth.Tregelles1857.ggle.msft./
+- Genesis 6-8
+- https://en.wikipedia.org/wiki/Bet_(letter)
+- https://biblepathwayadventures.com/activities/learninghebrew-alphabet/
+- https://en.wikipedia.org/wiki/Houses_in_ancient_Sumeria
+- https://en.wikipedia.org/wiki/Four_room_house
+- https://sketchfab.com/3d-models/babylonian-spirit-house-07c31b1d7c194782ba8700f8ddd0ed1a
+- https://3dwarehouse.sketchup.com/model/bf06c8ce269ed73f9a41ee40a079fcc6/Israel-House-9-Archaeological-Four-Room-House-Pillared-House?hl=en
+- https://cosmicpursuits.com/2538/the-taurus-molecular-cloud/
+
 
 ## Chapter 22:
 - URLs seen in the video.
-- 
+- Genesis 6-8
+
 
 ## Chapter 23:
 - URLs seen in the video.
-- 
+- Genesis 6-8
 
 ## Chapter 24:
 - URLs seen in the video.
-- 
+- Psalm 25, Psalm 34, Psalm 119, Psalm 145, Lamentations 3
 
 ## Chapter 25:
 - URLs seen in the video.
-- 
+- Genesis 6-8
+- Psalm 119, Psalm 145, Psalm 111, Psalm 112
+- https://www.worldweatheronline.com/sharur-weather-averages/zanjan/ir.aspx
+- Wind Energy Resource Atlas of Armenia.  July 2003. By D. Elliott, M. Schwartz, G. Scott, S. Haymes, D. Heimiller, R. Geeorge.
+- https://www.weather-atlas.com/en/israel/jerusalem-climate
+- https://www.youtube.com/watch?v=iReC7WpveVs
+- https://www.worldweatheronline.com/sharur-weather-averages/zanjan/ir.aspx
 
 ## Chapter 26:
 - URLs seen in the video.
-- 
+- https://www.worldweatheronline.com/sharur-weather-averages/zanjan/ir.aspx
+- Genesis 6-8; Proverbs 4
+- https://www.youtube.com/watch?v=uFcZhH_wFbs
+- https://www.youtube.com/watch?v=NtF1GnObpPo&t=2712s
+- https://www.ancient-hebrew.org/ahlb/resh.html
+- BDB Lexicon
 
 ## Chapter 27:
 - URLs seen in the video.
-- 
+- Genesis 6-8
+- https://en.wikipedia.org/wiki/Apparent_retrograde_motion
+- https://en.wikipedia.org/wiki/Coat_of_arms_of_Armenia#/media/File:Coat_of_arms_of_Armenia.svg
+- https://commons.wikimedia.org/wiki/File:Exhibit_Showing_First_European_Rendering_of_Mt._Ararat_-_With_Noah%27s_Ark_-_Ishak_Pasa_Palace_-_Outside_Dogubayazit_-_Turkey_%285809367478%29.jpg
+- https://s3-us-west-2.amazonaws.com/tota-images/1584400912297-1d30dd0a287c2d2e.jpeg
+- https://www.mapsofworld.com/world-major-mountain.htm
+- https://en.wikipedia.org/wiki/List_of_brightest_stars#Table
+- https://www.worldweatheronline.com/lang/zh-hans/sharur-weather-averages/zanjan/ir.aspx
 
 ## Chapter 28:
 - URLs seen in the video.
-- 
+- https://miss604.com/2014/05/lions-gate-bridge-construction-photos.html
+- https://csce.ca/en/historic-site/lions-gate-bridge/
+- https://www.alltrails.com/trail/canada/british-columbia/the-west-lion
+- Google Maps
+- https://www.vancouverisawesome.com/local-news/nasa-features-vancouver-photographers-snap-of-nebulae-glowing-above-the-lions-photo-3573203
+- https://www.lirongertsman.com/
 
 ## Chapter 29:
 - URLs seen in the video.
-- 
+- Genesis 6-8
+- https://www.astronomynotes.com/starprop/s4.htm
+- Stellarium Manual - https://stellarium.org/files/guide.pdf
+- http://gerdbreitenbach.de/planet/planet.html
 
 ## Chapter 30:
 - URLs seen in the video.
+- Genesis 6-8, Psalm 19
+- https://marvel.bible/index.php?text=MAB&b=1&c=8&v=5
 - 
 
 ## Chapter 31:
 - URLs seen in the video.
-- 
+- Genesis 6-8 
+- https://commons.wikimedia.org/wiki/File:ESO_-_Milky_Way.jpg
+
 
 ## Chapter 32:
 - URLs seen in the video.
-- 
+- Genesis 6-8 
+- https://en.wikipedia.org/wiki/Hebrew_astronomy
 
 ## Chapter 33:
 - URLs seen in the video.
-- 
+- Genesis 6-8 
+- https://www.allaboutbirds.org/guide/Common_Raven/sounds
 
 ## Chapter 34:
 - URLs seen in the video.
-- 
+- Genesis 8
+- https://en.wikipedia.org/wiki/Regulus
+- https://www.youtube.com/watch?v=pSAu-wBvYHg
+- https://en.wikipedia.org/wiki/Prefixes_in_Hebrew
+- https://en.wikipedia.org/wiki/Vav-consecutive 
+- https://commons.wikimedia.org/wiki/File:Milky_way_map.png
 
 ## Chapter 35:
 - URLs seen in the video.
-- 
+- Genesis 8
+- https://www.worldweatheronline.com/lang/zh-hans/sharur-weather-averages/zanjan/ir.aspx
+- https://www.allaboutbirds.org/guide/Eurasian_Collared-Dove/photo-gallery/66035081
 
 ## Chapter 36:
 - URLs seen in the video.
-- 
+- Genesis 8
 
 ## Chapter 37:
 - URLs seen in the video.
-- 
+- Genesis 8
+- https://www.ancient-hebrew.org/ahlb/resh.html#7225  (Jeff A. Benner)
+- BDB Lexicon
+- https://en.wikipedia.org/wiki/Hebrew_calendar#Months
+- https://en.wikipedia.org/wiki/Tishrei
+- https://en.wikipedia.org/wiki/Adam_and_Eve
+- https://en.wikipedia.org/wiki/Rosh_Hashanah
+- BDB Lexicon
+- https://www.worldweatheronline.com/lang/zh-hans/sharur-weather-averages/zanjan/ir.aspx
+- https://en.wikipedia.org/wiki/Aras_(river)#/media/File:Aras_River,_Turkey-Armenia-Iran_Border_Region.JPG
+- https://unece.org/DAM/env/water/publications/assessment/English/H_PartIV_Chapter4_En.pdf
 
 ## Chapter 38:
 - URLs seen in the video.
-- 
+- Genesis 6-8
 
 ## Chapter 39:
 - URLs seen in the video.
-- 
+- Genesis 6-9; 1Kings 7
+- https://mars.nasa.gov/all-about-mars/night-sky/retrograde/
+- http://gerdbreitenbach.de/planet/planet.html
 
 ## Chapter 40:
 - URLs seen in the video.
-- 
+- Genesis 6-9,11, Isaiah 45-46, 2Chron 33, 2King 23, Jeremiah 8,19, Zephaniah 1, Acts 7, Acts 14, Joshuah 24, Daniel 1
+- https://en.wikipedia.org/wiki/MUL.APIN
+- https://en.wikipedia.org/wiki/Epic_of_Gilgamesh
+- https://en.wikipedia.org/wiki/Nabu
+- https://en.wikipedia.org/wiki/Hermes
+- https://en.wikipedia.org/wiki/Mercury_(mythology)
+- https://en.wikipedia.org/wiki/Thoth
+
 
