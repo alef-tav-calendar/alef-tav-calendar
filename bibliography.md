@@ -4,6 +4,7 @@ Often times, the video itself includes the URL on the screen from which this pre
 
 ## Software used in the project:
 - https://stellarium.org/
+- Leon Levy Dead Sea Scrolls Digital Library https://www.deadseascrolls.org.il/
 - https://www.gimp.org/
 - https://fontforge.org/
 - https://inkscape.org/
@@ -11,6 +12,7 @@ Often times, the video itself includes the URL on the screen from which this pre
 - Logos/Libronix
 
 ## Bibles used:
+- Leon Levy Dead Sea Scrolls Digital Library https://www.deadseascrolls.org.il/
 - Hebrew
 - New King James
 - New American Standard
