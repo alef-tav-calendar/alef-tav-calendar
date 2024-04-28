@@ -2,8 +2,9 @@
 This is a list of the Stellarium Software settings that I used in the videos.
 
 - Install Stellarium from https://stellarium.org/
-- Load in Aleph Bet constellation maps as a sky-culture. Available to download on this GitHub site.
-- Replace the default **milkyway.png** with a higher resolution version to see more details. Download it from this GitHub site in stellarium/milkyway.png.
+- Load in Aleph Bet constellation maps as a **skycultures**. Available to download on this GitHub site in the **stellarium/skycultures** and **stellarium/landscapes** folders.
+    - Refer to the Stellarium documentation for configuration folder locations: https://stellarium.org/doc/23.0/fileStructure.html
+- Replace the default **milkyway.png** with a higher resolution version to see more details. Download it from this GitHub site in **stellarium/milkyway.png**.
     - I also use higher resolution photos found through a Google image search outside of Stellarium.
 - **View Options** => **Sky** tab: Reduce the brightness of the stars by adjusting the Absolute scale down between 0.6 and 0.4. We only want to work with the brightest stars.
 - **View Options** => **Sky** tab: Later, you may want to increase the Milky Way Brightness.
@@ -11,7 +12,7 @@ This is a list of the Stellarium Software settings that I used in the videos.
     - Equinoxes (of date)
     - Solstices (of date)
     - Ecliptic (of date)
-- **View Options** => **Starlore** tab: As the edges of the letters overlap, it is useful to have two charts for even and odd letters. Place the Starlore dialogue off to the far right of the screen for easier toggling between charts.
+- **View Options** => **Starlore/Sky Culture** tab: As the edges of the letters overlap, it is useful to have two charts for even and odd letters. Place the Starlore/Sky Culture dialogue off to the far right of the screen for easier toggling between charts.
 Load in some landscapes from the area of Mount Ararat.
 - The view and angle of the stars change with your location on Earth. I’ll use the following locations:
     - Jerusalem (built-in)
