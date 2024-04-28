@@ -19,7 +19,7 @@ Load in some landscapes from the area of Mount Ararat.
     - Egypt (built-in)
     - Yerevan, Western Asia (built-in) - near Mount Ararat.
     - Mt Sinai (added) N28 32’ 21.90”, E33 58’ 31.51”, elevation 2285m
-    - Ur, Iraq
+    - Ur, Iraq (added) N30 57' 42.00", E45 6' 18.00", elevation 18m
     - I will also sometimes use the tiny map to click on areas along the Tigris and Euphrates. These rivers are mentioned early in Genesis.
 - I was a bit concerned about the accuracy of the location of solar system objects. The Stellarium manual Appendix F contains information about the accuracy. I did load in NASA’s Jet Propulsion Laboratory ephemeris files DE441 and DE431 files from https://ssd.jpl.nasa.gov/orbits.html.
 - The default Stellarium locations of the moon and our solar system are close enough estimates for the purpose of this calendar system. I did test loading in DE441 and DE431 indexes into Stellarium to compare the locations of the sun, moon, and planets around the year -4500. The Stellarium default locations are adequate for this map without additional Ephemeris files.
