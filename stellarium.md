@@ -1,5 +1,5 @@
 ## Stellarium Configuration for Alef-Tav Calendar Videos
-This is a list of the Stellarium Software settings that I used in the videos.
+This is a list of the Stellarium Software settings that I use in this Alef-Tav Calendar research project.
 
 - Install Stellarium from https://stellarium.org/
 - Load in Aleph Bet constellation maps as a **skycultures**. Available to download on this GitHub site in the **stellarium/skycultures** and **stellarium/landscapes** folders.
