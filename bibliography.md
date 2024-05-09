@@ -11,7 +11,9 @@ Often times, the video itself includes the URL on the screen from which this pre
 - Stellarium Landscape Tutorial https://astro-geo-gis.com/how-to-make-the-custom-stellarium-landscape-using-street-view/
 - Logos/Libronix https://app.logos.com/
 - Skychart (Cartes du Ciel) https://www.ap-i.net/skychart/en/download
-- Tychosium https://codepen.io/pholmq/full/XGPrPd ( Visitor suggested this simulator for retrograde motions.  Moon, Earth, Sun and planets align on -2726-10-21 however Jupiter and Saturn are slightly offset )
+  ( Used to check solar system objects with those seen in Stellarium. )
+- Tychosium https://codepen.io/pholmq/full/XGPrPd 
+  ( Visitor suggested this simulator for retrograde motions.  Moon, Earth, Sun and planets align on -2726-10-21 however Jupiter and Saturn are slightly offset )
 
 ## Bibles used:
 - Leon Levy Dead Sea Scrolls Digital Library https://www.deadseascrolls.org.il/
