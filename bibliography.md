@@ -9,7 +9,9 @@ Often times, the video itself includes the URL on the screen from which this pre
 - https://fontforge.org/
 - https://inkscape.org/
 - Stellarium Landscape Tutorial https://astro-geo-gis.com/how-to-make-the-custom-stellarium-landscape-using-street-view/
-- Logos/Libronix
+- Logos/Libronix https://app.logos.com/
+- Skychart (Cartes du Ciel) https://www.ap-i.net/skychart/en/download
+- Tychosium https://codepen.io/pholmq/full/XGPrPd ( Visitor suggested this simulator for retrograde motions.  Moon, Earth, Sun and planets align on -2726-10-21 however Jupiter and Saturn are slightly offset )
 
 ## Bibles used:
 - Leon Levy Dead Sea Scrolls Digital Library https://www.deadseascrolls.org.il/
@@ -325,4 +327,12 @@ This chapter contains the references used to find the date October 21 -2726.
 - https://en.wikipedia.org/wiki/Mercury_(mythology)
 - https://en.wikipedia.org/wiki/Thoth
 
-
+## Chapter 41:
+- URLs seen in the video.
+- Psalm 19, Genesis 7, Job 38-41, Prov 25
+- https://skyandtelescope.org/sky-and-telescope-magazine/m17-the-nebula-with-too-many-names/
+- https://www.astrobin.com/
+- https://amazingsky.net/
+- https://commons.wikimedia.org/wiki/File:ESO_-_Milky_Way.jpg
+- https://www.pexels.com/photo/the-milky-way-in-space-7886837/
+- https://commons.m.wikimedia.org/wiki/File:Dark_horse_-_Flickr_-_HypatiaPhoto.jpg
