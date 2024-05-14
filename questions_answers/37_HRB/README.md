@@ -9,10 +9,9 @@ There is 3 layers of understanding a semitic word:
 
 Here, I specify that it is the same word in Hebrew and Arabic, same semantic field:
 - in Hebrew, the term can mean a land deprived of something (water or other),
-    - HR is حر in Arabic and חר in Hebrew 
 - in Arabic it is to deprive something or someone of property or life (war). 
 
-HR is essentially about privacy.
+HR is حر in Arabic and חר in Hebrew.  HR is essentially about privacy.
 
 (In regard to texts that are sacred to cultures):
 - Arabic is the best language to understand the Qur'an
@@ -29,7 +28,7 @@ Refrence:
 
 My replies summarized:
 
-I agree that the word (חרב) has multiple definitions in Hebrew.
+I have not studied Arabic, so my understanding of that language it's culture is limited.  I agree that the word (חרב) has multiple definitions in Hebrew.
 
 According to the Brown-Driver-Briggs Lexicon, the same 3-letter word has the following definitions:
 I) be dry, drought
@@ -46,6 +45,6 @@ Similar to BDB lexicon - Google Translate also provides similar translations und
 
 Regarding Jeff Benner, I reference his work because it aligns with the BDB lexicon in grouping words with similar meanings.  I try my best to use multiple references in this research.
 
-Unfortunately, the broad topics of Qabbalists, Arabic, Christian, and Islam are currently outside the scope of this research project. These topics emerge thousands of years after the Noah Narrative.
+Unfortunately, the broad topics of Qabbalists, Guematria, Arabic, Christian, and Islam are currently outside the scope of this research project. These topics emerge thousands of years after the Noah Narrative.
 
 Thank you.
