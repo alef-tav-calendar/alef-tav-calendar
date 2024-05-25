@@ -338,3 +338,24 @@ This chapter contains the references used to find the date October 21 -2726.
 - https://commons.wikimedia.org/wiki/File:ESO_-_Milky_Way.jpg
 - https://www.pexels.com/photo/the-milky-way-in-space-7886837/
 - https://commons.m.wikimedia.org/wiki/File:Dark_horse_-_Flickr_-_HypatiaPhoto.jpg
+- Google image search using site:
+    - https://www.google.com/search?q=milkyway+site:astrobin.com&tbm=isch
+    - https://www.google.com/search?q=milkyway+site:amazingsky.net&tbm=isch
+    - https://www.google.com/search?q=milkyway+site:apod.nasa.gov&tbm=isch
+- https://www.deadseascrolls.org.il/explore-the-archive/image/B-499040
+- https://commons.wikimedia.org/wiki/File:Removable_Hard_Disk_unit_14_inches_BJ7E2-A_United_Peripheral_Limited_1986.jpg
+- https://en.wikipedia.org/wiki/Antikythera_mechanism#/media/File:NAMA_Machine_d'Anticyth%C3%A8re_1.jpg
+
+## Chapter 42:
+- URLs seen in the video.
+- Job 38:39-41
+- https://en.wikipedia.org/wiki/Regulus#Etymology_and_cultural_associations
+- https://www.history.com/news/why-is-purple-considered-the-color-of-royalty
+- https://biblearchaeology.org/research/topics/amazing-discoveries-in-biblical-archaeology/4813-the-color-purple-in-ancient-israel
+- https://www.youtube.com/watch?v=IVXqisH6VeM
+
+## Upcoming Chapter
+- Another lion
+- Milky Way Cygnus Region and Beyond - 2020-10-23 by Stuart Rawson
+    - https://www.astrobin.com/full/y1l4q0/0/
+
