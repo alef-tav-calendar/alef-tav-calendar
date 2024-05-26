@@ -349,6 +349,8 @@ This chapter contains the references used to find the date October 21 -2726.
 ## Chapter 42:
 - URLs seen in the video.
 - Job 38:39-41
+- Milky Way Panorama 2017-06-01 by Wei-Hao Wang
+    - https://www.astrobin.com/full/298047/0/  
 - https://en.wikipedia.org/wiki/Regulus#Etymology_and_cultural_associations
 - https://www.history.com/news/why-is-purple-considered-the-color-of-royalty
 - https://biblearchaeology.org/research/topics/amazing-discoveries-in-biblical-archaeology/4813-the-color-purple-in-ancient-israel
