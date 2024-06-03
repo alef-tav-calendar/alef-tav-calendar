@@ -356,8 +356,25 @@ This chapter contains the references used to find the date October 21 -2726.
 - https://biblearchaeology.org/research/topics/amazing-discoveries-in-biblical-archaeology/4813-the-color-purple-in-ancient-israel
 - https://www.youtube.com/watch?v=IVXqisH6VeM
 
+## Chapter 43:
+- Job 38:39-40
+- Milky Way Panorama 2017-06-01 by Wei-Hao Wang
+    - https://www.astrobin.com/full/298047/0/  
+- Alphabetical acrostic poems that use "hand" for the letter Yod.
+    - Psalm 119:73; Proverbs 31:19; Lamentations 1:10; Lamentations 4:10
+- Genesis 49:8-9 "Judah is a lion's whelp".  Paleo Hebrew Yod nebulae also contains a shape resembling a lion cub.  Sound of a lion cubs are similar to Yod.
+    - https://www.youtube.com/watch?v=r-uva9Ypd8Y 
+    - https://www.tiktok.com/@sleepybaby_animals/video/7157185175967812910 
+    - https://www.tiktok.com/@hesamsey/video/7251688423310789893
+    - https://www.youtube.com/watch?v=QBjKntYuUIk
+- Three different tribes are described using lions.
+    - Genesis 49:8-12 - Judah ( what this chapter focused on )
+    - Deuteronomy 33:20-21 - Gad
+    - Deuteronomy 33:22 - Dan
+
 ## Upcoming Chapter
 - Another lion
 - Milky Way Cygnus Region and Beyond - 2020-10-23 by Stuart Rawson
     - https://www.astrobin.com/full/y1l4q0/0/
+- TODO: present the study on how the tribes fit into this calendar system.
 
