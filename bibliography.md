@@ -12,8 +12,10 @@ Often times, the video itself includes the URL on the screen from which this pre
 - Logos/Libronix https://app.logos.com/
 - Skychart (Cartes du Ciel) https://www.ap-i.net/skychart/en/download
   ( Used to check solar system objects with those seen in Stellarium. )
-- Tychosium https://codepen.io/pholmq/full/XGPrPd 
-  ( Visitor suggested this simulator for retrograde motions.  Moon, Earth, Sun and planets align on -2726-10-21 however Jupiter and Saturn are slightly offset )
+- Tychosium https://ts.tychos.space/ 
+  - Visitor suggested this simulator for retrograde motions.
+  - Moon, Earth, Sun and planets align on -2726-10-21 however Saturn is slightly offset.
+  - Update - in late May early June 2024, the author, Simon, is working on an update to fix a discrepancy in Saturn. 
 
 ## Bibles used:
 - Leon Levy Dead Sea Scrolls Digital Library https://www.deadseascrolls.org.il/
@@ -374,8 +376,13 @@ This chapter contains the references used to find the date October 21 -2726.
 
 ## Chapter 44:
 - Job 38:39-40
+- Ezekiel's varios descriptions of cherubim.
+- Daniel 7 descriptions of creatures symbolizing nations.
 - Milky Way Panorama 2017-06-01 by Wei-Hao Wang
     - https://www.astrobin.com/full/298047/0/  
+- https://en.wikipedia.org/wiki/Beth_Alpha
+- https://en.wikipedia.org/wiki/Zodiac
+
 
 ## Upcoming Chapters
 - TODO: next two lions.
