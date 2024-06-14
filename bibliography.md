@@ -377,15 +377,22 @@ This chapter contains the references used to find the date October 21 -2726.
 ## Chapter 44:
 - Job 38:39-40
 - Ezekiel's varios descriptions of cherubim.
+- Exodus 26 description of veil.
+    - https://www.youtube.com/watch?v=z_MbQH3RqgM
 - Daniel 7 descriptions of creatures symbolizing nations.
+- Josephus. Wars 5.5.4
 - Milky Way Panorama 2017-06-01 by Wei-Hao Wang
     - https://www.astrobin.com/full/298047/0/  
 - https://en.wikipedia.org/wiki/Beth_Alpha
 - https://en.wikipedia.org/wiki/Zodiac
+- https://isaw.nyu.edu/exhibitions/time-cosmos/objects/drachma-double-zodiac
+- https://www.youtube.com/shorts/WB-4nI2RPn8
+- https://en.wikipedia.org/wiki/Josephus
+- https://www.freebibleimages.org/illustrations/ktb-bible-empires/ Maps by Cory Baugher.
 
 
 ## Upcoming Chapters
-- TODO: next two lions.
+- TODO: last lion.
 - Milky Way Cygnus Region and Beyond - 2020-10-23 by Stuart Rawson
     - https://www.astrobin.com/full/y1l4q0/0/
 - TODO: present the time tracking system hidden in the names from Adam...
