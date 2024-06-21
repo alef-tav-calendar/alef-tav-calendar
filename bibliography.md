@@ -390,11 +390,14 @@ This chapter contains the references used to find the date October 21 -2726.
 - https://en.wikipedia.org/wiki/Josephus
 - https://www.freebibleimages.org/illustrations/ktb-bible-empires/ Maps by Cory Baugher.
 
+## Chapter 45:
+- Job 38:39-40
+- Genesis 49; Deuteronomy 33
+- Milky Way Panorama 2017-06-01 by Wei-Hao Wang
+    - https://www.astrobin.com/full/298047/0/  
 
 ## Upcoming Chapters
-- TODO: last lion.
-- Milky Way Cygnus Region and Beyond - 2020-10-23 by Stuart Rawson
-    - https://www.astrobin.com/full/y1l4q0/0/
-- TODO: present the time tracking system hidden in the names from Adam...
 - TODO: present the study on how the tribes fit into this calendar system.
-
+- TODO: present the time tracking system hidden in the names from Adam...
+- TODO: present Seven Sabbath Year cycle.
+- TODO: Wait to see if Israel Antiquities Authority can decrypt the Israel file.  Some of this research should be only presented to the people of the book.
