@@ -396,6 +396,16 @@ This chapter contains the references used to find the date October 21 -2726.
 - Milky Way Panorama 2017-06-01 by Wei-Hao Wang
     - https://www.astrobin.com/full/298047/0/  
 
+## Chapter 46:
+- Job 39:1-4
+- Milky Way Panorama 2017-06-01 by Wei-Hao Wang
+    - https://www.astrobin.com/full/298047/0/  
+- https://he.wikipedia.org/wiki/%D7%99%D7%A2%D7%9C_%D7%A0%D7%95%D7%91%D7%99
+- https://en.wikipedia.org/wiki/Nubian_ibex
+- https://en.wikipedia.org/wiki/Roe_deer
+- https://en.wikipedia.org/wiki/Arabian_oryx
+- https://www.youtube.com/watch?v=l7MZPzELB5o&t=351s
+
 ## Upcoming Chapters
 - TODO: present the study on how the tribes fit into this calendar system.
 - TODO: present the time tracking system hidden in the names from Adam...
