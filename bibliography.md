@@ -406,6 +406,25 @@ This chapter contains the references used to find the date October 21 -2726.
 - https://en.wikipedia.org/wiki/Arabian_oryx
 - https://www.youtube.com/watch?v=l7MZPzELB5o&t=351s
 
+## Chapter 47:
+- Job 39:5-8
+- https://he.wikipedia.org/wiki/%D7%A4%D7%A8%D7%90
+- https://en.wikipedia.org/wiki/Onager
+- https://he.wikipedia.org/wiki/%D7%A2%D7%A8%D7%95%D7%93
+- https://en.wikipedia.org/wiki/African_wild_ass
+- https://commons.wikimedia.org/wiki/File:ESO_-_Milky_Way.jpg
+- Milky Way Panorama 2017-06-01 by Wei-Hao Wang
+    - https://www.astrobin.com/full/298047/0/  
+- Astronomy Picture of the Day July 10, 2011 - Credit & Copyright: John P. Gleason, Celestial Images
+    - https://apod.nasa.gov/apod/ap110710.html
+- By Christophe cagé - travail personnel (own work) - based on Equids : zebras, asses and horses : status survey and conservation action plan - IUCN - 2002 - PDF - page 63., CC BY-SA 3.0, https://commons.wikimedia.org/w/index.php?curid=6067504
+- https://www.flickr.com/photos/kgabhi/26090013751
+- IchthyovenatorSémhur (base map), CC BY-SA 4.0 <https://creativecommons.org/licenses/by-sa/4.0>, via Wikimedia Commons
+- George Willis Botsford Ph.D. (1862-1917), Public domain, via Wikimedia Commons
+- Learning videos on Wild Donkey:
+    - https://www.youtube.com/watch?v=3bTHmGc2QKc
+    - https://www.youtube.com/watch?v=pyfjcLtTMeI
+
 ## Upcoming Chapters
 - TODO: present the study on how the tribes fit into this calendar system.
 - TODO: present the time tracking system hidden in the names from Adam...
