@@ -350,7 +350,7 @@ This chapter contains the references used to find the date October 21 -2726.
 
 ## Chapter 42:
 - URLs seen in the video.
-- Job 38:39-41
+- Job 38:39-41 Lion
 - Milky Way Panorama 2017-06-01 by Wei-Hao Wang
     - https://www.astrobin.com/full/298047/0/  
 - https://en.wikipedia.org/wiki/Regulus#Etymology_and_cultural_associations
@@ -359,7 +359,7 @@ This chapter contains the references used to find the date October 21 -2726.
 - https://www.youtube.com/watch?v=IVXqisH6VeM
 
 ## Chapter 43:
-- Job 38:39-40
+- Job 38:39-40 Lion
 - Milky Way Panorama 2017-06-01 by Wei-Hao Wang
     - https://www.astrobin.com/full/298047/0/  
 - Alphabetical acrostic poems that use "hand" for the letter Yod.
@@ -375,7 +375,7 @@ This chapter contains the references used to find the date October 21 -2726.
     - Deuteronomy 33:22 - Dan
 
 ## Chapter 44:
-- Job 38:39-40
+- Job 38:39-41 Lion & Raven
 - Ezekiel's varios descriptions of cherubim.
 - Exodus 26 description of veil.
     - https://www.youtube.com/watch?v=z_MbQH3RqgM
@@ -391,13 +391,13 @@ This chapter contains the references used to find the date October 21 -2726.
 - https://www.freebibleimages.org/illustrations/ktb-bible-empires/ Maps by Cory Baugher.
 
 ## Chapter 45:
-- Job 38:39-40
+- Job 38:39-40 Lion
 - Genesis 49; Deuteronomy 33
 - Milky Way Panorama 2017-06-01 by Wei-Hao Wang
     - https://www.astrobin.com/full/298047/0/  
 
 ## Chapter 46:
-- Job 39:1-4
+- Job 39:1-4 Wild Goat
 - Milky Way Panorama 2017-06-01 by Wei-Hao Wang
     - https://www.astrobin.com/full/298047/0/  
 - https://he.wikipedia.org/wiki/%D7%99%D7%A2%D7%9C_%D7%A0%D7%95%D7%91%D7%99
@@ -407,7 +407,7 @@ This chapter contains the references used to find the date October 21 -2726.
 - https://www.youtube.com/watch?v=l7MZPzELB5o&t=351s
 
 ## Chapter 47:
-- Job 39:5-8
+- Job 39:5-8 Wild Donkey
 - https://he.wikipedia.org/wiki/%D7%A4%D7%A8%D7%90
 - https://en.wikipedia.org/wiki/Onager
 - https://he.wikipedia.org/wiki/%D7%A2%D7%A8%D7%95%D7%93
@@ -425,6 +425,8 @@ This chapter contains the references used to find the date October 21 -2726.
     - https://www.youtube.com/watch?v=3bTHmGc2QKc
     - https://www.youtube.com/watch?v=pyfjcLtTMeI
 
+## Chapter 48:
+- Job 39:9-12 Wild Ox
 ## Upcoming Chapters
 - TODO: present the study on how the tribes fit into this calendar system.
 - TODO: present the time tracking system hidden in the names from Adam...
