@@ -427,6 +427,18 @@ This chapter contains the references used to find the date October 21 -2726.
 
 ## Chapter 48:
 - Job 39:9-12 Wild Ox
+- Lexicons: BDB, Strongs, Gesenius.
+- https://en.wikipedia.org/wiki/Aurochs
+- https://en.wikipedia.org/wiki/Rhinoceros
+- https://www.google.com/search?q=manger+israel&tbm=isch
+- https://en.wikipedia.org/wiki/Plough
+- https://www.redargentina.com/spiritual-significance-of-threshing-floor/
+- https://authenticinfluence.files.wordpress.com/2013/07/threshing-floor.jpg
+- https://biblereadingarcheologydotcom.files.wordpress.com/2016/03/threshing-floor-jerusalem.jpg?w=1024
+- https://commons.wikimedia.org/wiki/File:ESO_-_Milky_Way.jpg
+- Milky Way Panorama 2017-06-01 by Wei-Hao Wang
+    - https://www.astrobin.com/full/298047/0/  
+
 ## Upcoming Chapters
 - TODO: present the study on how the tribes fit into this calendar system.
 - TODO: present the time tracking system hidden in the names from Adam...
