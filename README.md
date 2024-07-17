@@ -19,7 +19,7 @@ Instructions to help with this Alef-Tav Calendar research project.
 1) Use the descriptions of creatures listed Job 38:39 to Job 40.
 
 2) Use photos of the milk way as viewed from northern hemisphere.  Try to use wider naked-eye views instead of close telescope views.
- - [Astrobin](]https://www.google.com/search?q=milkyway+site:astrobin.com&tbm=isch) Google image search.
+ - [Astrobin](https://www.google.com/search?q=milkyway+site:astrobin.com&tbm=isch) Google image search.
  - [Amazing Sky](https://www.google.com/search?q=milkyway+site:amazingsky.net&tbm=isch) Google image search.
  - [NASA Astronomy Picture of the Day](https://www.google.com/search?q=milkyway+site:apod.nasa.gov&tbm=isch) Google image search.
  - [Gigapan Milky Way Center](https://www.gigapan.com/gigapans/181643/options/nosnapshots,fullscreen/iframe/flash.html?height=1920) by Rafael Defavari.
