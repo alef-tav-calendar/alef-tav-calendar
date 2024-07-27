@@ -438,6 +438,13 @@ This chapter contains the references used to find the date October 21 -2726.
 - https://commons.wikimedia.org/wiki/File:ESO_-_Milky_Way.jpg
 - Milky Way Panorama 2017-06-01 by Wei-Hao Wang
     - https://www.astrobin.com/full/298047/0/  
+- https://www.youtube.com/watch?v=Mdgn2KyDCYE
+- https://www.youtube.com/watch?v=iReC7WpveVs
+- https://commons.wikimedia.org/wiki/File:The_Phillip_Medhurst_Picture_Torah_450._Worshipping_the_golden_calf._Exodus_cap_32_vv_5-6._Dutch_Picture_Torah.jpg
+- https://www.flickr.com/photos/firewalljc/3933346067/in/photostream/
+- https://www.flickr.com/photos/anitagould/4137026215
+- https://animalia.bio/sand-cat
+
 
 ## Upcoming Chapters
 - TODO: present the study on how the tribes fit into this calendar system.
