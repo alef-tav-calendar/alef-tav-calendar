@@ -22,11 +22,11 @@ Often times, the video itself includes the URL on the screen from which this pre
 - Hebrew
 - New King James
 - New American Standard
-- Youngs Literal
+- Young's Literal
 
 ## Lexicons used are generally:
 - Brown-Driver-Briggs
-- Strongs Dictionaries.
+- Strong's Dictionaries.
 - Ancient Hebrew Lexicon - Jeff Benner.
 - Gesenius Hebrew Lexicon
 
@@ -41,25 +41,25 @@ Often times, the video itself includes the URL on the screen from which this pre
 
 NOTE: I've attempted some amount of due diligence to ensure that the AstroBin and AmazingSky photos contain the site and photographer's name within the video to credit them. The time and money they invest in the equipment they use to obtain these amazing photos are well deserving of credits.
 
-## Chapter 1:
+## Chapter 1: An ancient map.
 - Space Suit Testing https://youtu.be/KO8L9tKR4CY
 - https://en.wikipedia.org/wiki/Gaia_(spacecraft)
 - Psalm 19, Genesis 15, Deuteronomy 1, Hebrews 11, Romans 4
 
-## Chapter 2:
+## Chapter 2: Boy discovers ancient inscription in a tunnel of water!
 - URLs seen in the video.
 - Siloam Inscription https://www.wikiwand.com/en/Siloam_inscription#:~:text=Jacob%20was%20above%20the%20average,discovered%20the%20Siloam%20Inscription
 
-## Chapter 3:
+## Chapter 3: Shepherd boy discovers priceless Scrolls in a cave!
 - URLs seen in the video.
 - Leon Levy Dead Sea Scrolls Digital Library https://www.deadseascrolls.org.il/
 
-## Chapter 4:
+## Chapter 4: What would our world be like without an alphabet?
 - URLs seen in the video.
 - Psalm 119 scroll. 11Q5 Psa(a)
 - Psalm 119
 
-## Chapter 5:
+## Chapter 5: Do the heavens declare the glory of God?
 - URLs seen in the video.
 - https://en.wikipedia.org/wiki/Biblical_poetry
 - https://en.wikipedia.org/wiki/Chiastic_structure
@@ -67,14 +67,14 @@ NOTE: I've attempted some amount of due diligence to ensure that the AstroBin an
 - Psalm 19, Psalm 119
 - https://en.wikipedia.org/wiki/Ecliptic
 
-## Chapter 6:
+## Chapter 6: Does the scripture contain astrology?
 - URLs seen in the video.
 - Genesis 1, Genesis 15, Psalm 19, Psalm 119, Deuteronomy 4, 17, 2 Kings 21, 2 Kings 23, Jeremiah 8, Ezekiel 8, Isaiah 47, Acts 7
 - Jewish Mishneh https://www.sefaria.org/
 - Catholic Astrology https://www.catholic.com/tract/astrology
 
 
-## Chapter 7:
+## Chapter 7: Hebrew Bible originates from Egypt and Babylon!?
 - URLs seen in the video.
 - https://en.wikipedia.org/wiki/Proto-Sinaitic_script
 - https://www.academia.edu/6916402
@@ -82,12 +82,12 @@ NOTE: I've attempted some amount of due diligence to ensure that the AstroBin an
 - https://en.wikipedia.org/wiki/Genesis_flood_narrative#Comparative_mythology
 - Zephaniah 3
 
-## Chapter 8:
+## Chapter 8: Shapes and patterns in the stars?
 - URLs seen in the video.
 - https://spaceweather.com/archive.php?view=1&day=31&month=08&year=2022
 - https://soho.nascom.nasa.gov/hotshots/2021_11_04/
 
-## Chapter 9:
+## Chapter 9: Does the Hebrew Alef-Bet align with the stars on the ecliptic?
 - URLs seen in the video.
 - https://www.deadseascrolls.org.il/featured-scrolls
 - Exodus 13, Genesis 1, Psalm 19, Psalm 119
@@ -95,8 +95,9 @@ NOTE: I've attempted some amount of due diligence to ensure that the AstroBin an
 - https://www.earthspacelab.com/app/earth-revolution/
 - https://www.solarsystemscope.com/
 - 11Q-1 Paleo-Lev Hebrew Alphabet
+- http://www.paleohebrewdss.com/database/tables/
 
-## Chapter 10:
+## Chapter 10: Does a planetary conjunction mark the date of the flood?
 This chapter contains the references used to find the date October 21 -2726.
 - URLs seen in the video.
 - Genesis 1
@@ -107,7 +108,7 @@ This chapter contains the references used to find the date October 21 -2726.
 - https://www.chabad.org/library/article_cdo/aid/4529929/jewish/10-Facts-About-the-Month-of-Cheshvan-Every-Jew-Should-Know.htm
 
 
-## Chapter 11:
+## Chapter 11: Navigating the Noah narrative with a star map!
 - URLs seen in the video.
 - Genesis 6-9
 - https://astrojourney.wordpress.com/tag/star-charts/
@@ -115,29 +116,29 @@ This chapter contains the references used to find the date October 21 -2726.
 - https://stellarium.org/
     - See stellarium.md for some configuration suggestions.
 
-## Chapter 12:
+## Chapter 12: Testing the calendar. Counting from October 21,-2726
 - URLs seen in the video.
 - Genesis 1,6-9
 - https://marvel.bible/index.php?text=MIB&b=1&c=6&v=17
 - BDB Lexicon
 
-## Chapter 13:
+## Chapter 13: Testing the calendar. Mem means water.
 - URLs seen in the video.
 - Genesis 6-8
 - https://www.worldweatheronline.com/lang/zh-hans/sharur-weather-averages/zanjan/ir.aspx
     - https://www.worldweatheronline.com/sharur-weather-averages/zanjan/ir.aspx
 
-## Chapter 14:
+## Chapter 14: Testing the calendar. The monkey, the fish, and the house.
 - URLs seen in the video.
 - Genesis 6-8, Psalm 119, Lamentations 3
 - https://marvel.bible/index.php?text=MIB&b=1&c=7&v=4
 - https://javascripture.org/#/Genesis/6/1/
 
-## Chapter 15:
+## Chapter 15: Fountains and floodgates - Ancient data preservation.
 - URLs seen in the video.
 - Genesis 6-8
 
-## Chapter 16:
+## Chapter 16: High mountains covered by water?
 - URLs seen in the video.
 - Genesis 6-8
 - http://www.about-jesus.org/all-bible-places-map.htm
@@ -146,12 +147,12 @@ This chapter contains the references used to find the date October 21 -2726.
 - https://www.google.com/maps/d/viewer?mid=11yi4ua9sOlGtytpKYP-CMO_kdWw&hl=en_US&ll=36.47190974791546%2C48.22621580832592&z=5
 - https://www.mapsofworld.com/world-major-mountain.htm
 
-## Chapter 17:
+## Chapter 17: An Ark constellation? (תבה)
 - URLs seen in the video.
 - Genesis 6-8
 - BDB Lexicon
 
-## Chapter 18:
+## Chapter 18: Pondering the problems with pareidolia in the stars.
 - URLs seen in the video.
 - Romans 1
 - https://en.wikipedia.org/wiki/List_of_astronomical_catalogues
@@ -167,7 +168,7 @@ This chapter contains the references used to find the date October 21 -2726.
 - https://en.wikipedia.org/wiki/Pareidolia
 - https://www.karger.com/Article/Abstract/512129
 
-## Chapter 19:
+## Chapter 19: Decoding Alef: An Ox shape in the nebula?
 - URLs seen in the video.
 - https://archive.org/details/GeseniusHebrewChaldeeLexiconOldTestamentScriptures.tregelles.1857.24/01.GesenHebChalLexOTS.Aleph.Tregelles1857.ggle.msft./
 - Gesenius and BDB Lexicons
@@ -176,7 +177,7 @@ This chapter contains the references used to find the date October 21 -2726.
 - https://en.wikipedia.org/wiki/Golden_Gate_of_the_Ecliptic
 
 
-## Chapter 20:
+## Chapter 20: Decoding Gimel: A camel shape in the nebula?
 - URLs seen in the video.
 - https://www.youtube.com/watch?v=SukHJKTB-ho
 - https://youtu.be/J-X18jKmdzs?t=10
@@ -184,7 +185,7 @@ This chapter contains the references used to find the date October 21 -2726.
 - https://www.astrobin.com/f6o5hc/?nc=group&nce=30&q=
 - https://www.astrobin.com/137754/
 
-## Chapter 21:
+## Chapter 21: Decoding Beth: a House shape in the nebula?
 - URLs seen in the video.
 - https://archive.org/details/GeseniusHebrewChaldeeLexiconOldTestamentScriptures.tregelles.1857.24/02.GesenHebChalLexOTS.Beth.Tregelles1857.ggle.msft./
 - Genesis 6-8
@@ -197,20 +198,20 @@ This chapter contains the references used to find the date October 21 -2726.
 - https://cosmicpursuits.com/2538/the-taurus-molecular-cloud/
 
 
-## Chapter 22:
+## Chapter 22: Decoding Dawlet as Door and Hey as Window
 - URLs seen in the video.
 - Genesis 6-8
 
 
-## Chapter 23:
+## Chapter 23: At 40 days end
 - URLs seen in the video.
 - Genesis 6-8
 
-## Chapter 24:
+## Chapter 24: Decoding an Ayin nebula: an Eye, a Spring
 - URLs seen in the video.
 - Psalm 25, Psalm 34, Psalm 119, Psalm 145, Lamentations 3
 
-## Chapter 25:
+## Chapter 25: Decoding Samek constellation: to support, to sustain.
 - URLs seen in the video.
 - Genesis 6-8
 - Psalm 119, Psalm 145, Psalm 111, Psalm 112
@@ -220,7 +221,7 @@ This chapter contains the references used to find the date October 21 -2726.
 - https://www.youtube.com/watch?v=iReC7WpveVs
 - https://www.worldweatheronline.com/sharur-weather-averages/zanjan/ir.aspx
 
-## Chapter 26:
+## Chapter 26: Decoding Qof and Resh: a Monkey and a Head.
 - URLs seen in the video.
 - https://www.worldweatheronline.com/sharur-weather-averages/zanjan/ir.aspx
 - Genesis 6-8; Proverbs 4
@@ -229,7 +230,7 @@ This chapter contains the references used to find the date October 21 -2726.
 - https://www.ancient-hebrew.org/ahlb/resh.html
 - BDB Lexicon
 
-## Chapter 27:
+## Chapter 27: Decrypting the day the ark rested.
 - URLs seen in the video.
 - Genesis 6-8
 - https://en.wikipedia.org/wiki/Apparent_retrograde_motion
@@ -240,7 +241,7 @@ This chapter contains the references used to find the date October 21 -2726.
 - https://en.wikipedia.org/wiki/List_of_brightest_stars#Table
 - https://www.worldweatheronline.com/lang/zh-hans/sharur-weather-averages/zanjan/ir.aspx
 
-## Chapter 28:
+## Chapter 28: Are those real lions off in the distance?
 - URLs seen in the video.
 - https://miss604.com/2014/05/lions-gate-bridge-construction-photos.html
 - https://csce.ca/en/historic-site/lions-gate-bridge/
@@ -249,36 +250,36 @@ This chapter contains the references used to find the date October 21 -2726.
 - https://www.vancouverisawesome.com/local-news/nasa-features-vancouver-photographers-snap-of-nebulae-glowing-above-the-lions-photo-3573203
 - https://www.lirongertsman.com/
 
-## Chapter 29:
+## Chapter 29: Waters decreasing and mountains becoming visible.
 - URLs seen in the video.
 - Genesis 6-8
 - https://www.astronomynotes.com/starprop/s4.htm
 - Stellarium Manual - https://stellarium.org/files/guide.pdf
 - http://gerdbreitenbach.de/planet/planet.html
 
-## Chapter 30:
+## Chapter 30: Clues in a mountain-like nebula?
 - URLs seen in the video.
 - Genesis 6-8, Psalm 19
 - https://marvel.bible/index.php?text=MAB&b=1&c=8&v=5
 - 
 
-## Chapter 31:
+## Chapter 31: At 40 days end: the window, the raven, and the dove.
 - URLs seen in the video.
 - Genesis 6-8 
 - https://commons.wikimedia.org/wiki/File:ESO_-_Milky_Way.jpg
 
 
-## Chapter 32:
+## Chapter 32: Deciphering Khet and Hey in relation to the window?
 - URLs seen in the video.
 - Genesis 6-8 
 - https://en.wikipedia.org/wiki/Hebrew_astronomy
 
-## Chapter 33:
+## Chapter 33: Avian timekeepers: the Raven watch of yareakh.
 - URLs seen in the video.
 - Genesis 6-8 
 - https://www.allaboutbirds.org/guide/Common_Raven/sounds
 
-## Chapter 34:
+## Chapter 34: Avian timekeepers: the Dove watch of shemesh.
 - URLs seen in the video.
 - Genesis 8
 - https://en.wikipedia.org/wiki/Regulus
@@ -287,17 +288,17 @@ This chapter contains the references used to find the date October 21 -2726.
 - https://en.wikipedia.org/wiki/Vav-consecutive 
 - https://commons.wikimedia.org/wiki/File:Milky_way_map.png
 
-## Chapter 35:
+## Chapter 35: Avian timekeepers: the Dove watch of Solstice
 - URLs seen in the video.
 - Genesis 8
 - https://www.worldweatheronline.com/lang/zh-hans/sharur-weather-averages/zanjan/ir.aspx
 - https://www.allaboutbirds.org/guide/Eurasian_Collared-Dove/photo-gallery/66035081
 
-## Chapter 36:
+## Chapter 36: Avian timekeepers: the Dove watch of retrograde.
 - URLs seen in the video.
 - Genesis 8
 
-## Chapter 37:
+## Chapter 37: Was Noah's natal day on New Year's day?
 - URLs seen in the video.
 - Genesis 8
 - https://www.ancient-hebrew.org/ahlb/resh.html#7225  (Jeff A. Benner)
@@ -311,17 +312,17 @@ This chapter contains the references used to find the date October 21 -2726.
 - https://en.wikipedia.org/wiki/Aras_(river)#/media/File:Aras_River,_Turkey-Armenia-Iran_Border_Region.JPG
 - https://unece.org/DAM/env/water/publications/assessment/English/H_PartIV_Chapter4_En.pdf
 
-## Chapter 38:
+## Chapter 38: The earth was dry - completing a Lunisolar calendar.
 - URLs seen in the video.
 - Genesis 6-8
 
-## Chapter 39:
+## Chapter 39: Why does the Noah narrative mark apparent retrogrades?
 - URLs seen in the video.
 - Genesis 6-9; 1Kings 7
 - https://mars.nasa.gov/all-about-mars/night-sky/retrograde/
 - http://gerdbreitenbach.de/planet/planet.html
 
-## Chapter 40:
+## Chapter 40: Words of warning
 - URLs seen in the video.
 - Genesis 6-9,11, Isaiah 45-46, 2Chron 33, 2King 23, Jeremiah 8,19, Zephaniah 1, Acts 7, Acts 14, Joshuah 24, Daniel 1
 - https://en.wikipedia.org/wiki/MUL.APIN
@@ -331,7 +332,7 @@ This chapter contains the references used to find the date October 21 -2726.
 - https://en.wikipedia.org/wiki/Mercury_(mythology)
 - https://en.wikipedia.org/wiki/Thoth
 
-## Chapter 41:
+## Chapter 41: Finding creatures in the nebulae.
 - URLs seen in the video.
 - Psalm 19, Genesis 7, Job 38-41, Prov 25
 - https://skyandtelescope.org/sky-and-telescope-magazine/m17-the-nebula-with-too-many-names/
@@ -348,7 +349,7 @@ This chapter contains the references used to find the date October 21 -2726.
 - https://commons.wikimedia.org/wiki/File:Removable_Hard_Disk_unit_14_inches_BJ7E2-A_United_Peripheral_Limited_1986.jpg
 - https://en.wikipedia.org/wiki/Antikythera_mechanism#/media/File:NAMA_Machine_d'Anticyth%C3%A8re_1.jpg
 
-## Chapter 42:
+## Chapter 42: Hunting for lion shapes in the nebulae.
 - URLs seen in the video.
 - Job 38:39-41 Lion
 - Milky Way Panorama 2017-06-01 by Wei-Hao Wang
@@ -358,7 +359,7 @@ This chapter contains the references used to find the date October 21 -2726.
 - https://biblearchaeology.org/research/topics/amazing-discoveries-in-biblical-archaeology/4813-the-color-purple-in-ancient-israel
 - https://www.youtube.com/watch?v=IVXqisH6VeM
 
-## Chapter 43:
+## Chapter 43: Locating the hand and the Judean Lion.
 - Job 38:39-40 Lion
 - Milky Way Panorama 2017-06-01 by Wei-Hao Wang
     - https://www.astrobin.com/full/298047/0/  
@@ -374,9 +375,9 @@ This chapter contains the references used to find the date October 21 -2726.
     - Deuteronomy 33:20-21 - Gad
     - Deuteronomy 33:22 - Dan
 
-## Chapter 44:
+## Chapter 44: The Zoo-diac and the third lion
 - Job 38:39-41 Lion & Raven
-- Ezekiel's varios descriptions of cherubim.
+- Ezekiel's various descriptions of cherubim.
 - Exodus 26 description of veil.
     - https://www.youtube.com/watch?v=z_MbQH3RqgM
 - Daniel 7 descriptions of creatures symbolizing nations.
@@ -390,13 +391,13 @@ This chapter contains the references used to find the date October 21 -2726.
 - https://en.wikipedia.org/wiki/Josephus
 - https://www.freebibleimages.org/illustrations/ktb-bible-empires/ Maps by Cory Baugher.
 
-## Chapter 45:
+## Chapter 45: The lion nebulae tearing the arm.
 - Job 38:39-40 Lion
 - Genesis 49; Deuteronomy 33
 - Milky Way Panorama 2017-06-01 by Wei-Hao Wang
     - https://www.astrobin.com/full/298047/0/  
 
-## Chapter 46:
+## Chapter 46: The wild goat nebulae, giving birth.
 - Job 39:1-4 Wild Goat
 - Milky Way Panorama 2017-06-01 by Wei-Hao Wang
     - https://www.astrobin.com/full/298047/0/  
@@ -406,7 +407,7 @@ This chapter contains the references used to find the date October 21 -2726.
 - https://en.wikipedia.org/wiki/Arabian_oryx
 - https://www.youtube.com/watch?v=l7MZPzELB5o&t=351s
 
-## Chapter 47:
+## Chapter 47: The wild donkey nebulae of Job.
 - Job 39:5-8 Wild Donkey
 - https://he.wikipedia.org/wiki/%D7%A4%D7%A8%D7%90
 - https://en.wikipedia.org/wiki/Onager
@@ -425,7 +426,7 @@ This chapter contains the references used to find the date October 21 -2726.
     - https://www.youtube.com/watch?v=3bTHmGc2QKc
     - https://www.youtube.com/watch?v=pyfjcLtTMeI
 
-## Chapter 48:
+## Chapter 48: What is a (רֵּים)? Is it a unicorn?
 - Job 39:9-12 Wild Ox
 - Lexicons: BDB, Strongs, Gesenius.
 - https://en.wikipedia.org/wiki/Aurochs
@@ -446,7 +447,7 @@ This chapter contains the references used to find the date October 21 -2726.
 - https://www.flickr.com/photos/anitagould/4137026215
 - https://animalia.bio/sand-cat
 
-## Chapter 49:
+## Chapter 49: The dark Ostrich and her offspring.
 - Job 39:13-18
 - Lexicons: BDB, Strongs, Gesenius.
 - https://en.wikipedia.org/wiki/Arabian_ostrich
@@ -455,8 +456,12 @@ This chapter contains the references used to find the date October 21 -2726.
 - https://www.youtube.com/watch?v=EXw8Coie0ug
 - https://www.youtube.com/watch?v=iYJoxdMGL2U
 - https://www.youtube.com/watch?v=DXvZGZgWQSE
+- Southern Milky Way from Scutum to Carina 2023-07-14 - Rodney Watters
+    - https://www.astrobin.com/o9qeme/
+- https://vimeo.com/875775408
 
 ## Upcoming Chapters
+- TODO: Continue through the creatures of Job.
 - TODO: present the study on how the tribes fit into this calendar system.
 - TODO: present the time tracking system hidden in the names from Adam...
 - TODO: present Seven Sabbath Year cycle.
