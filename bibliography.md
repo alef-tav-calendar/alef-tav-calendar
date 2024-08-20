@@ -460,6 +460,17 @@ This chapter contains the references used to find the date October 21 -2726.
     - https://www.astrobin.com/o9qeme/
 - https://vimeo.com/875775408
 
+## Chapter 50: The battle horse
+- Job 39:19-25
+- Milky Way Panorama 2017-06-01 by Wei-Hao Wang
+    - https://www.astrobin.com/full/298047/0/  
+- Standard of Ur - wikipedia
+    - https://en.wikipedia.org/wiki/Standard_of_Ur
+- Horses in warfare - wikipedia
+    - https://en.wikipedia.org/wiki/Horses_in_warfare
+- BDB Lexicon
+- Google image search: horse mane, shofar
+
 ## Upcoming Chapters
 - TODO: Continue through the creatures of Job.
 - TODO: present the study on how the tribes fit into this calendar system.
