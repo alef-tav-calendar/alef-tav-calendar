@@ -471,6 +471,17 @@ This chapter contains the references used to find the date October 21 -2726.
 - BDB Lexicon
 - Google image search: horse mane, shofar
 
+## Chapter 51: The vulture and the slain.
+- Job 39:26-30
+- BDB Lexicon
+- https://www.birds.org.il/en/species-family/7
+- https://en.wikipedia.org/wiki/Eurasian_griffon_vulture
+- https://commons.wikimedia.org/wiki/File:G%C3%A5sgam_-_Gyps_fulvus_-_Griffon_Vulture-0841_-_Flickr_-_Ragnhild_%26_Neil_Crawford.jpg
+- https://en.wikipedia.org/wiki/Samhain
+- https://en.wikipedia.org/wiki/Halloween
+- https://birdsoftheworld.org/bow/species/eurgri1/cur/introduction
+
+
 ## Upcoming Chapters
 - TODO: Continue through the creatures of Job.
 - TODO: present the study on how the tribes fit into this calendar system.
