@@ -481,6 +481,29 @@ This chapter contains the references used to find the date October 21 -2726.
 - https://en.wikipedia.org/wiki/Halloween
 - https://birdsoftheworld.org/bow/species/eurgri1/cur/introduction
 
+## Chapter 52: What is a Behemoth? 
+- Job 40:15-24
+- https://www.youtube.com/watch?v=7Ph_iABMWTg
+- https://www.biblegateway.com/passage/?search=Job%2040&version=NKJV
+- BDB, Gesenius and Strongs Lexicons
+ - https://archive.org/details/hebrewchaldeelex00geseuoft/page/104/mode/2up
+- Milky Way Panorama 2017-06-01 by Wei-Hao Wang
+    - https://www.astrobin.com/full/298047/0/  
+- https://www.youtube.com/watch?v=IClhZFqxAhA
+- https://www.youtube.com/watch?v=V7_gUS-60Xo
+- https://www.merriam-webster.com/dictionary/mute
+- https://commons.wikimedia.org/wiki/File:Hippos_in_the_Hluhluwe-Umfolozi_Game_Reserve.webm
+- https://a-z-animals.com/animals/hippopotamus/https://a-z-animals.com/animals/hippopotamus/
+- https://wildark.org/species/hippopotamus/
+- https://commons.wikimedia.org/wiki/File:Diplodocus_model.jpg
+- https://mit-mama-nach.de/dinosaurier-museum-altmuehltal/
+- https://www.flickr.com/photos/mualphachi/4768773530
+- https://commons.wikimedia.org/wiki/File:Museum_of_Osteology,_Oklahoma_City,_Oklahoma,_USA_(cropped).jpg 
+- https://www.animalfactsencyclopedia.com/Hippo-facts.html
+- https://www.youtube.com/watch?v=15pGjSQFhNQ
+
+
+
 
 ## Upcoming Chapters
 - TODO: Continue through the creatures of Job.
