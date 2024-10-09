@@ -502,6 +502,14 @@ This chapter contains the references used to find the date October 21 -2726.
 - https://www.animalfactsencyclopedia.com/Hippo-facts.html
 - https://www.youtube.com/watch?v=15pGjSQFhNQ
 
+## Chapter 53: Leviathan - a fictional beast?
+- Job 41
+- Gesenius Lexicon
+ https://archive.org/details/hebrewchaldeelex00geseuoft/page/432/mode/2up
+- BDB Lexicon
+- The Hebrew and Aramaic lexicon of the Old Testament by Köhler, Ludwig, 1880-1956
+- Milky Way Panorama 2017-06-01 by Wei-Hao Wang
+    - https://www.astrobin.com/full/298047/0/  
 
 
 
