@@ -502,20 +502,34 @@ This chapter contains the references used to find the date October 21 -2726.
 - https://www.animalfactsencyclopedia.com/Hippo-facts.html
 - https://www.youtube.com/watch?v=15pGjSQFhNQ
 
-## Chapter 53: Leviathan - a fictional beast?
+## Chapter 53: Leviathan - is it a dragon?
 - Job 41
+  - NOTE: Around 24m 40s into the video the narrative speeks of "burning lights" "sparks".  I've circled bright stars in the video. Stars HIP 71683 & HIP 71681 have apparent motion from -2000 to 2000 of which I've attempted to represent both past and present locations in the slide. 
 - Gesenius Lexicon
  https://archive.org/details/hebrewchaldeelex00geseuoft/page/432/mode/2up
 - BDB Lexicon
 - The Hebrew and Aramaic lexicon of the Old Testament by Köhler, Ludwig, 1880-1956
 - Milky Way Panorama 2017-06-01 by Wei-Hao Wang
     - https://www.astrobin.com/full/298047/0/  
-
-
+- https://animalia.bio/desert-cobra
+- https://en.wikipedia.org/wiki/Dragons_in_Greek_mythology
+- https://animalia.bio/red-spitting-cobra
+- https://animalia.bio/saharan-horned-viper
+- https://www.youtube.com/watch?v=DdFMPymiMiQ
+- https://www.flickr.com/photos/arnolouise/2630972164
+- https://pxhere.com/en/photo/33688
+- https://www.pickpik.com/clouds-dawn-dusk-landscape-mountain-outdoors-107625
+- https://www.goodfon.com/animals/wallpaper-download-2372x1276-alligator-krokodil-sumerki.html
+- https://www.youtube.com/watch?v=8CVpTWHIZ-g 
+- https://www.youtube.com/watch?v=1cjg3Wc09Fw 
+- https://www.youtube.com/watch?v=3OylfKShIuM 
+- https://www.youtube.com/watch?v=vn-qk1FF9w4
+- https://www.nature.com/articles/s42003-024-06019-6 
+- https://commons.wikimedia.org/  - various photos.
+- 1878 Adams Monumental Illustrated Panorama of History
 
 ## Upcoming Chapters
-- TODO: Continue through the creatures of Job.
-- TODO: present the study on how the tribes fit into this calendar system.
 - TODO: present the time tracking system hidden in the names from Adam...
+- TODO: present the study on how the tribes fit into this calendar system.
 - TODO: present Seven Sabbath Year cycle.
 - TODO: Wait to see if Israel Antiquities Authority can decrypt the Israel file.  Some of this research should be only presented to the people of the book.
