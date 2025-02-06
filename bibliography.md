@@ -528,7 +528,7 @@ This chapter contains the references used to find the date October 21 -2726.
 - https://commons.wikimedia.org/  - various photos.
 - 1878 Adams Monumental Illustrated Panorama of History
 
-## Chapter 54: Genesis 5 Genealogy Calendar
+## Chapter 54: Genesis genealogy & axial precession
 - Genesis 5
 - https://docs.google.com/spreadsheets/d/1sdtfjEh5HsKM6FiYj6LD2RPhxOBoz81Jp7r4L0OAatE/edit?usp=sharing
 - https://www.youtube.com/shorts/Koy0DqsrHf0
