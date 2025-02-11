@@ -3,33 +3,29 @@ The Alef-Tav Calendar repository.
 
 This is part of an ancient Astronomical Chronology puzzle.
 
-This is a research project.  An investigation into if the Paleo Hebrew alphabet is part of a calendar system used to map the passage of time.
+This is a preliminary research project.  An investigation into if the Paleo Hebrew alphabet is part of a calendar system used to map the passage of time.
 
 See the [Alef-Tav Calendar](https://www.youtube.com/playlist?list=PLbRaSh0207d5oxxRnekgN2GdKQNFtZT2z) video series for details.
 
 * Psalm 19
 * Psalm 119
 
----
+![Noah calendar](https://raw.githubusercontent.com/alef-tav-calendar/alef-tav-calendar/refs/heads/main/noah_timeline_reversed_2024_04_17.png)
 
-Chapter 41
+### Research Summary
 
-Instructions to help with this Alef-Tav Calendar research project.
-
-1) Use the descriptions of creatures listed Job 38:39 to Job 40.
-
-2) Use photos of the milkyway as viewed from northern hemisphere.  Try to use wider naked-eye views instead of close telescope views.
- - [Astrobin](https://www.google.com/search?q=milkyway+site:astrobin.com&tbm=isch) Google image search.
- - [Amazing Sky](https://www.google.com/search?q=milkyway+site:amazingsky.net&tbm=isch) Google image search.
- - [NASA Astronomy Picture of the Day](https://www.google.com/search?q=milkyway+site:apod.nasa.gov&tbm=isch) Google image search.
- - [Gigapan Milky Way Center](https://www.gigapan.com/gigapans/181643/options/nosnapshots,fullscreen/iframe/flash.html?height=1920) by Rafael Defavari.
-
-3) Hunt for pareidolia shapes in the nebulae that match the narrative's descriptions.
-
-4) Use an art program to circle or highlight the shapes in the milky way that you have found to match the narrative.
-
-5) Post your findings on mastodon.social network with a hash tag in the description:
- - #AlefTavCalendar
- - https://mastodon.social/tags/AlefTavCalendar
-
-
+* The Paleo-Hebrew alphabet appears to be part of an ancient calendar system used to track time.
+* The calendar system in the Noah narrative precisely follows the night sky over the course of one year.  Key astronomical events corresponding to Genesis 7–8 include:
+  - Oct 14, -2726 (7:4,6): Fall equinox
+  - Oct 21, -2726 (7:10-11): Quintuple planetary conjunction (Sun and Mercury in the letter Mem/water)
+  - Nov 30, -2726 (7:12,17): Mercury retrograde in Ayin
+  - Mar 20, -2725 (7:24, 8:3-4): Mercury retrograde in Alef
+  - May 31, -2725 (8:5): Venus begins retrograde motion
+  - July 10, -2725 (8:6-9): Venus ends retrograde motion
+  - July 17, -2725 (8:10): Summer solstice (longest day)
+  - July 24, -2725 (8:12): Mercury retrograde
+  - Aug 27, -2725 (8:13): Noah’s birthdate (first month, head of the year)
+  - Oct 21, -2725 (8:14): Completion of a full 365-day solar year via lunar month count
+* The birth dates in Genesis 5 track earth's axial precession.
+* Apparent recognizable shapes in the Milky Way were used for naming conventions. The horizon served as a transversal line between the Milky Way and the ecliptic to track the positions of the Sun, Moon, and planets. The Paleo-Hebrew alphabet letter meanings are describing apparent shapes in the Milky Way.
+* The 22 constellation regions of the Paleo-Hebrew alphabet correspond to the 22 apparent retrograde motions of Mercury over a 7-year period.
