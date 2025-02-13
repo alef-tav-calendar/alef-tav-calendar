@@ -28,5 +28,5 @@ See the [Alef-Tav Calendar](https://www.youtube.com/playlist?list=PLbRaSh0207d5o
   - Apparent recognizable shapes in the Milky Way were used for naming conventions. The Paleo-Hebrew alphabet letter meanings are describing apparent shapes in the Milky Way.
   - When the Milky Way is above or below the ecliptic path, the horizon served as a cross reference transversal line between the Milky Way and the ecliptic.  
   - The apparent recognizable shapes were used to track the positions of the Sun, Moon, and planets on the ecliptic path.
-  - See [Chapter 9](https://www.youtube.com/watch?v=x8pbYoZQ3v0) 
+  - See [Chapter 9](https://www.youtube.com/watch?v=x8pbYoZQ3v0). 
 * The 22 constellation regions of the Paleo-Hebrew alphabet correspond to the 22 apparent retrograde motions of Mercury over a 7-year period. See [Chapter 39](https://www.youtube.com/watch?v=dWHMoqggJig).
