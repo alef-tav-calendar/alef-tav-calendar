@@ -11,6 +11,7 @@ See the [Alef-Tav Calendar](https://www.youtube.com/playlist?list=PLbRaSh0207d5o
 ### Research Summary
 
 * The calendar system in the Noah narrative precisely follows the night sky over the course of one year.  Key astronomical events corresponding to Genesis 7–8 include:
+![Noah calendar](https://raw.githubusercontent.com/alef-tav-calendar/alef-tav-calendar/refs/heads/main/documents/noah_timeline_reversed_2024_04_17.png)
   - Oct 14, -2726 (7:4,6): Fall equinox
   - Oct 21, -2726 (7:10-11): Quintuple planetary conjunction (Sun and Mercury in the letter Mem/water)
   - Nov 30, -2726 (7:12,17): Mercury retrograde in Ayin
@@ -21,9 +22,11 @@ See the [Alef-Tav Calendar](https://www.youtube.com/playlist?list=PLbRaSh0207d5o
   - July 24, -2725 (8:12): Mercury retrograde
   - Aug 27, -2725 (8:13): Noah’s birthdate (first month, head of the year)
   - Oct 21, -2725 (8:14): Completion of a full 365-day solar year via lunar month count
-![Noah calendar](https://raw.githubusercontent.com/alef-tav-calendar/alef-tav-calendar/refs/heads/main/documents/noah_timeline_reversed_2024_04_17.png)
-* The birth dates in Genesis 5 track earth's axial precession.
-[![Genesis 5 - Axial Precession](https://img.youtube.com/vi/fzdNpwn5kTc/maxresdefault.jpg)](https://youtu.be/fzdNpwn5kTc)
-* The Paleo-Hebrew alphabet appears to be part of an ancient calendar system used to track time.
-* Apparent recognizable shapes in the Milky Way were used for naming conventions. The horizon served as a transversal line between the Milky Way and the ecliptic to track the positions of the Sun, Moon, and planets. The Paleo-Hebrew alphabet letter meanings are describing apparent shapes in the Milky Way.
-* The 22 constellation regions of the Paleo-Hebrew alphabet correspond to the 22 apparent retrograde motions of Mercury over a 7-year period.
+* The birth dates in Genesis 5 track earth's axial precession. [Chapter 54](https://www.youtube.com/watch?v=v72Zm76FQBY) is summarized in this short video:
+[![Genesis 5 - Axial Precession](https://raw.githubusercontent.com/alef-tav-calendar/alef-tav-calendar/refs/heads/main/documents/gen_5_youtube_thumbnail.jpg)](https://youtu.be/fzdNpwn5kTc)
+* The Paleo-Hebrew alphabet was part of an ancient calendar system used to track time.
+  - Apparent recognizable shapes in the Milky Way were used for naming conventions. The Paleo-Hebrew alphabet letter meanings are describing apparent shapes in the Milky Way.
+  - When the Milky Way is above or below the ecliptic path, the horizon served as a cross reference transversal line between the Milky Way and the ecliptic.  
+  - The apparent recognizable shapes were used to track the positions of the Sun, Moon, and planets on the ecliptic path.
+  - See [Chapter 9](https://www.youtube.com/watch?v=x8pbYoZQ3v0) 
+* The 22 constellation regions of the Paleo-Hebrew alphabet correspond to the 22 apparent retrograde motions of Mercury over a 7-year period. See [Chapter 39](https://www.youtube.com/watch?v=dWHMoqggJig).
