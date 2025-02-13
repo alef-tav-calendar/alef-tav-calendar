@@ -5,16 +5,11 @@ This is part of an ancient Astronomical Chronology puzzle.
 
 This is a preliminary research project.  An investigation into if the Paleo Hebrew alphabet is part of a calendar system used to map the passage of time.
 
-See the [Alef-Tav Calendar](https://www.youtube.com/playlist?list=PLbRaSh0207d5oxxRnekgN2GdKQNFtZT2z) video series for details.
+See the [Alef-Tav Calendar](https://www.youtube.com/playlist?list=PLbRaSh0207d5oxxRnekgN2GdKQNFtZT2z) video series for details. Psalm 19 & 119
 
-* Psalm 19
-* Psalm 119
-
-![Noah calendar](https://raw.githubusercontent.com/alef-tav-calendar/alef-tav-calendar/refs/heads/main/noah_timeline_reversed_2024_04_17.png)
 
 ### Research Summary
 
-* The Paleo-Hebrew alphabet appears to be part of an ancient calendar system used to track time.
 * The calendar system in the Noah narrative precisely follows the night sky over the course of one year.  Key astronomical events corresponding to Genesis 7–8 include:
   - Oct 14, -2726 (7:4,6): Fall equinox
   - Oct 21, -2726 (7:10-11): Quintuple planetary conjunction (Sun and Mercury in the letter Mem/water)
@@ -26,6 +21,9 @@ See the [Alef-Tav Calendar](https://www.youtube.com/playlist?list=PLbRaSh0207d5o
   - July 24, -2725 (8:12): Mercury retrograde
   - Aug 27, -2725 (8:13): Noah’s birthdate (first month, head of the year)
   - Oct 21, -2725 (8:14): Completion of a full 365-day solar year via lunar month count
+![Noah calendar](https://raw.githubusercontent.com/alef-tav-calendar/alef-tav-calendar/refs/heads/main/noah_timeline_reversed_2024_04_17.png)
 * The birth dates in Genesis 5 track earth's axial precession.
+[![Genesis 5 - Axial Precession](https://img.youtube.com/vi/fzdNpwn5kTc/maxresdefault.jpg)](https://youtu.be/fzdNpwn5kTc)
+* The Paleo-Hebrew alphabet appears to be part of an ancient calendar system used to track time.
 * Apparent recognizable shapes in the Milky Way were used for naming conventions. The horizon served as a transversal line between the Milky Way and the ecliptic to track the positions of the Sun, Moon, and planets. The Paleo-Hebrew alphabet letter meanings are describing apparent shapes in the Milky Way.
 * The 22 constellation regions of the Paleo-Hebrew alphabet correspond to the 22 apparent retrograde motions of Mercury over a 7-year period.
