@@ -1,0 +1,235 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Sabbath Cycles and Jubilee Years (Leviticus 25)</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            padding: 20px;
+            overflow-x: auto;
+        }
+        
+        h1 {
+            text-align: center;
+            margin-bottom: 30px;
+        }
+        
+        .container {
+            display: flex;
+            flex-direction: column;
+            gap: 10px;
+            max-width: 100%;
+        }
+        
+        .row {
+            display: flex;
+            height: 50px;
+            min-height: 50px;
+        }
+        
+        .cell {
+            width: 40px;
+            min-width: 40px;
+            height: 100%;
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            border: 1px solid #ccc;
+            position: relative;
+        }
+
+        .cell-cycle {
+            width: 298px;
+            min-width: 298px;
+            height: 100%;
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            border: 1px solid #ccc;
+            position: relative;
+        }
+
+        .cell-content {
+            font-size: 14px;
+            text-align: center;
+        }
+        
+        .sabbath-year {
+            background-color: #b3e0ff;
+        }
+        
+        .jubilee-year {
+            background-color: #ffcc99;
+        }
+        
+        .previous-cycle {
+            background-color: #e6e6e6;
+        }
+        
+        .cycle-label {
+            width: 100%;
+            text-align: center;
+            font-weight: bold;
+            position: absolute;
+            top: -25px;
+        }
+        
+        .cycle {
+            border-top: 3px solid #333;
+            margin-top: 25px;
+        }
+        
+        .header {
+            font-weight: bold;
+            background-color: #f2f2f2;
+        }
+        
+        .legend {
+            margin-top: 30px;
+            display: flex;
+            gap: 20px;
+            justify-content: center;
+            flex-wrap: wrap;
+        }
+        
+        .legend-item {
+            display: flex;
+            align-items: center;
+            gap: 5px;
+        }
+        
+        .legend-color {
+            width: 20px;
+            height: 20px;
+            border: 1px solid #ccc;
+        }
+    </style>
+</head>
+<body>
+    <h1>Sabbath Cycles and Jubilee Years (Leviticus 25)</h1>
+    
+    <div class="container">
+        <!-- Cycle labels row -->
+        <div class="row">
+            <div class="cell header">
+                <div class="cell-content">Cycle</div>
+            </div>
+            <div class="cell previous-cycle" style="position: relative;">
+                <div class="previous-cycle">...7</div>
+            </div>
+            <div class="cell-cycle header" style="position: relative;">
+                <div class="cycle-content">Cycle 1</div>
+            </div>
+            <div class="cell-cycle header" style="position: relative;">
+                <div class="cycle-content">Cycle 2</div>
+            </div>
+            <div class="cell-cycle header" style="position: relative;">
+                <div class="cycle-content">Cycle 3</div>
+            </div>
+            <div class="cell-cycle header" style="position: relative;">
+                <div class="cycle-content">Cycle 4</div>
+            </div>
+            <div class="cell-cycle header" style="position: relative;">
+                <div class="cycle-content">Cycle 5</div>
+            </div>
+            <div class="cell-cycle header" style="position: relative;">
+                <div class="cycle-content">Cycle 6</div>
+            </div>
+            <div class="cell-cycle header" style="position: relative;">
+                <div class="cell-content">Cycle 7</div>
+            </div>
+        </div>
+
+        <!-- Years year cycle row -->
+        <div class="row">
+            <div class="cell header">
+                <div class="cell cell-content">7year</div>
+            </div>
+            <div id="sevenRow" class="row" style="display: contents;">
+		<div class="cell previous-cycle">...7</div>
+	    </div>
+                <script>
+                    // Generate year cells
+                    const sevenRow = document.getElementById('sevenRow');
+                    for (let i = 0; i <= 48; i++) {
+                        const cell = document.createElement('div');
+                        cell.className = i % 7 === 6 ? 'cell sabbath-year' : 'cell';
+                        
+                        const content = document.createElement('div');
+                        content.className = 'cell-content';
+                        content.textContent = (i % 7) + 1;
+                        
+                        cell.appendChild(content);
+                        sevenRow.appendChild(cell);
+                    }
+                </script>
+        </div>
+        
+        <!-- Years in cycle row -->
+        <div class="row">
+            <div class="cell header">
+                <div class="cell cell-content">7x7</div>
+            </div>
+            <div id="yearsRow" class="row" style="display: contents;">
+		<div class="cell previous-cycle">...49</div>
+	    </div>
+                <script>
+                    // Generate year cells
+                    const yearsRow = document.getElementById('yearsRow');
+                    for (let i = 1; i <= 49; i++) {
+                        const cell = document.createElement('div');
+                        cell.className = i % 7 === 0 ? 'cell sabbath-year' : 'cell';
+                        
+                        const content = document.createElement('div');
+                        content.className = 'cell-content';
+                        content.textContent = i;
+                        
+                        cell.appendChild(content);
+                        yearsRow.appendChild(cell);
+                    }
+                </script>
+        </div>
+        
+        <!-- Jubilee cycle row -->
+        <div class="row">
+            <div class="cell header">
+                <div class="cell-content">Jubilee</div>
+            </div>
+            <div id="jubileeRow" class="row" style="display: contents;">
+                <script>
+                    // Generate jubilee cells
+                    const jubileeRow = document.getElementById('jubileeRow');
+                    for (let i = 0; i < 50; i++) {
+                        const cell = document.createElement('div');
+                        cell.className = ( i === 0 || i === 49 ) ? 'cell jubilee-year' : 'cell';
+                        
+                        const content = document.createElement('div');
+                        content.className = 'cell-content';
+                        content.textContent = i + 1;
+                        
+                        cell.appendChild(content);
+                        jubileeRow.appendChild(cell);
+                    }
+                </script>
+            </div>
+        </div>
+    </div>
+    
+    <div class="legend">
+        <div class="legend-item">
+            <div class="legend-color previous-cycle"></div>
+            <span>Previous Cycle</span>
+        </div>
+        <div class="legend-item">
+            <div class="legend-color sabbath-year"></div>
+            <span>Sabbath Year</span>
+        </div>
+        <div class="legend-item">
+            <div class="legend-color jubilee-year"></div>
+            <span>Jubilee Year</span>
+        </div>
+    </div>
+</body>
+</html>
