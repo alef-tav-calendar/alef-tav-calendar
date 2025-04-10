@@ -1,6 +1,7 @@
 {
   "id": "alef_bet_retrograde_2",
   "region": "Middle East",
+  "thumbnail": "illustrations/thumbnail.jpg",
   "classification": ["personal"],
   "fallback_to_international_names": false,
   "constellations": [
