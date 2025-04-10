@@ -1,0 +1,63 @@
+{
+  "id": "alef_bet_retrograde_1",
+  "region": "Middle East",
+  "classification": ["personal"],
+  "fallback_to_international_names": false,
+  "constellations": [
+    {
+      "id": "CON alef_bet_art_1 ALF",
+      "lines": [[21421,20889,17702,13209,8796],[13209,15900,16083],[14838,9884]],
+      "common_name": {"english": "Ox:Alef:א", "native": "א Alef"}
+    },
+    {
+      "id": "CON alef_bet_art_1 GML",
+      "lines": [[32246,25428,27989]],
+      "common_name": {"english": "Camel:Gimel:ג", "native": "ג Gimel"}
+    },
+    {
+      "id": "CON alef_bet_art_1 HEY",
+      "lines": [[49669,36850],[47508,37279,37826,47508]],
+      "common_name": {"english": "Window:Hey:ה", "native": "ה Hey"}
+    },
+    {
+      "id": "CON alef_bet_art_1 ZYN",
+      "lines": [[58590,54879,47908,49669],[57632,54872,45860,48455],[54872,54879]],
+      "common_name": {"english": "Seed Reproduction:Zayin:ז", "native": "ז Zayin"}
+    },
+    {
+      "id": "CON alef_bet_art_1 THT",
+      "lines": [[63608,64238,57757,55642,54872],[61941,57565],[61960,58590]],
+      "common_name": {"english": "Winding (covering):Thet:ט", "native": "ט Thet"}
+    },
+    {
+      "id": "CON alef_bet_art_1 KAF",
+      "lines": [[74392,69974,66249,68520,71957],[66249,64852]],
+      "common_name": {"english": "Foot/Hand:Kaf:כ", "native": "כ Kaf"}
+    },
+    {
+      "id": "CON alef_bet_art_1 MEM",
+      "lines": [[90185,85927,74785,78727,77516,79882,77622]],
+      "common_name": {"english": "Water:Mem:מ", "native": "מ Mem"}
+    },
+    {
+      "id": "CON alef_bet_art_1 SMK",
+      "lines": [[87073,88635,89341],[88635,84970,81377,86263,89341,98066],[86263,83262,88404,95176],[88404,85355,92175]],
+      "common_name": {"english": "Support:Samek:ס", "native": "ס Samek"}
+    },
+    {
+      "id": "CON alef_bet_art_1 PHE",
+      "lines": [[105515,100195,93805,100064]],
+      "common_name": {"english": "Mouth:Pe:פ", "native": "פ Pe"}
+    },
+    {
+      "id": "CON alef_bet_art_1 QOF",
+      "lines": [[112029,113889,110882,111497,112961],[111497,109074,109427]],
+      "common_name": {"english": "Monkey:Qof:ק", "native": "ק Qof"}
+    },
+    {
+      "id": "CON alef_bet_art_1 SHN",
+      "lines": [[5447,7097,677,3786,113881]],
+      "common_name": {"english": "Teeth:Shin:ש", "native": "ש Shin"}
+    }
+  ]
+}

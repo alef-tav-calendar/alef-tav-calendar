@@ -3,6 +3,7 @@ This is a list of the Stellarium Software settings that I use in this Alef-Tav C
 
 - Install Stellarium from https://stellarium.org/
 - Load in Aleph Bet constellation maps as a **skycultures**. Available to download on this [GitHub](https://github.com/alef-tav-calendar/alef-tav-calendar/tree/main) in the **stellarium/skycultures** and **stellarium/landscapes** folders.
+    - NOTE: if you are running Stellarium 25 or newer, you must use the files within the **skycultures25+** folder.
     - Refer to the Stellarium documentation for configuration folder locations: https://stellarium.org/doc/23.0/fileStructure.html
 - Replace the default **milkyway.png** with a higher resolution version to see more details. Download it from this GitHub site in **stellarium/milkyway.png**.
     - I also use higher resolution photos found through a Google image search outside of Stellarium.

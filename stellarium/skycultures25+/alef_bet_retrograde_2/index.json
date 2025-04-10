@@ -1,0 +1,63 @@
+{
+  "id": "alef_bet_retrograde_2",
+  "region": "Middle East",
+  "classification": ["personal"],
+  "fallback_to_international_names": false,
+  "constellations": [
+    {
+      "id": "CON alef_bet_art_combined BET",
+      "lines": [[27989,20205,14576,25428,18246]],
+      "common_name": {"english": "House:Bet:ב", "native": "ב Bet"}
+    },
+    {
+      "id": "CON alef_bet_art_combined DLT",
+      "lines": [[24608,28360,36850,37826,37740,28380],[28360,28380,29696]],
+      "common_name": {"english": "Door:Dawlet:ד", "native": "ד Dawlet"}
+    },
+    {
+      "id": "CON alef_bet_art_combined WAW",
+      "lines": [[43813,43109,44127,50801,55203,54539],[44127,47908]],
+      "common_name": {"english": "Hook:Waw:ו", "native": "ו Waw"}
+    },
+    {
+      "id": "CON alef_bet_art_combined KHT",
+      "lines": [[60129,55434,54879,53417,57565,58948,60129],[58948,54879]],
+      "common_name": {"english": "Fence:Khet:ח", "native": "ח Khet"}
+    },
+    {
+      "id": "CON alef_bet_art_combined YOD",
+      "lines": [[72220,63608,66249,69974,61941],[66249,69701]],
+      "common_name": {"english": "Hand:Yod:י", "native": "י Yod"}
+    },
+    {
+      "id": "CON alef_bet_art_combined LMD",
+      "lines": [[69673,80763,72622]],
+      "common_name": {"english": "Ox Goad:Lamed:ל", "native": "ל Lamed"}
+    },
+    {
+      "id": "CON alef_bet_art_combined NUN",
+      "lines": [[90496,88635,81377,86263,83262]],
+      "common_name": {"english": "Fish:Nun:נ", "native": "נ Nun"}
+    },
+    {
+      "id": "CON alef_bet_art_combined AYN",
+      "lines": [[95168,100345,100064,93805,95176]],
+      "common_name": {"english": "Eye:Ayin:ע", "native": "ע Ayin"}
+    },
+    {
+      "id": "CON alef_bet_art_combined TSD",
+      "lines": [[111123,107315,102532],[107315,97649,106278,95501,107556]],
+      "common_name": {"english": "Fish Hook:Tsade:צ", "native": "צ Tsade"}
+    },
+    {
+      "id": "CON alef_bet_art_combined RSH",
+      "lines": [[1562,112029,118268,114971]],
+      "common_name": {"english": "Head (lion):Resh:ר", "native": "ר Resh"}
+    },
+    {
+      "id": "CON alef_bet_art_combined TAV",
+      "lines": [[16083,15900,5447],[13209,8903]],
+      "common_name": {"english": "Mark:Tav:ת", "native": "ת Tav"}
+    }
+  ]
+}

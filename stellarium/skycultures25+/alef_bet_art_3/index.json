@@ -1,0 +1,36 @@
+{
+  "id": "alef_bet_art_3",
+  "region": "Fertile Crescent",
+  "classification": ["personal"],
+  "fallback_to_international_names": false,
+  "constellations": [
+    {
+      "id": "CON alef_bet_art_3 ZYN",
+      "lines": [[60129,55642,49583,51624],[57632,54872,48455,50583],[54872,55642]],
+      "image": {
+        "file": "illustrations/zayin.png",
+        "size": [256, 256],
+        "anchors": [
+          {"pos": [84,105],  "hip": 58159},
+          {"pos": [183,129], "hip": 50583},
+          {"pos": [153,166], "hip": 51624}
+        ]
+      },
+      "common_name": {"english": "Seed Reproduction:Zayin:ז", "native": "ז Zayin"}
+    },
+    {
+      "id": "CON alef_bet_art_3 SHN",
+      "lines": [[9884,12828,7097,9487,3786]],
+      "image": {
+        "file": "illustrations/shin.png",
+        "size": [256, 256],
+        "anchors": [
+          {"pos": [91,90],   "hip": 9884},
+          {"pos": [116,172], "hip": 9487},
+          {"pos": [166,129], "hip": 4906}
+        ]
+      },
+      "common_name": {"english": "Teeth:Shin:ש", "native": "ש Shin"}
+    }
+  ]
+}

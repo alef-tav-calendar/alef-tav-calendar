@@ -1,0 +1,134 @@
+{
+  "id": "alef_bet_art_1",
+  "region": "Fertile Crescent",
+  "classification": ["personal"],
+  "fallback_to_international_names": false,
+  "constellations": [
+    {
+      "id": "CON alef_bet_art_1 ALF",
+      "lines": [[20205,21421,20889,17702,8903],[13209,15900],[16369,10324]],
+      "image": {
+        "file": "illustrations/alef.png",
+        "size": [256, 256],
+        "anchors": [
+          {"pos": [55,146],  "hip": 21421},
+          {"pos": [200,89],  "hip": 8903},
+          {"pos": [130,161], "hip": 15900}
+        ]
+      },
+      "common_name": {"english": "Ox:Alef:א", "native": "א Alef"}
+    },
+    {
+      "id": "CON alef_bet_art_1 GML",
+      "lines": [[32246,25428,27989]],
+      "image": {
+        "file": "illustrations/gimel.png",
+        "size": [256, 256],
+        "anchors": [
+          {"pos": [131,181], "hip": 27989},
+          {"pos": [157,89],  "hip": 25428},
+          {"pos": [96,114],  "hip": 32246}
+        ]
+      },
+      "common_name": {"english": "Camel:Gimel:ג", "native": "ג Gimel"}
+    },
+    {
+      "id": "CON alef_bet_art_1 HEY",
+      "lines": [[47508,49669,36850],[45336,37279,37826,45336]],
+      "image": {
+        "file": "illustrations/he.png",
+        "size": [256, 256],
+        "anchors": [
+          {"pos": [65,126],  "hip": 49669},
+          {"pos": [171,107], "hip": 37826},
+          {"pos": [164,165], "hip": 37279}
+        ]
+      },
+      "common_name": {"english": "Window:Hey:ה", "native": "ה Hey"}
+    },
+    {
+      "id": "CON alef_bet_art_1 THT",
+      "lines": [[63608,63090,61740,54182,54879,54872],[60129,57632],[58948,57380]],
+      "image": {
+        "file": "illustrations/thet.png",
+        "size": [256, 256],
+        "anchors": [
+          {"pos": [59,76],  "hip": 63608},
+          {"pos": [230,91], "hip": 54872},
+          {"pos": [90,162], "hip": 60129}
+        ]
+      },
+      "common_name": {"english": "Winding (covering):Thet:ט", "native": "ט Thet"}
+    },
+    {
+      "id": "CON alef_bet_art_1 KAF",
+      "lines": [[74392,72571,69427,66249],[69427,69389,71957]],
+      "image": {
+        "file": "illustrations/kaf.png",
+        "size": [256, 256],
+        "anchors": [
+          {"pos": [70,149],  "hip": 74392},
+          {"pos": [123,102], "hip": 71957},
+          {"pos": [198,106], "hip": 66249}
+        ]
+      },
+      "common_name": {"english": "Foot/Hand:Kaf:כ", "native": "כ Kaf"}
+    },
+    {
+      "id": "CON alef_bet_art_1 MEM",
+      "lines": [[78727,80894,78207,79374,76333,81266,84970]],
+      "image": {
+        "file": "illustrations/mem.png",
+        "size": [255, 183],
+        "anchors": [
+          {"pos": [20,116], "hip": 84970},
+          {"pos": [151,39], "hip": 78727},
+          {"pos": [195,74], "hip": 76333}
+        ]
+      },
+      "common_name": {"english": "Water:Mem:מ", "native": "מ Mem"}
+    },
+    {
+      "id": "CON alef_bet_art_1 SMK",
+      "lines": [[91117,83262,86769],[94820,86263,84012,86736],[96465,90496,88116,84970,90185],[90496,90185,90982]],
+      "image": {
+        "file": "illustrations/samek.png",
+        "size": [256, 256],
+        "anchors": [
+          {"pos": [53,136], "hip": 96406},
+          {"pos": [104,61], "hip": 91117},
+          {"pos": [178,130], "hip": 84970}
+        ]
+      },
+      "common_name": {"english": "Support:Samek:ס", "native": "ס Samek"}
+    },
+    {
+      "id": "CON alef_bet_art_1 PHE",
+      "lines": [[107188,105881,100345,104139]],
+      "image": {
+        "file": "illustrations/pe.png",
+        "size": [256, 256],
+        "anchors": [
+          {"pos": [61,156],  "hip": 107188},
+          {"pos": [207,79],  "hip": 100345},
+          {"pos": [101,178], "hip": 105881}
+        ]
+      },
+      "common_name": {"english": "Mouth:Pe:פ", "native": "פ Pe"}
+    },
+    {
+      "id": "CON alef_bet_art_1 QOF",
+      "lines": [[1562,116928,3786,1067],[145,114724,113889]],
+      "image": {
+        "file": "illustrations/qof.png",
+        "size": [256, 256],
+        "anchors": [
+          {"pos": [119,181], "hip": 1562},
+          {"pos": [60,126],  "hip": 3786},
+          {"pos": [167,102], "hip": 113889}
+        ]
+      },
+      "common_name": {"english": "Monkey:Qof:ק", "native": "ק Qof"}
+    }
+  ]
+}

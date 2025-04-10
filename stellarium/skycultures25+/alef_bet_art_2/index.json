@@ -1,0 +1,162 @@
+{
+  "id": "alef_bet_art_2",
+  "region": "Fertile Crescent",
+  "classification": ["personal"],
+  "fallback_to_international_names": false,
+  "constellations": [
+    {
+      "id": "CON alef_bet_art_2 BET",
+      "lines": [[27989,20894,17529,25428,18614]],
+      "image": {
+        "file": "illustrations/bet.png",
+        "size": [256, 256],
+        "anchors": [
+          {"pos": [96,125],  "hip": 25428},
+          {"pos": [165,72],  "hip": 18532},
+          {"pos": [151,168], "hip": 21421}
+        ]
+      },
+      "common_name": {"english": "House:Bet:ב", "native": "ב Bet"}
+    },
+    {
+      "id": "CON alef_bet_art_2 DLT",
+      "lines": [[24608,28360,36850,37826,28380],[28360,28380,29696]],
+      "image": {
+        "file": "illustrations/dawlet.png",
+        "size": [256, 256],
+        "anchors": [
+          {"pos": [196,79],  "hip": 24608},
+          {"pos": [193,165], "hip": 25428},
+          {"pos": [50,156],  "hip": 37826}
+        ]
+      },
+      "common_name": {"english": "Door:Dawlet:ד", "native": "ד Dawlet"}
+    },
+    {
+      "id": "CON alef_bet_art_2 WAW",
+      "lines": [[48455,49669,43103,43109,43813],[43103,47508]],
+      "image": {
+        "file": "illustrations/waw.png",
+        "size": [256, 256],
+        "anchors": [
+          {"pos": [82,131],  "hip": 49637},
+          {"pos": [123,68],  "hip": 48455},
+          {"pos": [170,179], "hip": 42313}
+        ]
+      },
+      "common_name": {"english": "Hook:Waw:ו", "native": "ו Waw"}
+    },
+    {
+      "id": "CON alef_bet_art_2 KHT",
+      "lines": [[57757,56647,56127,53807,54182],[54182,56647],[54182,54879,55642,57757]],
+      "image": {
+        "file": "illustrations/khet.png",
+        "size": [256, 256],
+        "anchors": [
+          {"pos": [103,168], "hip": 56127},
+          {"pos": [175,67],  "hip": 54879},
+          {"pos": [165,150], "hip": 53807}
+        ]
+      },
+      "common_name": {"english": "Fence:Khet:ח", "native": "ח Khet"}
+    },
+    {
+      "id": "CON alef_bet_art_2 YOD",
+      "lines": [[69701,63090,65474,68895,60965,59803],[65474,69269]],
+      "image": {
+        "file": "illustrations/yod.png",
+        "size": [256, 256],
+        "anchors": [
+          {"pos": [90,98],   "hip": 69701},
+          {"pos": [164,94],  "hip": 63090},
+          {"pos": [156,162], "hip": 61174}
+        ]
+      },
+      "common_name": {"english": "Hand:Yod:י", "native": "י Yod"}
+    },
+    {
+      "id": "CON alef_bet_art_2 LMD",
+      "lines": [[69673,80763,72622]],
+      "image": {
+        "file": "illustrations/lamed.png",
+        "size": [256, 256],
+        "anchors": [
+          {"pos": [41,198],  "hip": 78401},
+          {"pos": [214,54],  "hip": 70027},
+          {"pos": [129,186], "hip": 72622}
+        ]
+      },
+      "common_name": {"english": "Ox Goad:Lamed:ל", "native": "ל Lamed"}
+    },
+    {
+      "id": "CON alef_bet_art_2 NUN",
+      "lines": [[86565,89341,84012,90185,93506]],
+      "image": {
+        "file": "illustrations/nun.png",
+        "size": [256, 256],
+        "anchors": [
+          {"pos": [41,166], "hip": 93864},
+          {"pos": [168,66], "hip": 86565},
+          {"pos": [218,89], "hip": 84012}
+        ]
+      },
+      "common_name": {"english": "Fish:Nun:נ", "native": "נ Nun"}
+    },
+    {
+      "id": "CON alef_bet_art_2 AYN",
+      "lines": [[100345,100064,93805,95176,100345]],
+      "image": {
+        "file": "illustrations/ayin.png",
+        "size": [256, 256],
+        "anchors": [
+          {"pos": [86,141], "hip": 100064},
+          {"pos": [170,98], "hip": 93429},
+          {"pos": [152,148], "hip": 95176}
+        ]
+      },
+      "common_name": {"english": "Eye:Ayin:ע", "native": "ע Ayin"}
+    },
+    {
+      "id": "CON alef_bet_art_2 TSD",
+      "lines": [[112961,110395,109068],[110395,106278,110003,104459,106985]],
+      "image": {
+        "file": "illustrations/tsade.png",
+        "size": [256, 256],
+        "anchors": [
+          {"pos": [74,163],  "hip": 112961},
+          {"pos": [99,89],   "hip": 109427},
+          {"pos": [150,121], "hip": 106278}
+        ]
+      },
+      "common_name": {"english": "Fish Hook:Tsade:צ", "native": "צ Tsade"}
+    },
+    {
+      "id": "CON alef_bet_art_2 RSH",
+      "lines": [[1562,118209,116771,113963,1067,3786,116771]],
+      "image": {
+        "file": "illustrations/resh.png",
+        "size": [256, 256],
+        "anchors": [
+          {"pos": [85,133], "hip": 3786},
+          {"pos": [156,83], "hip": 115444},
+          {"pos": [136,181], "hip": 1562}
+        ]
+      },
+      "common_name": {"english": "Head (lion):Resh:ר", "native": "ר Resh"}
+    },
+    {
+      "id": "CON alef_bet_art_2 TAV",
+      "lines": [[16369,5447],[13061,8903]],
+      "image": {
+        "file": "illustrations/tav.png",
+        "size": [256, 256],
+        "anchors": [
+          {"pos": [78,193],  "hip": 16369},
+          {"pos": [170,60],  "hip": 5447},
+          {"pos": [102,118], "hip": 13061}
+        ]
+      },
+      "common_name": {"english": "Mark:Tav:ת", "native": "ת Tav"}
+    }
+  ]
+}
