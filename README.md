@@ -1,8 +1,8 @@
 ### Alef-Tav Calendar
 
-This repository explores a fascinating aspect of ancient astronomical chronology: the potential connection between the Paleo-Hebrew alphabet and a calendar system used to track the passage of time.
+This repository explores astro-chronology: a potential connection between the Paleo-Hebrew alphabet and a calendar system used to track the passage of time. Please use discretion when investigating this calendar system.
 
-As part of an ongoing research project, we investigate how the Alef-Tav letters may have been historically used as constellation time markers. This study aims to uncover whether these ancient characters were integrated into a sophisticated timekeeping system.
+As part of an ongoing preliminary research project, we investigate how the Alef-Tav letters may have been historically used as constellation time markers. This study aims to uncover whether these ancient characters were integrated into a sophisticated timekeeping system.
 
 Much of this preliminary research is explored in detail through the [Alef-Tav Calendar](https://www.youtube.com/playlist?list=PLbRaSh0207d5oxxRnekgN2GdKQNFtZT2z) video series.
 
