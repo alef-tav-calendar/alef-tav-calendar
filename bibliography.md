@@ -533,7 +533,6 @@ This chapter contains the references used to find the date October 21 -2726.
 - https://docs.google.com/spreadsheets/d/1sdtfjEh5HsKM6FiYj6LD2RPhxOBoz81Jp7r4L0OAatE/edit?usp=sharing
 - https://www.youtube.com/shorts/Koy0DqsrHf0
 - https://commons.wikimedia.org/  - various photos.
-- 1878 Adams Monumental Illustrated Panorama of History
 - https://www.youtube.com/watch?v=eVL54P2225A
 - https://www.chabad.org/library/article_cdo/aid/314509/jewish/Adams-Birthday.htm
 - Milky Way Panorama 2017-06-01 by Wei-Hao Wang
@@ -541,6 +540,7 @@ This chapter contains the references used to find the date October 21 -2726.
 - Image of the day - Milky Way - Gabriel R. Santos
     - https://app.astrobin.com/equipment/explorer/mount/892/sky-watcher-heq5-pro?i=djyrrt
 - https://en.wikipedia.org/wiki/Axial_precession#History
+- 1878 Adams Monumental Illustrated Panorama of History
 - The Wall Chart of World History, Edward Hull
 - “Quintuple planetary groupings - Rarity, historical events and popular beliefs.”  by de Meis, S. & Meeus, J.  (vol.104, no.6, p.293-297). https://adsabs.harvard.edu/full/1994JBAA..104..293D
 
