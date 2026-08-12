@@ -1,4 +1,4 @@
-### Alef-Tav Calendar
+# Alef-Tav Calendar
 
 This repository explores astro-chronology: a potential connection between the Paleo-Hebrew alphabet and a calendar system used to track the passage of time. Please use discretion when investigating this calendar system.
 
@@ -6,14 +6,18 @@ As part of an ongoing preliminary research project, we investigate how the Alef-
 
 Much of this preliminary research is explored in detail through the [Alef-Tav Calendar](https://www.youtube.com/playlist?list=PLbRaSh0207d5oxxRnekgN2GdKQNFtZT2z) video series.
 
-### Research Summary
-
+## Research Summary
 * The Paleo-Hebrew alphabet was part of an ancient calendar system used to track time.
+  - The apparent recognizable shapes were used to track the positions of the Sun, Moon, and planets on the ecliptic path.
   - Apparent recognizable shapes in the Milky Way were used for naming conventions. The Paleo-Hebrew alphabet letter meanings are describing 22 apparent shapes in the Milky Way.
   - When the Milky Way is above or below the ecliptic path, the horizon is used as a transversal line between the Milky Way and the ecliptic.  
-  - The apparent recognizable shapes were used to track the positions of the Sun, Moon, and planets on the ecliptic path.
+  - Most but not all letters from the Dead Sea Scroll [11Q1 - 11Q paleoLev](https://www.deadseascrolls.org.il/explore-the-archive/image/B-513117) have a vertical pen stroke that changes angle in relation to the horizontal line on the page.  The red line on the page can be aligned with the ecliptic path and the vertical penstroke aligns with the sunset horizon.
+![Paleo Hebrew Angles](https://raw.githubusercontent.com/alef-tav-calendar/alef-tav-calendar/refs/heads/main/documents/paleo_hebrew_angles.png)
   - See [Chapter 9](https://www.youtube.com/watch?v=x8pbYoZQ3v0). 
-* The 22 constellation regions correspond to the 22 apparent retrograde motions of Mercury over a 7-year period. These 22 regions are named as per Paleo-Hebrew Alphabet letter meanings. See [Chapter 39](https://www.youtube.com/watch?v=dWHMoqggJig).
+
+* The 22 constellation regions correspond to the 22 apparent retrograde motions of Mercury over a 7-year period. These 22 regions are named as per Paleo-Hebrew Alphabet letter meanings.
+![Mercury 22 Apparent Retrogrades](https://raw.githubusercontent.com/alef-tav-calendar/alef-tav-calendar/refs/heads/main/documents/mercury_22_letters.png)
+  - See [Chapter 39](https://www.youtube.com/watch?v=dWHMoqggJig).
 * Testing the Alef-Tav Calendar system with the Noah narrative in Genesis revealed that the narrative precisely follows the night sky over the course of one year.  Key astronomical events corresponding to Genesis 7–8 include:
 ![Noah calendar](https://raw.githubusercontent.com/alef-tav-calendar/alef-tav-calendar/refs/heads/main/documents/noah_timeline_reversed_2024_04_17.png)
   - Oct 14, -2726 (7:4,6): Fall equinox
