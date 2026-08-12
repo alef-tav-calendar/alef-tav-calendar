@@ -12,7 +12,7 @@ Much of this preliminary research is explored in detail through the [Alef-Tav Ca
   - Apparent recognizable shapes in the Milky Way were used for naming conventions. The Paleo-Hebrew alphabet letter meanings are describing 22 apparent shapes in the Milky Way.
   - When the Milky Way is above or below the ecliptic path, the horizon is used as a transversal line between the Milky Way and the ecliptic.  
   - Most but not all letters from the Dead Sea Scroll [11Q1 - 11Q paleoLev](https://www.deadseascrolls.org.il/explore-the-archive/image/B-513117) have a vertical pen stroke that changes angle in relation to the horizontal line on the page.  The red line on the page can be aligned with the ecliptic path and the vertical penstroke aligns with the sunset horizon.
-![Paleo Hebrew Angles](https://raw.githubusercontent.com/alef-tav-calendar/alef-tav-calendar/refs/heads/main/documents/paleo_hebrew_angles.png)
+![Paleo Hebrew Angles](https://raw.githubusercontent.com/alef-tav-calendar/alef-tav-calendar/refs/heads/main/documents/paleo_hebrew_angles.jpg)
   - See [Chapter 9](https://www.youtube.com/watch?v=x8pbYoZQ3v0). 
 
 * The 22 constellation regions correspond to the 22 apparent retrograde motions of Mercury over a 7-year period. These 22 regions are named as per Paleo-Hebrew Alphabet letter meanings.
