@@ -11,16 +11,13 @@ Much of this preliminary research is explored in detail through the [Alef-Tav Ca
   - The apparent recognizable shapes were used to track the positions of the Sun, Moon, and planets on the ecliptic path.
   - Apparent recognizable shapes in the Milky Way were used for naming conventions. The Paleo-Hebrew alphabet letter meanings are describing 22 apparent shapes in the Milky Way.
   - When the Milky Way is above or below the ecliptic path, the horizon is used as a transversal line between the Milky Way and the ecliptic.  
-  - Most but not all letters from the Dead Sea Scroll [11Q1 - 11Q paleoLev](https://www.deadseascrolls.org.il/explore-the-archive/image/B-513117) have a vertical pen stroke that changes angle in relation to the horizontal line on the page.  The red line on the page can be aligned with the ecliptic path and the vertical penstroke aligns with the sunset horizon.
+  - Most but not all letters from the Dead Sea Scroll [11Q1 - 11Q paleoLev](https://www.deadseascrolls.org.il/explore-the-archive/image/B-513117) have a vertical pen stroke that changes angle in relation to the horizontal line on the page.  The red line on the page can be aligned with the ecliptic path and the vertical penstroke aligns with the sunset horizon.  See [Chapter 9](https://www.youtube.com/watch?v=x8pbYoZQ3v0). 
 ![Paleo Hebrew Angles](https://raw.githubusercontent.com/alef-tav-calendar/alef-tav-calendar/refs/heads/main/documents/paleo_hebrew_angles.jpg)
-  - See [Chapter 9](https://www.youtube.com/watch?v=x8pbYoZQ3v0). 
 
-* The 22 constellation regions correspond to the 22 apparent retrograde motions of Mercury over a 7-year period. Mercury divides the ecliptic path into 22 regions. 
+* The 22 constellation regions correspond to the 22 apparent retrograde motions of Mercury over a 7-year period. Mercury divides the ecliptic path into 22 regions.  See [Chapter 39](https://www.youtube.com/watch?v=dWHMoqggJig).
 ![Mercury 22 Apparent Retrogrades](https://raw.githubusercontent.com/alef-tav-calendar/alef-tav-calendar/refs/heads/main/documents/mercury_22_letters.png)
-  - See [Chapter 39](https://www.youtube.com/watch?v=dWHMoqggJig).
-  - 22 regions and apparent shapes in the milky way are described using the Paleo-Hebrew Alphabet letter meanings: Alef means Ox shape, Beth means House shape, Gimel means Camel shape etc...
+  - 22 regions and apparent shapes in the milky way are described using the Paleo-Hebrew Alphabet letter meanings: Alef means Ox shape, Beth means House shape, Gimel means Camel shape etc...  See [Chapter 19](https://www.youtube.com/watch?v=p5pBJx-jWuE&list=PLbRaSh0207d5oxxRnekgN2GdKQNFtZT2z). More examples in Chapters 20 to 26.
 ![Alef Ox](https://raw.githubusercontent.com/alef-tav-calendar/alef-tav-calendar/refs/heads/main/documents/alef_ox.jpg)
-  - See [Chapter 19](https://www.youtube.com/watch?v=p5pBJx-jWuE&list=PLbRaSh0207d5oxxRnekgN2GdKQNFtZT2z). More examples in Chapters 20 to 26.
 
 * Testing the Alef-Tav Calendar system with the Noah narrative in Genesis revealed that the narrative precisely follows the night sky over the course of one year.  Key astronomical events corresponding to Genesis 7–8 include:
 ![Noah calendar](https://raw.githubusercontent.com/alef-tav-calendar/alef-tav-calendar/refs/heads/main/documents/noah_timeline_reversed_2024_04_17.png)
