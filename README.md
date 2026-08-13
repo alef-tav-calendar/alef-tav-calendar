@@ -15,9 +15,13 @@ Much of this preliminary research is explored in detail through the [Alef-Tav Ca
 ![Paleo Hebrew Angles](https://raw.githubusercontent.com/alef-tav-calendar/alef-tav-calendar/refs/heads/main/documents/paleo_hebrew_angles.jpg)
   - See [Chapter 9](https://www.youtube.com/watch?v=x8pbYoZQ3v0). 
 
-* The 22 constellation regions correspond to the 22 apparent retrograde motions of Mercury over a 7-year period. These 22 regions are named as per Paleo-Hebrew Alphabet letter meanings.
+* The 22 constellation regions correspond to the 22 apparent retrograde motions of Mercury over a 7-year period. Mercury divides the ecliptic path into 22 regions. 
 ![Mercury 22 Apparent Retrogrades](https://raw.githubusercontent.com/alef-tav-calendar/alef-tav-calendar/refs/heads/main/documents/mercury_22_letters.png)
   - See [Chapter 39](https://www.youtube.com/watch?v=dWHMoqggJig).
+  - 22 regions and apparent shapes in the milky way are described using the Paleo-Hebrew Alphabet letter meanings: Alef means Ox shape, Beth means House shape, Gimel means Camel shape etc...
+![Alef Ox](https://raw.githubusercontent.com/alef-tav-calendar/alef-tav-calendar/refs/heads/main/documents/alef_ox.jpg)
+  - See [Chapter 19](https://www.youtube.com/watch?v=p5pBJx-jWuE&list=PLbRaSh0207d5oxxRnekgN2GdKQNFtZT2z). More examples in Chapters 20 to 26.
+
 * Testing the Alef-Tav Calendar system with the Noah narrative in Genesis revealed that the narrative precisely follows the night sky over the course of one year.  Key astronomical events corresponding to Genesis 7–8 include:
 ![Noah calendar](https://raw.githubusercontent.com/alef-tav-calendar/alef-tav-calendar/refs/heads/main/documents/noah_timeline_reversed_2024_04_17.png)
   - Oct 14, -2726 (7:4,6): Fall equinox
@@ -28,9 +32,9 @@ Much of this preliminary research is explored in detail through the [Alef-Tav Ca
   - July 10, -2725 (8:6-9): Venus ends retrograde motion
   - July 17, -2725 (8:10): Summer solstice (longest day)
   - July 24, -2725 (8:12): Mercury retrograde
-  - Aug 27, -2725 (8:13): Noah’s birthdate (first month, head of the year)
+  - Aug 27, -2725 (8:13): Noah’s birth date (first month, head of the year)
   - Oct 21, -2725 (8:14): Completion of a full 365-day solar year via lunar month count
-  - The Genesis dating system is far suprior and is much more advanced than the Mesopotamian story: Epic of Gilgamesh.
+  - The Genesis dating system is far superior and is much more advanced than the Mesopotamian flood story: Epic of Gilgamesh.
 * The birth dates in Genesis 5 track earth's axial precession. [Chapter 54](https://www.youtube.com/watch?v=v72Zm76FQBY) is summarized in this short video:
 [![Genesis 5 - Axial Precession](https://raw.githubusercontent.com/alef-tav-calendar/alef-tav-calendar/refs/heads/main/documents/gen_5_youtube_thumbnail.jpg)](https://youtu.be/fzdNpwn5kTc)
 
