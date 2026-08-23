@@ -18,11 +18,10 @@ Much of this preliminary research is explored in detail through the [Alef-Tav Ca
 
   - The 22 constellation regions correspond to the 22 apparent retrograde motions of Mercury over a 7-year period. Mercury divides the ecliptic path into 22 regions, which in turn is used to track the positions of the Sun, Moon, and planets.  See [Chapter 39](https://www.youtube.com/watch?v=dWHMoqggJig).
 ![Mercury 22 Apparent Retrogrades](https://raw.githubusercontent.com/alef-tav-calendar/alef-tav-calendar/refs/heads/main/documents/mercury_22_letters.png)
-![Mercury 22 Apparent Retrogrades Stellarium](https://raw.githubusercontent.com/alef-tav-calendar/alef-tav-calendar/refs/heads/main/documents/22_retrogrades/Mercury_22_loops.png)
+![Mercury 22 Apparent Retrogrades Stellarium](https://raw.githubusercontent.com/alef-tav-calendar/alef-tav-calendar/refs/heads/main/documents/22_retrogrades/Mercury_22_loops.jpg)
 
-  - Apparent recognizable shapes in the Milky Way were used for naming conventions to describe regions. The Paleo-Hebrew alphabet letter meanings describe 22 apparent shapes in the Milky Way. e.g. Alef means Ox shape, Beth means House shape, Gimel means Camel shape, etc.  See [Chapter 19](https://www.youtube.com/watch?v=p5pBJx-jWuE&list=PLbRaSh0207d5oxxRnekgN2GdKQNFtZT2z). More examples in Chapters 20 to 26.
-![Alef Ox](https://raw.githubusercontent.com/alef-tav-calendar/alef-tav-calendar/refs/heads/main/documents/alef_ox.jpg)
-    - List of Hebrew Letter locations and meanings: [22 Retrogrades](22_retrogrades/README.md)
+  - Apparent recognizable shapes in the Milky Way were used for naming conventions to describe regions. The Paleo-Hebrew alphabet letter meanings describe 22 apparent shapes in the Milky Way. e.g. Alef means Ox shape, Beth means House shape, Gimel means Camel shape, etc. [Full List of 22 Letter Regions](22_retrogrades/README.md). See also [Chapter 19](https://www.youtube.com/watch?v=p5pBJx-jWuE&list=PLbRaSh0207d5oxxRnekgN2GdKQNFtZT2z). More examples in Chapters 20 to 26.
+![Alef Ox](https://raw.githubusercontent.com/alef-tav-calendar/alef-tav-calendar/refs/heads/main/documents/alef_ox.jpg) 
 
 * Testing the Alef-Tav Calendar system with the Noah narrative in Genesis revealed that the narrative precisely follows the night sky over the course of one year.  Key astronomical events corresponding to Genesis 7–8 include:
 ![Noah calendar](https://raw.githubusercontent.com/alef-tav-calendar/alef-tav-calendar/refs/heads/main/documents/noah_timeline_reversed_2024_04_17.png)
