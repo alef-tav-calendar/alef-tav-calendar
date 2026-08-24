@@ -3,7 +3,7 @@
 This is a preliminary research project investigating how the 22 letters of the Hebrew alphabet were part of a calendar system. Mercury, the innermost planet, has a faster orbit than Earth and creates a pattern of rising and setting at sunset 3 times a year and 22 times over 7 years. Apparent shapes in the Milky Way matching the meaning of each letter appear to have been used to name regions of space along the ecliptic. The sunset horizon was a transversal line to map named regions of the Milky Way to the ecliptic path of the sun, moon, and planets. The following 22 apparent retrograde loops were created using Stellarium, and the letters and meanings were overlaid using GNU Image Manipulation Program.
 
 ![Mercury 22 loops](Mercury_22_loops.jpg)
-Stellarium Starting in -2726, 2, 26: *Alef*.  When Mercury returns to *Alef* after 3 loops it loops on the previous letter *Tav* instead of *Alef*.
+Stellarium Starting in -4382, 2, 26: *Alef*.  When Mercury returns to *Alef* after 3 loops it loops on the previous letter *Tav* instead of *Alef*.
 
 | REGION 1 | REGION 2 | REGION 3 |
 |----------|----------|----------|
