@@ -3,7 +3,7 @@
 This is a preliminary research project investigating how the 22 letters of the Hebrew alphabet were part of a calendar system. Mercury, the innermost planet, has a faster orbit than Earth and creates a pattern of rising and setting at sunset 3 times a year and 22 times over 7 years. Apparent shapes in the Milky Way matching the meaning of each letter appear to have been used to name regions of space along the ecliptic. The sunset horizon was a transversal line to map named regions of the Milky Way to the ecliptic path of the sun, moon, and planets. The following 22 apparent retrograde loops were created using Stellarium, and the letters and meanings were overlaid using GNU Image Manipulation Program.
 
 ![Mercury 22 loops](Mercury_22_loops.jpg)
-Stellarium Starting in -4382, 2, 26: *Alef*.  When Mercury returns to *Alef* after 3 loops it loops on the previous letter *Tav* instead of *Alef*.
+Stellarium starting date for *Alef*: -4382, 2, 26.  Mercury returns to *Alef* after 3 loops but the retrograde occurs on the previous letter *Tav* instead of repeating *Alef*.
 
 | REGION 1 | REGION 2 | REGION 3 |
 |----------|----------|----------|
@@ -41,20 +41,20 @@ For each letter:
 ![Alef 3](01_Alef3.jpg)
 
 **Discussion:**
- - Lexical meaning: Ox (certain)
+ - Lexical meaning: Ox (certain).
  - Ox shape: found one (easy).
  - Paleo Hebrew letter shape: found one (easy).
  - Ktav Ashuri (Assyrian script) letter shape: found one (easy).
 
 Instead of following the horizon to the Milky Way on the right, this letter is touching the Milky Way above.
 
-The star region shows an apparent shape of an Ox which was easy to find.  Inside Stellarium Sky Cultures we find this region has a shared meaning with other various cultures through time:
+The star region shows an apparent shape of an Ox which was easy to find.  Inside Stellarium Sky Cultures we find this region has a shared meaning with various other cultures through time:
  - Bull
  - [Taurus](https://en.wikipedia.org/wiki/Taurus_(constellation)) (Roman/Latin for Bull)
 
 The Alef letter shape is not depicting the Ox itself but rather a dark cloud nebula at the mouth of the Ox.  This makes sense because the sound of Alef resembles the sound that an Ox makes. See [Decoding Alef: An Ox shape in the nebula? #19](https://www.youtube.com/watch?v=p5pBJx-jWuE).
 
-It seems the clear dark desert skies of the fertile crescent gave astronomers and astrologers the apparent shape of an Ox or Bull in the Milky Way that was passed between nations. Hebrews, Egyptians, Babylonians, Medes & Persians, Greeks, Romans, etc.  However, it is apparent that not all astronomers could observed the Milky way from the clear-desert-sky regions not to mention were at latitudes and time periods where the horizon did not align the same way to the ecliptic path.  The latter astronomers had to rely on the stars only — even to the point where the Milky Way shapes seem to have been forgotten.  Forgotten up until around 2021, in the second year of this preliminary research, where I started noticing these shapes and correlations.
+It seems the clear dark desert skies of the fertile crescent gave astronomers and astrologers the apparent shape of an Ox or Bull in the Milky Way that was passed between nations. Hebrews, Egyptians, Babylonians, Medes & Persians, Greeks, Romans, etc.  However, it is apparent that not all astronomers could observe the Milky Way from the clear desert sky regions, not to mention those at latitudes and time periods where the horizon did not align with the ecliptic path.  The latter astronomers had to rely on the stars only — even to the point where the Milky Way shapes seem to have been forgotten.  Forgotten up until around 2021, in the second year of this preliminary research, where I started noticing these shapes and correlations.
 
 ---
 
@@ -69,12 +69,12 @@ It seems the clear dark desert skies of the fertile crescent gave astronomers an
 ![Bet 3](02_Bet3.jpg)
 
 **Discussion:**
- - Lexical meaning: House (certain)
+ - Lexical meaning: House (certain).
  - House shape: found multiple.
  - Paleo Hebrew letter shape: found multiple.
- - Ktav Ashuri (Assyrian script) letter shape: found multiple.
+ - Ktav Ashuri (Assyrian script) letter shape: similar to Paleo Hebrew.
 
-The regions where the ecliptic path bisects the Milky Way I find more difficult as there are multiple shapes that match the meaning of the letter.  Shapes found in both west sunset and east sunrise orientations of the Milky Way.
+The regions where the ecliptic path bisects the Milky Way I find more difficult in that there are multiple shapes that match the meaning of the letter.  Top row of the above image represents looking West as the Milky Way goes toward sunset where a simple house is seen wide at the bottom narrow at the top. The bottom row is the Milky Way as it rises in the east, which has two temple-like houses. The last resembling the temple that David and Solomon worked had a tall front face and two pillars in front.
 
 [Decoding Beth: a House shape in the nebula? #21](https://www.youtube.com/watch?v=kCLfgkLFryU)
 
@@ -91,7 +91,7 @@ The regions where the ecliptic path bisects the Milky Way I find more difficult 
 ![Gimel 3](03_Gimel3.jpg)
 
 **Discussion:**
- - Lexical meaning: Camel (certain)
+ - Lexical meaning: Camel (certain).
  - Camel shape: found two.
  - Paleo Hebrew letter shape: found multiple.
  - Ktav Ashuri (Assyrian script) letter shape: found multiple.
@@ -104,15 +104,15 @@ There seem to be 2 Camel shapes that match.  There are also about 3 regions that
 
 **Meaning:** Door
 
-![Dalet 1](04_Dawlet1.jpg)
+![Dalet 1](04_Dalet1.jpg)
 
-![Dalet 2](04_Dawlet2.jpg)
+![Dalet 2](04_Dalet2.jpg)
 
 **Discussion:**
- - Lexical meaning: Door (certain)
- - Door shape: 
- - Paleo Hebrew letter shape: 
- - Ktav Ashuri (Assyrian script) letter shape: 
+ - Lexical meaning: Door (certain).
+ - Door shape: found.
+ - Paleo Hebrew letter shape: found.
+ - Ktav Ashuri (Assyrian script) letter shape: found. 
 
 ---
 
@@ -125,10 +125,10 @@ There seem to be 2 Camel shapes that match.  There are also about 3 regions that
 ![He 2](05_Hey2.jpg)
 
 **Discussion:**
- - Lexical meaning: Window (certain)
- - Window shape: found multiple
- - Paleo Hebrew letter shape: 
- - Ktav Ashuri (Assyrian script) letter shape: 
+ - Lexical meaning: Window (certain).
+ - Window shape: found multiple.
+ - Paleo Hebrew letter shape: found.
+ - Ktav Ashuri (Assyrian script) letter shape: found. 
 
 This one is difficult as there are multiple faint shapes in the Milky Way. This portion of the Milky Way also sits low on the horizon, so it would have been difficult to see.
 
@@ -143,10 +143,10 @@ This one is difficult as there are multiple faint shapes in the Milky Way. This 
 ![Vav 2](06_Waw2.jpg)
 
 **Discussion:**
- - Lexical meaning: Hook (certain)
- - Hook shape: 
- - Paleo Hebrew letter shape: 
- - Ktav Ashuri (Assyrian script) letter shape: 
+ - Lexical meaning: Hook (certain).
+ - Hook shape: found.
+ - Paleo Hebrew letter shape: found.
+ - Ktav Ashuri (Assyrian script) letter shape: found. 
 
 ---
 
@@ -154,31 +154,31 @@ This one is difficult as there are multiple faint shapes in the Milky Way. This 
 
 **Meaning:** Weapon (of a man)
 
-![Zayin 1](07_Zayn1.jpg)
+![Zayin 1](07_Zayin1.jpg)
 
-![Zayin 2](07_Zayn2.jpg)
+![Zayin 2](07_Zayin2.jpg)
 
 **Discussion:**
- - Lexical meaning: Weapon *of a man* (uncertain)
- - Weapon shape: 
- - Paleo Hebrew letter shape: 
- - Ktav Ashuri (Assyrian script) letter shape: 
+ - Lexical meaning: Weapon *of a man* (uncertain).
+ - Weapon shape: found.
+ - Paleo Hebrew letter shape: found.
+ - Ktav Ashuri (Assyrian script) letter shape: found. 
 
 ---
 
-## 8. Chet (חֵית) — ח
+## 8. Khet (חֵית) — ח
 
 **Meaning:** Fence
 
-![Chet 1](08_Khet1.jpg)
+![Khet 1](08_Khet1.jpg)
 
-![Chet 2](08_Khet2.jpg)
+![Khet 2](08_Khet2.jpg)
 
 **Discussion:**
- - Lexical meaning: Fence (uncertain)
- - Fence shape: 
- - Paleo Hebrew letter shape: 
- - Ktav Ashuri (Assyrian script) letter shape: 
+ - Lexical meaning: Fence (uncertain).
+ - Fence shape: found.
+ - Paleo Hebrew letter shape: found.
+ - Ktav Ashuri (Assyrian script) letter shape: found. 
 
 ---
 
@@ -191,10 +191,10 @@ This one is difficult as there are multiple faint shapes in the Milky Way. This 
 ![Tet 2](09_Tet2.jpg)
 
 **Discussion:**
- - Lexical meaning: Spinning wheel, serpent (uncertain)
- - Spinning wheel shape: 
- - Paleo Hebrew letter shape: 
- - Ktav Ashuri (Assyrian script) letter shape: 
+ - Lexical meaning: Spinning wheel, serpent (uncertain).
+ - Spinning wheel shape: found.
+ - Paleo Hebrew letter shape: found.
+ - Ktav Ashuri (Assyrian script) letter shape: found. 
 
 ---
 
@@ -207,10 +207,10 @@ This one is difficult as there are multiple faint shapes in the Milky Way. This 
 ![Yod 2](10_Yod2.jpg)
 
 **Discussion:**
- - Lexical meaning: Hand (certain)
- - Hand shape: 
- - Paleo Hebrew letter shape: 
- - Ktav Ashuri (Assyrian script) letter shape: 
+ - Lexical meaning: Hand (certain).
+ - Hand shape: found.
+ - Paleo Hebrew letter shape: found.
+ - Ktav Ashuri (Assyrian script) letter shape: found. 
 
 ---
 
@@ -223,10 +223,10 @@ This one is difficult as there are multiple faint shapes in the Milky Way. This 
 ![Kaf 2](11_Kaf2.jpg)
 
 **Discussion:**
- - Lexical meaning: Palm of hand *or foot*
- - Palm shape: 
- - Paleo Hebrew letter shape: 
- - Ktav Ashuri (Assyrian script) letter shape: 
+ - Lexical meaning: Palm of hand *or foot*.
+ - Palm shape: found.
+ - Paleo Hebrew letter shape: found.
+ - Ktav Ashuri (Assyrian script) letter shape: found. 
 
 ---
 
@@ -239,10 +239,10 @@ This one is difficult as there are multiple faint shapes in the Milky Way. This 
 ![Lamed 2](12_Lamed2.jpg)
 
 **Discussion:**
- - Lexical meaning: Ox-goad (certain)
- - Ox-goad shape: 
- - Paleo Hebrew letter shape: 
- - Ktav Ashuri (Assyrian script) letter shape: 
+ - Lexical meaning: Ox-goad (certain).
+ - Ox-goad shape: found.
+ - Paleo Hebrew letter shape: found.
+ - Ktav Ashuri (Assyrian script) letter shape: found. 
 
 ---
 
@@ -255,10 +255,10 @@ This one is difficult as there are multiple faint shapes in the Milky Way. This 
 ![Mem 2](13_Mem2.jpg)
 
 **Discussion:**
- - Lexical meaning: Waters (certain)
- - Waters shape: 
- - Paleo Hebrew letter shape: 
- - Ktav Ashuri (Assyrian script) letter shape: 
+ - Lexical meaning: Waters (certain).
+ - Waters shape: found.
+ - Paleo Hebrew letter shape: found.
+ - Ktav Ashuri (Assyrian script) letter shape: found. 
 
 ---
 
@@ -271,10 +271,10 @@ This one is difficult as there are multiple faint shapes in the Milky Way. This 
 ![Nun 2](14_Nun2.jpg)
 
 **Discussion:**
- - Lexical meaning: Fish (certain)
- - Fish shape: 
- - Paleo Hebrew letter shape: 
- - Ktav Ashuri (Assyrian script) letter shape: 
+ - Lexical meaning: Fish (certain).
+ - Fish shape: found.
+ - Paleo Hebrew letter shape: found.
+ - Ktav Ashuri (Assyrian script) letter shape: found. 
 
 ---
 
@@ -287,10 +287,10 @@ This one is difficult as there are multiple faint shapes in the Milky Way. This 
 ![Samekh 2](15_Samek2.jpg)
 
 **Discussion:**
- - Lexical meaning: Support (uncertain)
- - Support shape: 
- - Paleo Hebrew letter shape: 
- - Ktav Ashuri (Assyrian script) letter shape: 
+ - Lexical meaning: Support (uncertain).
+ - Support shape: found.
+ - Paleo Hebrew letter shape: found.
+ - Ktav Ashuri (Assyrian script) letter shape: found. 
 
 ---
 
@@ -303,10 +303,10 @@ This one is difficult as there are multiple faint shapes in the Milky Way. This 
 ![Ayin 2](16_Ayin2.jpg)
 
 **Discussion:**
- - Lexical meaning: Eye/spring (certain)
- - Eye shape: 
- - Paleo Hebrew letter shape: 
- - Ktav Ashuri (Assyrian script) letter shape: 
+ - Lexical meaning: Eye/spring (certain).
+ - Eye shape: found.
+ - Paleo Hebrew letter shape: found.
+ - Ktav Ashuri (Assyrian script) letter shape: found. 
 
 ---
 
@@ -319,38 +319,38 @@ This one is difficult as there are multiple faint shapes in the Milky Way. This 
 ![Pe 2](17_Pe2.jpg)
 
 **Discussion:**
- - Lexical meaning: Mouth (certain)
- - Mouth shape: found
- - Paleo Hebrew letter shape: found
- - Ktav Ashuri (Assyrian script) letter shape: found
+ - Lexical meaning: Mouth (certain).
+ - Mouth shape: found.
+ - Paleo Hebrew letter shape: found.
+ - Ktav Ashuri (Assyrian script) letter shape: found.
 
 The mouth and letter shape were easy to find.  *Pe* has an unvoiced *P* sound made by pushing air through the lips.  The mouth shape of the nebula represents the lips.
 
-Without looking at the Milky Way but stringing the Paleo-Hebrew letters together I noticed the letters form a static animation of a fish being pulled from the water with a fishhook.
+Without looking at the Milky Way but stringing the Paleo-Hebrew letters together, I noticed the letters form a static animation of a fish being pulled from the water with a fish-hook.
  - Mem (Water),
  - Nun (Fish resembling tail of fish),
  - Samekh (Support body of fish),
  - Ayin (eye of fish),
  - Pe (mouth of fish),
- - Tsade (fish hook)
+ - Tsadi (fish-hook)
 
 ---
 
 ## 18. Tsadi (צָדִי) — צ
 
-**Meaning:** Fishhook or side/hunt
+**Meaning:** Fish-hook or side/hunt
 
-![Tsadi 1](18_Tsade1.jpg)
+![Tsadi 1](18_Tsadi1.jpg)
 
-![Tsadi 2](18_Tsade2.jpg)
+![Tsadi 2](18_Tsadi2.jpg)
 
 **Discussion:**
- - Lexical meaning: Fishhook
- - Fishhook shape: found (difficult)
- - Paleo Hebrew letter shape: found (difficult)
- - Ktav Ashuri (Assyrian script) letter shape: 
+ - Lexical meaning: Fish-hook.
+ - Fish-hook shape: found (difficult).
+ - Paleo Hebrew letter shape: found (difficult).
+ - Ktav Ashuri (Assyrian script) letter shape: found. 
 
-I found it difficult to locate a fish-hook shape and the shape of the Paleo Hebrew letter.
+I found it difficult to locate a Fish-hook shape and the shape of the Paleo Hebrew letter.
 
 ---
 
@@ -363,12 +363,12 @@ I found it difficult to locate a fish-hook shape and the shape of the Paleo Hebr
 ![Qof 2](19_Qof2.jpg)
 
 **Discussion:**
- - Lexical meaning: Monkey or Back of neck (certain)
- - Monkey shape: found 2
- - Paleo Hebrew letter shape: found
- - Ktav Ashuri (Assyrian script) letter shape: 
+ - Lexical meaning: Monkey or Back of neck (certain).
+ - Monkey shape: found 2.
+ - Paleo Hebrew letter shape: found.
+ - Ktav Ashuri (Assyrian script) letter shape: found. 
 
-Finding a monkey shape is relatively easy and matches the letter shape.  I could not find the shape of the back of the neck, so it might be the scholars were attempting to describe the location where the *Qof* sound comes from in the lower throat, paired with the shape of the letter.
+Finding a monkey shape is relatively easy and matches the letter shape.  I could not find the shape of the back of the neck, so it might be that the scholars were attempting to describe the location where the *Qof* sound comes from in the lower throat, paired with the shape of the letter.
 
 ---
 
@@ -381,14 +381,14 @@ Finding a monkey shape is relatively easy and matches the letter shape.  I could
 ![Resh 2](20_Resh2.jpg)
 
 **Discussion:**
- - Lexical meaning: Head
+ - Lexical meaning: Head.
  - Head shape: found head of lion or bear.
- - Paleo Hebrew letter shape: 
- - Ktav Ashuri (Assyrian script) letter shape: 
+ - Paleo Hebrew letter shape: found.
+ - Ktav Ashuri (Assyrian script) letter shape: found. 
 
 Lexicons and those who study Hebrew alphabet will sometimes refer to the shape of a head of a man.  However, the apparent shape of the Head is that of a Lion or Bear, which suddenly makes more sense when we consider the *R* sound that *Resh* makes.
 
-TODO: Once finished the 22 Retrograde loops of Mercury show how this region relates to the Lunar calendar region of the tribe of Gad as the lion, torn arm and crown of the head are all visible here.
+TODO: Once finished, the 22 Retrograde loops of Mercury show how this region relates to the Lunar calendar region of the tribe of Gad, as the lion, torn arm, and crown of the head are all visible here.
 
 > Of Gad he said,
 > “Blessed is the one who enlarges Gad; 
@@ -411,10 +411,10 @@ TODO: Once finished the 22 Retrograde loops of Mercury show how this region rela
 ![Shin 2](21_Shin2.jpg)
 
 **Discussion:**
- - Lexical meaning: Teeth
+ - Lexical meaning: Teeth.
  - Teeth shape: found multiple.
- - Paleo Hebrew letter shape: 
- - Ktav Ashuri (Assyrian script) letter shape: 
+ - Paleo Hebrew letter shape: found.
+ - Ktav Ashuri (Assyrian script) letter shape: found. 
 
 ---
 
@@ -427,9 +427,9 @@ TODO: Once finished the 22 Retrograde loops of Mercury show how this region rela
 ![Tav 2](22_Tav2.jpg)
 
 **Discussion:**
- - Lexical meaning: Mark
+ - Lexical meaning: Mark.
  - Mark shape: found.
  - Paleo Hebrew letter shape: found.
- - Ktav Ashuri (Assyrian script) letter shape: 
+ - Ktav Ashuri (Assyrian script) letter shape: found. 
 
 ---
