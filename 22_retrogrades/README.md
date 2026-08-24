@@ -66,6 +66,8 @@ It seems the clear dark desert skies of the fertile crescent gave astronomers an
 
 ![Bet 2](02_Bet2.jpg)
 
+![Bet 3](02_Bet3.jpg)
+
 **Discussion:**
  - Lexical meaning: House (certain)
  - House shape: found multiple.
