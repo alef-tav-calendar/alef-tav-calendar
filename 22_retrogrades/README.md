@@ -46,15 +46,15 @@ For each letter:
  - Paleo Hebrew letter shape: found one (easy).
  - Ktav Ashuri (Assyrian script) letter shape: found one (easy).
 
-The star region shows an apparent shape of an Ox which I found was easy to find.  Inside Stellarium Sky Cultures we find this region has a shared meaning:
+Instead of following the horizon to the Milky Way on the right, this letter is touching the Milky Way above.
+
+The star region shows an apparent shape of an Ox which was easy to find.  Inside Stellarium Sky Cultures we find this region has a shared meaning with other various cultures through time:
  - Bull
  - [Taurus](https://en.wikipedia.org/wiki/Taurus_(constellation)) (Roman/Latin for Bull)
 
-It seems the clear dark desert skies of the fertile crescent gave astronomers and astrologers the apparent shape of an Ox or Bull in the Milky Way that was passed between nations. Hebrews, Egyptians, Babylonians, Medes & Persians, Greeks, Romans, etc.  However, it is apparent that astronomers who did not always observe the night sky from the desert regions had to rely on the stars only because the Milky Way is not as clear to see — even to the point where the Milky Way shapes have been forgotten.
-
 The Alef letter shape is not depicting the Ox itself but rather a dark cloud nebula at the mouth of the Ox.  This makes sense because the sound of Alef resembles the sound that an Ox makes. See [Decoding Alef: An Ox shape in the nebula? #19](https://www.youtube.com/watch?v=p5pBJx-jWuE).
 
-
+It seems the clear dark desert skies of the fertile crescent gave astronomers and astrologers the apparent shape of an Ox or Bull in the Milky Way that was passed between nations. Hebrews, Egyptians, Babylonians, Medes & Persians, Greeks, Romans, etc.  However, it is apparent that not all astronomers could observed the Milky way from the clear-desert-sky regions not to mention were at latitudes and time periods where the horizon did not align the same way to the ecliptic path.  The latter astronomers had to rely on the stars only — even to the point where the Milky Way shapes seem to have been forgotten.  Forgotten up until around 2021, in the second year of this preliminary research, where I started noticing these shapes and correlations.
 
 ---
 
