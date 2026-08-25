@@ -1,9 +1,9 @@
 # Hebrew Alphabet (Alef-Tav)
 
-This is a preliminary research project investigating how the 22 letters of the Hebrew alphabet were part of a calendar system. Mercury, the innermost planet, has a faster orbit than Earth and creates a pattern of rising and setting at sunset 3 times a year and 22 times over 7 years. Apparent shapes in the Milky Way matching the meaning of each letter appear to have been used to name regions of space along the ecliptic. The sunset horizon was a transversal line to map named regions of the Milky Way to the ecliptic path of the sun, moon, and planets. The following 22 apparent retrograde loops were created using Stellarium, and the letters and meanings were overlaid using GNU Image Manipulation Program.
+This is a preliminary research project investigating how the 22 letters of the Hebrew alphabet were part of a calendar system. Mercury, the innermost planet, has a faster orbit than Earth and creates a pattern of rising and setting at sunset 3 times a year and 22 times over 7 years. Apparent shapes in the Milky Way matching the meaning of each letter appear to have been used to name regions of space along the ecliptic. The sunset horizon was a transverse line to map named regions of the Milky Way to the ecliptic path of the sun, moon, and planets. The following 22 apparent retrograde loops were created using Stellarium, and the letters and meanings were overlaid using GNU Image Manipulation Program.
 
 ![Mercury 22 loops](Mercury_22_loops.jpg)
-Stellarium starting date for *Alef*: -4382, 2, 26.  Mercury returns to *Alef* after 3 loops but the retrograde occurs on the previous letter *Tav* instead of repeating *Alef*.
+Mercury's 22 apparent retrograde loops starting in *Alef/Ox* date: -4382, 2, 26.
 
 | REGION 1 | REGION 2 | REGION 3 |
 |----------|----------|----------|
@@ -48,13 +48,13 @@ For each letter:
 
 Instead of following the horizon to the Milky Way on the right, this letter is touching the Milky Way above.
 
-The star region shows an apparent shape of an Ox which was easy to find.  Inside Stellarium Sky Cultures we find this region has a shared meaning with various other cultures through time:
+The star region shows an apparent shape of an Ox which was easy to find.  In Stellarium's Sky Cultures, we find this region has a shared meaning with various other cultures through time:
  - Bull
  - [Taurus](https://en.wikipedia.org/wiki/Taurus_(constellation)) (Roman/Latin for Bull)
 
 The Alef letter shape is not depicting the Ox itself but rather a dark cloud nebula at the mouth of the Ox.  This makes sense because the sound of Alef resembles the sound that an Ox makes. See [Decoding Alef: An Ox shape in the nebula? #19](https://www.youtube.com/watch?v=p5pBJx-jWuE).
 
-It seems the clear dark desert skies of the fertile crescent gave astronomers and astrologers the apparent shape of an Ox or Bull in the Milky Way that was passed between nations. Hebrews, Egyptians, Babylonians, Medes & Persians, Greeks, Romans, etc.  However, it is apparent that not all astronomers could observe the Milky Way from the clear desert sky regions, not to mention those at latitudes and time periods where the horizon did not align with the ecliptic path.  The latter astronomers had to rely on the stars only — even to the point where the Milky Way shapes seem to have been forgotten.  Forgotten up until around 2021, in the second year of this preliminary research, where I started noticing these shapes and correlations.
+It seems the clear dark desert skies of the fertile crescent gave astronomers and astrologers the apparent shape of an Ox or Bull in the Milky Way that was passed between nations. Hebrews, Egyptians, Babylonians, Medes and Persians, Greeks, Romans, etc.  However, it is apparent that not all astronomers could observe the Milky Way from the clear desert sky regions, not to mention those at latitudes and time periods where the horizon did not align with the ecliptic path.  The latter astronomers had to rely on the stars only — even to the point where the Milky Way shapes seem to have been forgotten.  Forgotten until around 2021, in the second year of this preliminary research, where I started noticing these shapes and correlations.
 
 ---
 
@@ -74,7 +74,7 @@ It seems the clear dark desert skies of the fertile crescent gave astronomers an
  - Paleo Hebrew letter shape: found multiple.
  - Ktav Ashuri (Assyrian script) letter shape: similar to Paleo Hebrew.
 
-The regions where the ecliptic path bisects the Milky Way I find more difficult in that there are multiple shapes that match the meaning of the letter.  Top row of the above image represents looking West as the Milky Way goes toward sunset where a simple house is seen wide at the bottom narrow at the top. The bottom row is the Milky Way as it rises in the east, which has two temple-like houses. The last resembling the temple that David and Solomon worked had a tall front face and two pillars in front.
+The regions where the ecliptic path bisects the Milky Way are more difficult to interpret, as there are multiple shapes that match the meaning of the letter.  Top row of the above image represents looking West as the Milky Way goes toward sunset where a simple house is seen wide at the bottom narrow at the top. The bottom row is the Milky Way as it rises in the east, which has two temple-like houses. The last resembles the temple that David and Solomon worked on, which had a tall front face and two pillars.
 
 [Decoding Beth: a House shape in the nebula? #21](https://www.youtube.com/watch?v=kCLfgkLFryU)
 
@@ -96,7 +96,9 @@ The regions where the ecliptic path bisects the Milky Way I find more difficult 
  - Paleo Hebrew letter shape: found multiple.
  - Ktav Ashuri (Assyrian script) letter shape: found multiple.
 
-There seem to be 2 Camel shapes that match.  There are also about 3 regions that match the letter shape.
+There seem to be 2 Camel shapes that match.  There are also about 2 regions that match the letter shape.
+
+See [Decoding Gimel: A Camel shape in the nebula? #20](https://www.youtube.com/watch?v=n0SOUpVgzXM)
 
 ---
 
@@ -108,15 +110,19 @@ There seem to be 2 Camel shapes that match.  There are also about 3 regions that
 
 ![Dalet 2](04_Dalet2.jpg)
 
+![Dalet 3](04_Dalet3.jpg)
+
 **Discussion:**
  - Lexical meaning: Door (certain).
- - Door shape: found.
+ - Door shape: found difficult.
  - Paleo Hebrew letter shape: found.
  - Ktav Ashuri (Assyrian script) letter shape: found. 
 
+The door shape itself is very faint. The apparent shape of the letter has a dark tail off to the right that does not match the letter exactly.
+ 
 ---
 
-## 5. He (הֵא) — ה
+## 5. He (הֶה) — ה
 
 **Meaning:** Window or lattice
 
@@ -128,7 +134,7 @@ There seem to be 2 Camel shapes that match.  There are also about 3 regions that
  - Lexical meaning: Window (certain).
  - Window shape: found multiple.
  - Paleo Hebrew letter shape: found.
- - Ktav Ashuri (Assyrian script) letter shape: found. 
+ - Ktav Ashuri (Assyrian script) letter shape: found.
 
 This one is difficult as there are multiple faint shapes in the Milky Way. This portion of the Milky Way also sits low on the horizon, so it would have been difficult to see.
 
@@ -278,7 +284,7 @@ This one is difficult as there are multiple faint shapes in the Milky Way. This 
 
 ---
 
-## 15. Samekh (סָמֶךְ) — ס
+## 15. Samekh (סָמֶך) — ס
 
 **Meaning:** Support, prop
 
@@ -310,7 +316,7 @@ This one is difficult as there are multiple faint shapes in the Milky Way. This 
 
 ---
 
-## 17. Pe (פֵּא) — פ
+## 17. Pe (פֶּה) — פ
 
 **Meaning:** Mouth
 
@@ -324,11 +330,11 @@ This one is difficult as there are multiple faint shapes in the Milky Way. This 
  - Paleo Hebrew letter shape: found.
  - Ktav Ashuri (Assyrian script) letter shape: found.
 
-The mouth and letter shape were easy to find.  *Pe* has an unvoiced *P* sound made by pushing air through the lips.  The mouth shape of the nebula represents the lips.
+The mouth and letter shape were easy to find.  *Pe* has a voiceless *P* sound made by pushing air through the lips.  The mouth shape of the nebula represents lips forming that sound.
 
 Without looking at the Milky Way but stringing the Paleo-Hebrew letters together, I noticed the letters form a static animation of a fish being pulled from the water with a fish-hook.
  - Mem (Water),
- - Nun (Fish resembling tail of fish),
+ - Nun (Fish resembling the tail of a fish),
  - Samekh (Support body of fish),
  - Ayin (eye of fish),
  - Pe (mouth of fish),
@@ -336,7 +342,7 @@ Without looking at the Milky Way but stringing the Paleo-Hebrew letters together
 
 ---
 
-## 18. Tsadi (צָדִי) — צ
+## 18. Tsadi (צַדִּי) — צ
 
 **Meaning:** Fish-hook or side/hunt
 
@@ -346,11 +352,11 @@ Without looking at the Milky Way but stringing the Paleo-Hebrew letters together
 
 **Discussion:**
  - Lexical meaning: Fish-hook.
- - Fish-hook shape: found (difficult).
+ - Fish hook shape: found (difficult).
  - Paleo Hebrew letter shape: found (difficult).
  - Ktav Ashuri (Assyrian script) letter shape: found. 
 
-I found it difficult to locate a Fish-hook shape and the shape of the Paleo Hebrew letter.
+I found it difficult to locate a fish hook shape and the shape of the Paleo Hebrew letter.
 
 ---
 
@@ -372,7 +378,7 @@ Finding a monkey shape is relatively easy and matches the letter shape.  I could
 
 ---
 
-## 20. Resh (רֵישׁ) — ר
+## 20. Resh (רֹאשׁ) — ר
 
 **Meaning:** Head (of a lion)
 
@@ -394,9 +400,9 @@ TODO: Once finished, the 22 Retrograde loops of Mercury show how this region rel
 > “Blessed is the one who enlarges Gad; 
 > He lies down as a lion, 
 > And tears the arm, also the crown of the head. 
-> He provided the first(רֵאשִׁית֙) part for himself,
+> He provided the first (רֵאשִׁית֙) part for himself,
 > Because a lawgiver’s portion was reserved there.
-> He came with the heads(רָ֣אשֵׁי) of the people;
+> He came with the heads (רָ֣אשֵׁי) of the people;
 > He administered the justice of the Lord,
 > And His judgments with Israel.”  Deut 33:20-21
 
