@@ -130,13 +130,20 @@ The door shape itself is very faint. The apparent shape of the letter has a dark
 
 ![He 2](05_Hey2.jpg)
 
-**Discussion:**
- - Lexical meaning: Window (certain).
- - Window shape: found multiple.
- - Paleo Hebrew letter shape: found.
- - Ktav Ashuri (Assyrian script) letter shape: found.
+![He 3](05_Hey3.jpg)
 
-This one is difficult as there are multiple faint shapes in the Milky Way. This portion of the Milky Way also sits low on the horizon, so it would have been difficult to see.
+**Discussion:**
+ - Lexical meaning: Window/vent/behold (certain).
+ - Window shape: there are several window shapes but I think they eye (behold) shape might be inferred - although there is *Ayin/Eye* later in the Alphabet.
+ - Paleo Hebrew letter shape: found two.
+ - Ktav Ashuri (Assyrian script) letter shape: not found
+
+
+
+ - Multiple faint shapes in the Milky Way. The larger one is in the red light spectrum and I am unsure if the human eye can detect the red Paleo Hebrew letter *Hey* shape.
+ - This portion of the Milky Way also sits low on the horizon, so it would have been difficult to see.
+ - *Hey* means **window** as well as how you interact with a window: **behold**. (Gen. 47:23)
+
 
 ---
 
