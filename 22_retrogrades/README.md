@@ -138,12 +138,11 @@ The door shape itself is very faint. The apparent shape of the letter has a dark
  - Paleo Hebrew letter shape: found two.
  - Ktav Ashuri (Assyrian script) letter shape: not found
 
+*Hey* means **window** as well as how you interact with a window: **behold**. (Gen. 47:23)
 
+The larger Paleo Hebrew *Hey* shape (bottom right) is in the red light spectrum and I am unsure if the human eye can detect the red Paleo Hebrew letter *Hey* shape. I live too far north and not in dry desert to observe.  The bottom center *Hey* matches both the letter *Hey* and the *behold*.
 
- - Multiple faint shapes in the Milky Way. The larger one is in the red light spectrum and I am unsure if the human eye can detect the red Paleo Hebrew letter *Hey* shape.
- - This portion of the Milky Way also sits low on the horizon, so it would have been difficult to see.
- - *Hey* means **window** as well as how you interact with a window: **behold**. (Gen. 47:23)
-
+This portion of the Milky Way also sits low on the horizon, so it would have been more difficult to see as the light passes through more of earth's atmosphere.
 
 ---
 
@@ -155,11 +154,21 @@ The door shape itself is very faint. The apparent shape of the letter has a dark
 
 ![Vav 2](06_Waw2.jpg)
 
+![Vav 3](06_Waw3.jpg)
+
+![Vav 4](06_Waw4.jpg)
+
 **Discussion:**
  - Lexical meaning: Hook (certain).
- - Hook shape: found.
- - Paleo Hebrew letter shape: found.
- - Ktav Ashuri (Assyrian script) letter shape: found. 
+ - Hook shape: not found.
+ - Paleo Hebrew letter shape: found (difficult).
+ - Ktav Ashuri (Assyrian script) letter shape: not found. 
+
+*Vav* or *Waw* is in a portion of the Milky Way that is very close to the southern horizon, making this region more difficult to observe from the fertile crescent.
+
+*Hook* is a bit too vague of a term to find a shape.  It was also difficult to find both the Paleo Hebrew and Ktav Ashuri shapes.
+
+*Waw* has the sense of hook, join, and the letter is fittingly used as a conjunction to join thoughts in writing and is translated as: *AND*.  The ecliptic region of *Waw* has multiple side-by-side pairs of stars in the last image above.
 
 ---
 
@@ -191,7 +200,7 @@ The door shape itself is very faint. The apparent shape of the letter has a dark
  - Lexical meaning: Fence (uncertain).
  - Fence shape: found.
  - Paleo Hebrew letter shape: found.
- - Ktav Ashuri (Assyrian script) letter shape: found. 
+ - Ktav Ashuri (Assyrian script) letter shape: pending. 
 
 ---
 
@@ -207,7 +216,7 @@ The door shape itself is very faint. The apparent shape of the letter has a dark
  - Lexical meaning: Spinning wheel, serpent (uncertain).
  - Spinning wheel shape: found.
  - Paleo Hebrew letter shape: found.
- - Ktav Ashuri (Assyrian script) letter shape: found. 
+ - Ktav Ashuri (Assyrian script) letter shape: pending. 
 
 ---
 
@@ -255,7 +264,7 @@ The door shape itself is very faint. The apparent shape of the letter has a dark
  - Lexical meaning: Ox-goad (certain).
  - Ox-goad shape: found.
  - Paleo Hebrew letter shape: found.
- - Ktav Ashuri (Assyrian script) letter shape: found. 
+ - Ktav Ashuri (Assyrian script) letter shape: pending. 
 
 ---
 
@@ -273,6 +282,8 @@ The door shape itself is very faint. The apparent shape of the letter has a dark
  - Paleo Hebrew letter shape: found.
  - Ktav Ashuri (Assyrian script) letter shape: found. 
 
+This section is very busy with details which I find it more difficult.
+
 ---
 
 ## 14. Nun (נּון) — נ
@@ -287,7 +298,7 @@ The door shape itself is very faint. The apparent shape of the letter has a dark
  - Lexical meaning: Fish (certain).
  - Fish shape: found.
  - Paleo Hebrew letter shape: found.
- - Ktav Ashuri (Assyrian script) letter shape: found. 
+ - Ktav Ashuri (Assyrian script) letter shape: pending. 
 
 ---
 
