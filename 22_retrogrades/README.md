@@ -146,7 +146,7 @@ This portion of the Milky Way also sits low on the horizon, so it would have bee
 
 ---
 
-## 6. Vav (וָווּ) — ו
+## 6. Vav (וָו) — ו
 
 **Meaning:** Hook (conjunction joining two ideas)
 
@@ -174,17 +174,48 @@ This portion of the Milky Way also sits low on the horizon, so it would have bee
 
 ## 7. Zayin (זַיִין) — ז
 
-**Meaning:** Weapon (of a man)
+**Meaning:** Weapon
 
 ![Zayin 1](07_Zayin1.jpg)
 
 ![Zayin 2](07_Zayin2.jpg)
 
+![Zayin 3](07_Zayin3.jpg)
+
 **Discussion:**
- - Lexical meaning: Weapon *of a man* (uncertain).
+ - Lexical meaning: Weapon (uncertain).
  - Weapon shape: found.
  - Paleo Hebrew letter shape: found.
  - Ktav Ashuri (Assyrian script) letter shape: found. 
+
+
+As the lexicons are uncertain, below are some notes that may or may not help in understanding the nebula shapes that were being described. Possible meanings of the Hebrew letter Zayin (ז):
+
+### Traditional Meaning
+* The traditional Gesenius meaning for Zayin is "sword" or "weapon".
+* Although the modern letter resembles a sword, the Biblical Hebrew word for sword (*Kherrev* / חֶרֶב) does not contain the letter Zayin.
+
+### Additional Lexicon Definitions
+* **Aramaic Lexicon:** Words starting with Zayin include "brightness" or "splendor" (זִיו), "feed" or "well fed" (זוּן), and "food" or "sustenance" (מָזוֹן).
+* **Reproduction / Harlotry:** The root (זָנָה) refers to committing fornication or acting as a harlot (both physical and spiritual).
+
+### Primary Acrostic Meaning (see Note 1)
+* **Remember (זכר):** This is the most frequently used headword to represent Zayin in the acrostic scriptures (e.g., Psalms 25:6, 119). 
+* The BDB lexicon uses these exact same three letters (זכר) to mean "male".
+
+### Other Words Used in Acrostic Scriptures (see Note 1)
+* **This (זֹאת / זֶה):** Used multiple times in Psalms and Lamentations.
+* **Songs / Sing (זְמִרוֹת / זַמְּרוּ):** Connected to the release of dopamine and oxytocin, which causes lyrics to be remembered.
+* **Plots / Considered (זֹמֵם / זָמְמָה):** Found in Psalms and Proverbs.
+* **Arises (זָרַח):** Found in Psalm 112:4.
+* **The-proud (זֵדִים):** Found in Psalm 119:51.
+* **Horror (זַלְעָפָה):** Found in Psalm 119:53.
+* **Hath-cast-off / Reject (זָנַח):** Used in Lamentations 2:7, correlating with historical rejections and temple destructions.
+* **Purer (זַכּוּ):** Found in Lamentations 4:7.
+
+Note 1: I have not (yet) found a difinitive pattern in the Acrostic Alphabetical Psalms that are describing the alphabet itself.
+
+Note 2: This page is about the 22-Mercury-Retrograde calendar. When we get to the 12-month-lunar calendar, this relates to: "Let Asher be blessed with children; let him be acceptable to his brethren, and let him **dip his foot in oil**". Deut 33:24
 
 ---
 
@@ -457,3 +488,68 @@ TODO: Once finished, the 22 Retrograde loops of Mercury show how this region rel
  - Ktav Ashuri (Assyrian script) letter shape: found. 
 
 ---
+
+## Appendix - Greek Alphabet
+
+Greek Alphabet borrowed from Hebrew.
+
+Below is a table mapping the historical correspondence between the two alphabets, including archaic Greek letters (Digamma, San, and Qoppa) that eventually fell out of standard use.
+
+| Hebrew Name | Symbol | Greek Name | Symbol |
+| :--- | :---: | :--- | :---: |
+| **Aleph** | א | **Alph-a** | Α, α |
+| **Bet** | ב | **Bet-a** | Β, β |
+| **Gimel** | ג | **Gamm-a** | Γ, γ |
+| **Dalet** | ד | **Delt-a** | Δ, δ |
+| **He** | ה | **Epsilon** | Ε, ε |
+| **Vav** | ו | **(Digamma)** | Ϝ, ϝ |
+| **Zayin** | ז | **Zet-a** | Ζ, ζ |
+| **Khet** | ח | **-Et-a** | Η, η |
+| **Tet** | ט | **Thet-a** | Θ, θ |
+| **Yod** | י | **Iot-a** | Ι, ι |
+| **Kaf** | כ | **Kapp-a** | Κ, κ |
+| **Lamed** | ל | **Lambd-a** | Λ, λ |
+| **Mem** | מ | **Mu** | Μ, μ |
+| **Nun** | נ | **Nu** | Ν, ν |
+| **Samekh** | ס | **Xi** | Ξ, ξ |
+| **Ayin** | ע | **Omicron** | Ο, ο |
+| **Pe** | פ | **Pi** | Π, π |
+| **Tsadi** | צ | **(San)** | Ϻ, ϻ |
+| **Qof** | ק | **(Qopp-a)** | Ϙ, ϙ |
+| **Resh** | ר | **Rho** | Ρ, ρ |
+| **Shin** | ש | **Sigm-a** | Σ, σ, ς |
+| **Tav** | ת | **Tau** | Τ, τ |
+
+*(Note: Some Hebrew letters like Kaf, Mem, Nun, Pe, and Tsadi have different forms when they appear at the very end of a word, though only the standard forms are shown here for simplicity).*
+
+### Hebrew → Greek Alphabet: What Was Lost and Added
+
+Hebrew (Semitic) and Greek (Indo-European) have different sound inventories. Greek resolved the mismatch by repurposing, dropping, and adding letters.
+
+#### Lacking in Greek (Hebrew sounds with no equivalent)
+
+| Hebrew Letter | Sound | Fate in Greek |
+|---|---|---|
+| Aleph (א) | Glottal stop | Repurposed as vowel **Alpha (Α)** |
+| He (ה) | Soft "h" | Repurposed as vowel **Epsilon (Ε)** |
+| Het (ח) | Harsh throaty "ch" | Repurposed as vowel **Eta (Η)** |
+| Ayin (ע) | Pharyngeal fricative | Repurposed as vowel **Omicron (Ο)** |
+| Shin (ש) | "Sh" | Became **Sigma (Σ)**, pronounced only as "s" |
+| Tsadi (צ) | "Ts" | Adopted as **San (Ϻ)**, later dropped entirely |
+| Qof (ק) | Deep guttural "k" | Adopted as **Qoppa (Ϙ)**, dropped as redundant with Kappa |
+
+#### Added in Greek (no Hebrew equivalent)
+
+Greek needed true vowel sounds Hebrew's consonantal script didn't mark, and added distinct long/short vowel and diphthong letters not present in the Hebrew system — most notably:
+
+- **Vowels created via repurposing**: Alpha, Epsilon, Eta, Omicron, and later **Upsilon (Υ)** — giving Greek a full set of written vowels, unlike Hebrew's consonant-only base script.
+- **Omega (Ω)**: a distinct long "o," added later to distinguish long from short vowels.
+- **Phi (Φ), Chi (Χ), Psi (Ψ)**: added to represent aspirated/compound sounds native to Greek but absent in Hebrew.
+
+#### Core Logic
+
+- **Repurpose**: Hebrew consonants Greek didn't need (gutturals) became Greek's first vowels.
+- **Narrow**: Sounds partially shared (Shin/Sigma) were kept but simplified to fit Greek phonology.
+- **Drop**: Emphatic consonants (Tsadi, Qof) were redundant once standard equivalents existed, and were discarded.
+- **Add**: Greek supplemented the borrowed alphabet with new vowel and consonant letters to capture sounds Hebrew never needed to write.
+
