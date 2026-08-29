@@ -227,11 +227,41 @@ Note 2: This page is about the 22-Mercury-Retrograde calendar. When we get to th
 
 ![Khet 2](08_Khet2.jpg)
 
+![Khet 3](08_Khet3.jpg)
+
 **Discussion:**
  - Lexical meaning: Fence (uncertain).
  - Fence shape: found.
  - Paleo Hebrew letter shape: found.
  - Ktav Ashuri (Assyrian script) letter shape: pending. 
+
+
+Khet (חֵית) — Etymology & Morphology Notes
+**Khet (ח)** (also spelled Chet or Heth), is a guttural letter pronounced from the back of the throat, similar to the "ch" in *Bach*. 
+
+Letter name:
+- Spelled Ḥet-Yod-Tav (ח-י-ת). Not a productive Hebrew root on its own.
+- [Jewish Encyclopedia (1906)](https://www.jewishencyclopedia.com/articles/7653-het): name "perhaps means 'hedge,' 'fence'"; notes the form is Aramaic.
+- Gesenius: 'fence'
+- The standard Biblical Hebrew words for "fence" or "wall" are *gadar* (גָּדַר) and *batsar* (בָּצַר), while the word *khet* itself is not found in standard lexicons as a fence.  Could be the scholars were only accounting for the shape of the letter and not investigating the spelling and meaning of the letter as others are more obvious: Alef=Ox, Beth=House, Gimel=Cammel... Ayin=Eye etc.
+
+Two competing derivations (Wikipedia, "Heth")
+1. **Courtyard/enclosure**: shape traced to Egyptian hieroglyph for "courtyard" (ḥwt) — cognate to Hebrew חָצֵר (chatzer), "courtyard."
+2. **Thread/wick**: shape traced to hieroglyph for a twisted flax wick — cognate to Hebrew חוּט (chut), "thread."
+   [Wikipedia, "Heth"](https://en.wikipedia.org/wiki/Heth)
+
+Balashon:
+- Source: [Balashon, "chet"](https://www.balashon.com/2006/08/chet.html)
+- Name derives from חַיִץ (chayitz), "fence, partition."
+- Arabic/Syriac heth is cognate to chayitz — Arabic ḥāʾiṭ (حائط), "wall."
+- chayitz derives from חוּץ (chutz), "outside" (→ חִיצוֹן chitzon, "external").
+- Connects to root חצה, "to divide" → חֲצִי (chetzi, "half"), חֲצוֹת (chatzot, "midnight").
+- Related divide/partition root חצץ → מְחִיצָה (mechitza, "partition").
+- Root cluster: ח-צ-ה / ח-י-ץ ("divide/enclose/exclude") — attested throughout Biblical Hebrew (chetzi, chatzot, chatzer, mechitza). This is a real lexical anchor, not just shape-reading.
+
+
+Bottom line
+- "Fence" is a shape-reading of the letter glyph — but it can anchored by changing the `tav` to a `tsade`  חצה/חיץ root cluster.
 
 ---
 
