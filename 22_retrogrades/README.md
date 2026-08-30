@@ -1,6 +1,6 @@
 # Hebrew Alphabet (Alef-Tav)
 
-This is a preliminary research project investigating how the 22 letters of the Hebrew alphabet were part of a calendar system. Mercury, the innermost planet, has a faster orbit than Earth and creates a pattern of rising and setting at sunset 3 times a year and 22 times over 7 years. Apparent shapes in the Milky Way matching the meaning of each letter appear to have been used to name regions of space along the ecliptic. The sunset horizon was a transverse line to map named regions of the Milky Way to the ecliptic path of the sun, moon, and planets. The following 22 apparent retrograde loops were created using Stellarium, and the letters and meanings were overlaid using GNU Image Manipulation Program.
+This is a preliminary research project investigating how the 22 letters of the Hebrew alphabet were part of a calendar system. The innermost planet Mercury has a faster orbit than Earth and creates a pattern of rising and setting at sunset 3 times a year and 22 times over 7 years. Apparent shapes in the Milky Way matching the meaning of each letter appear to have been used to name regions of space along the ecliptic. The sunset horizon was a transverse line to map named regions of the Milky Way to the ecliptic path of the sun, moon, and planets. The following 22 apparent retrograde loops were created using Stellarium, and the letters and meanings were overlaid using GNU Image Manipulation Program.
 
 ![Mercury 22 loops](Mercury_22_loops.jpg)
 Mercury's 22 apparent retrograde loops starting in *Alef/Ox* date: -4382, 2, 26.
@@ -27,6 +27,8 @@ For each letter:
  - Discussion on each.
    - Easy to find or Difficult to find matches.
    - Multiple matches or no matches.
+
+The night sky acts as a universal canvas for human pareidolia, where the shapes projected onto the stars reveal far more about an observer's cultural era. When researching historical astronomy, it is essential to recognize that celestial patterns are not objective forms but subjective cultural artifacts. A single grouping of stars might represent a mythological hero to one civilization and a commonplace agricultural tool to another, and even a single celestial region can have multiple layered likeness comparisons that overlap across time and traditions. This diversity of human perspective is why planetarium software like Stelarium has many sky cultures available to view, reminding us that any historical description must be read as a fluid, era-dependent translation of the sky rather than a fixed astronomical truth.
 
 ---
 
@@ -172,7 +174,7 @@ This portion of the Milky Way also sits low on the horizon, so it would have bee
 
 ---
 
-## 7. Zayin (זַיִין) — ז
+## 7. Zayin (זַיִן) — ז
 
 **Meaning:** Weapon
 
@@ -189,23 +191,23 @@ This portion of the Milky Way also sits low on the horizon, so it would have bee
  - Ktav Ashuri (Assyrian script) letter shape: found. 
 
 
-As the lexicons are uncertain, below are some notes that may or may not help in understanding the nebula shapes that were being described. Possible meanings of the Hebrew letter Zayin (ז):
+Since the lexical meaning is uncertain, the notes below may or may not help in understanding the nebula shapes being described. Possible meanings of the Hebrew letter Zayin (ז):
 
 ### Traditional Meaning
 * The traditional Gesenius meaning for Zayin is "sword" or "weapon".
 * Although the modern letter resembles a sword, the Biblical Hebrew word for sword (*Kherrev* / חֶרֶב) does not contain the letter Zayin.
 
 ### Additional Lexicon Definitions
-* **Aramaic Lexicon:** Words starting with Zayin include "brightness" or "splendor" (זִיו), "feed" or "well fed" (זוּן), and "food" or "sustenance" (מָזוֹן).
+* **Aramaic Lexicon:** Words starting with Zayin include "brightness" or "splendor" (זִיו), "feed" or "well fed" (זוּן), and "food" or "sustenance" (מָזוֹן). In מָזוֹן the mem-prefix makes the three-letter root ז-ו-ן ("to feed, to be well fed") passive: "that which is fed" — food, sustenance.
 * **Reproduction / Harlotry:** The root (זָנָה) refers to committing fornication or acting as a harlot (both physical and spiritual).
 
 ### Primary Acrostic Meaning (see Note 1)
 * **Remember (זכר):** This is the most frequently used headword to represent Zayin in the acrostic scriptures (e.g., Psalms 25:6, 119). 
-* The BDB lexicon uses these exact same three letters (זכר) to mean "male".
+* The BDB lexicon lists this same letter sequence (זכר) as a verb meaning "to remember" and as a masculine noun meaning "male".
 
 ### Other Words Used in Acrostic Scriptures (see Note 1)
 * **This (זֹאת / זֶה):** Used multiple times in Psalms and Lamentations.
-* **Songs / Sing (זְמִרוֹת / זַמְּרוּ):** Connected to the release of dopamine and oxytocin, which causes lyrics to be remembered.
+* **Songs / Sing (זְמִרוֹת / זַמְּרוּ):** Connected to the release of dopamine and oxytocin, which cause lyrics to be remembered.
 * **Plots / Considered (זֹמֵם / זָמְמָה):** Found in Psalms and Proverbs.
 * **Arises (זָרַח):** Found in Psalm 112:4.
 * **The-proud (זֵדִים):** Found in Psalm 119:51.
@@ -213,9 +215,9 @@ As the lexicons are uncertain, below are some notes that may or may not help in 
 * **Hath-cast-off / Reject (זָנַח):** Used in Lamentations 2:7, correlating with historical rejections and temple destructions.
 * **Purer (זַכּוּ):** Found in Lamentations 4:7.
 
-Note 1: I have not (yet) found a difinitive pattern in the Acrostic Alphabetical Psalms that are describing the alphabet itself.
+Note 1: I have not (yet) found a definitive pattern in the Acrostic Alphabetical Psalms that describe the alphabet itself.
 
-Note 2: This page is about the 22-Mercury-Retrograde calendar. When we get to the 12-month-lunar calendar, this relates to: "Let Asher be blessed with children; let him be acceptable to his brethren, and let him **dip his foot in oil**". Deut 33:24
+Note 2: This page is about the 22-Mercury-Retrograde calendar. When we get to the 12-month-lunar calendar, this relates to: "Let Asher be blessed with children: let him be acceptable to his brethren, and let him **dip his feet in butter**" (Deut 33:24, KJV).
 
 ---
 
@@ -236,21 +238,22 @@ Note 2: This page is about the 22-Mercury-Retrograde calendar. When we get to th
  - Ktav Ashuri (Assyrian script) letter shape: pending. 
 
 
-Khet (חֵית) — Etymology & Morphology Notes
-**Khet (ח)** (also spelled Chet or Heth), is a guttural letter pronounced from the back of the throat, similar to the "ch" in *Bach*. 
+### Khet (חֵית) — Etymology & Morphology Notes
 
-Letter name:
+*Khet* (ח), also spelled *Chet* or *Heth*, is a guttural letter pronounced from the back of the throat, similar to the "ch" in *Bach*.
+
+### Letter Name
 - Spelled Ḥet-Yod-Tav (ח-י-ת). Not a productive Hebrew root on its own.
-- [Jewish Encyclopedia (1906)](https://www.jewishencyclopedia.com/articles/7653-het): name "perhaps means 'hedge,' 'fence'"; notes the form is Aramaic.
-- Gesenius: 'fence'
-- The standard Biblical Hebrew words for "fence" or "wall" are *gadar* (גָּדַר) and *batsar* (בָּצַר), while the word *khet* itself is not found in standard lexicons as a fence.  Could be the scholars were only accounting for the shape of the letter and not investigating the spelling and meaning of the letter as others are more obvious: Alef=Ox, Beth=House, Gimel=Cammel... Ayin=Eye etc.
+- [Jewish Encyclopedia (1906)](https://www.jewishencyclopedia.com/articles/7653-het): name "perhaps means 'hedge,' 'fence'"; notes that the name in its current form is Aramaic.
+- Gesenius: "fence."
+- The standard Biblical Hebrew words for "fence" or "wall" are *gadar* (גָּדַר) and *batsar* (בָּצַר), while the word *khet* itself is not found in standard lexicons as a fence. It could be that the scholars were only accounting for the shape of the letter, without investigating its spelling and meaning — unlike the letters whose meanings are more obvious (Alef = Ox, Beth = House, Gimel = Camel, Ayin = Eye, etc.).
 
-Two competing derivations (Wikipedia, "Heth")
+### Two Competing Derivations (Wikipedia, "Heth")
 1. **Courtyard/enclosure**: shape traced to Egyptian hieroglyph for "courtyard" (ḥwt) — cognate to Hebrew חָצֵר (chatzer), "courtyard."
 2. **Thread/wick**: shape traced to hieroglyph for a twisted flax wick — cognate to Hebrew חוּט (chut), "thread."
    [Wikipedia, "Heth"](https://en.wikipedia.org/wiki/Heth)
 
-Balashon:
+### Balashon
 - Source: [Balashon, "chet"](https://www.balashon.com/2006/08/chet.html)
 - Name derives from חַיִץ (chayitz), "fence, partition."
 - Arabic/Syriac heth is cognate to chayitz — Arabic ḥāʾiṭ (حائط), "wall."
@@ -260,8 +263,8 @@ Balashon:
 - Root cluster: ח-צ-ה / ח-י-ץ ("divide/enclose/exclude") — attested throughout Biblical Hebrew (chetzi, chatzot, chatzer, mechitza). This is a real lexical anchor, not just shape-reading.
 
 
-Bottom line
-- "Fence" is a shape-reading of the letter glyph — but it can anchored by changing the `tav` to a `tsade`  חצה/חיץ root cluster.
+### Bottom Line
+- "Fence" is a shape-reading of the letter glyph — but it can be anchored by reading the final letter as a *tsade* instead of a *tav*: the חצה / חיץ root cluster.
 
 ---
 
@@ -273,11 +276,41 @@ Bottom line
 
 ![Tet 2](09_Tet2.jpg)
 
+![Tet 3](09_Tet3.png)
+
 **Discussion:**
- - Lexical meaning: Spinning wheel, serpent (uncertain).
- - Spinning wheel shape: found.
+ - Lexical meaning: Spinning wheel, serpent, clay (uncertain).
+ - Spinning wheel, serpent, or clay shape: found.
  - Paleo Hebrew letter shape: found.
- - Ktav Ashuri (Assyrian script) letter shape: pending. 
+ - Ktav Ashuri (Assyrian script) letter shape: not easily found. 
+
+The letter Tet today makes a 't' sound.  Yet it is difficult to understand how a snake or a spinning wheel relates to the sound 't'.  Two suggestions for the sound and shape come from spinning wool and the saw-scaled viper.
+
+![Instrument for spinning wool](09_Tet5.png)
+Instrument for whorl- or drop-spinning wool into thread.
+[Sisian History Museum in Armenia](https://www.sisianmuseum.am/gallery.php?lng=1&parent_id=4)
+
+![Echis carinatus](09_Tet6.png)
+Saw-scaled viper (*Echis carinatus*) curls into the same Tet shape and has the same `t` or `+` shape on top of its head.
+ - [Reptile Database](https://reptile-database.reptarium.cz/Echis/carinatus).
+
+Since these letter symbols represent sounds, this viper's sound is significant.  The viper's sound is similar to the sound of working with wool before carding and spinning.
+ - [Saw-scaled viper sound](https://www.youtube.com/watch?v=BNAO-KCxBpE)
+ - [Pulling Wool](https://youtu.be/GSJzuQFrFjw?si=zM4YsWGTzI22pMg2&t=254)
+
+The sound this poisonous viper made would have been well known in the fertile crescent region.  The clay connection is also in the name: the Hebrew word *tit* (טיט) means "mud, mire, or wet clay" — a near-homophone of the letter name.  The saw-scaled viper lives in the wadis where this wet clay is found, and when it dries it buries itself in it with only its eyes above the surface.
+
+![Tet 4](09_Tet4.png)
+
+If this letter indicated the same sound as the viper and the spinning/pulling of wool, this would suggest that the modern Tet sound has changed with the passage of time and culture.  Today, the sounds are converging into what is called Modern Hebrew.  However, in the past there have been distinctions among Ashkenazi, Sephardic, Yemenite, and Mizrahi Hebrew.  Even after the Babylonian captivity, we learn of shifts in the language of the people of the book:
+
+> "So they read in the book in the law of God distinctly, and gave the sense, and caused them to understand the reading." (Nehemiah 8:8)
+
+During the 70-year captivity in Babylon, many Israelites had adopted Aramaic as their daily spoken language and lost their fluency in ancient biblical Hebrew. Because of this shift, when Ezra read the original Hebrew text aloud, the Levites stationed among the crowd had to actively translate it into Aramaic and explain its meaning ("give the sense") so the common people could understand the laws.  
+
+![Tet and Tav](09_Tet7.jpg)
+The Paleo Hebrew Tet (right) has some resemblance to Tav (left).
+
 
 ---
 
