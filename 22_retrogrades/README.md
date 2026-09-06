@@ -142,7 +142,7 @@ The door shape itself is very faint. The apparent shape of the letter has a dark
 
 *Hey* means **window** as well as how you interact with a window: **behold**. (Gen. 47:23)
 
-The larger Paleo Hebrew *Hey* shape (bottom right) is in the red light spectrum and I am unsure if the human eye can detect the red Paleo Hebrew letter *Hey* shape. I live too far north and not in dry desert to observe.  The bottom center *Hey* matches both the letter *Hey* and the *behold*.
+The larger Paleo Hebrew *Hey* shape (bottom left) is in the red light spectrum and I am unsure if the human eye can detect the red Paleo Hebrew letter *Hey* shape. I live too far north and not in dry desert to observe.  The bottom center *Hey* matches both the letter *Hey* and the *behold*.
 
 This portion of the Milky Way also sits low on the horizon, so it would have been more difficult to see as the light passes through more of earth's atmosphere.
 
@@ -322,11 +322,76 @@ The Paleo Hebrew Tet (right) has some resemblance to Tav (left).
 
 ![Yod 2](10_Yod2.jpg)
 
+![Yod 3](10_Yod3.jpg)
+
 **Discussion:**
- - Lexical meaning: Hand (certain).
- - Hand shape: found.
- - Paleo Hebrew letter shape: found.
- - Ktav Ashuri (Assyrian script) letter shape: found. 
+- Lexical meaning: Hand (certain).
+- Hand shape: found.
+- Paleo-Hebrew letter shape: found.
+- Ktav Ashuri (Assyrian script) letter shape: found.
+
+See [chapter 43](https://www.youtube.com/watch?v=D2RI6_u6ArA&list=PLbRaSh0207d5oxxRnekgN2GdKQNFtZT2z&index=44).
+
+This is one of the easier regions to recognize as a *hand*. Also, at the tip of the hand is an easily visible Paleo-Hebrew letter Yod. The traditional meaning of the letter “Yod”—“hand”—matches the meaning found in some of the acrostic Psalms: a Yod, Kaf, Kaf, Yod pattern.
+
+> *Her-hands* (יָדֶיהָ) she hath sent forth on a spindle,
+> And-her-hands (וְכַפֶּיהָ) have held a distaff.
+> Her-hand (כַּפָּהּ) she hath spread forth to the poor,
+> *And-her-hands* (יָדֶיהָ) she sent forth to the needy.
+> Proverbs 31:19–20
+
+A related word to “hand” is “praise,” as lifting up the hands is a gesture of praise. The words *Jew* and *Judah* (*Yehudah*) are related to this word.
+
+> And she conceived again and bore a son, and said,
+> “Now I will praise the LORD (אוֹדֶה אֶת־יְהוָה).”
+> Therefore she called his name Judah (יְהוּדָה). Then she stopped bearing.
+> Gen 29:35
+
+> Judah (יְהוּדָה), your brothers shall praise (יָדָה) you;
+> Your hand (יָד) shall be on the neck of your enemies;
+> Your father’s sons shall bow down to you.
+> Judah (יְהוּדָה) is a lion’s whelp;
+> From the prey, my son, you have gone up.
+> He couches, he lies down as a lion,
+> And as a lion, who dares rouse him up? (This is describing the sound.)
+> The scepter shall not depart from Judah,
+> Nor the ruler’s staff from between his feet,
+> Until Shiloh comes,
+> And to him shall be the obedience (יִקָּהָה) of the peoples.
+> He ties his foal to the vine,
+> And his donkey’s colt to the choice vine;
+> He washes his garments in wine (יַיִן),
+> And his robes in the blood of grapes.
+> His eyes are dull from wine (יַיִן),
+> And his teeth white from milk.
+> Gen 49:8–12
+
+> And this regarding Judah (לִיהוּדָה); so he said,
+> “Hear, O LORD, the voice of Judah (יְהוּדָה),
+> And bring him to his people.
+> With his-hands (יָדָיו) he contended for them,
+> And may You be a help against his adversaries.”
+> Deut 33:7
+
+> Praise-Thee (יוֹדוּךָ), O Yahweh (יְהוָה), do all Thy works,
+> And Thy saints do-bless-Thee (יְבָרֲכוּכָה).
+> Psalm 145:10
+
+> “Hear the voice of my supplications,
+> when I cry unto thee,
+> when I lift up my hands (יָדַי) toward thy holy sanctuary.”
+> Psalm 28:2
+
+> “Lift up your hands (שְׂאוּ־יְדֵכֶם) in the sanctuary,
+> and bless the LORD.”
+> Psalm 134:2
+
+> “And Aaron lifted up his hand (יָדָיו) toward the people, and blessed them…”
+> Lev 9:22
+
+The main character of the Tanak (OT) is Yahweh. Yod at the beginning of a word means “He-will” (3rd person).
+
+In this time period, the summer/fall harvest would take place: grapes, figs, pomegranates, and olives.
 
 ---
 
