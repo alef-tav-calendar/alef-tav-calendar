@@ -1,6 +1,8 @@
 # Hebrew Alphabet (Alef-Tav)
 
-This is a preliminary research project investigating how the 22 letters of the Hebrew alphabet were part of a calendar system. The innermost planet Mercury has a faster orbit than Earth and creates a pattern of rising and setting at sunset 3 times a year and 22 times over 7 years. Apparent shapes in the Milky Way matching the meaning of each letter appear to have been used to name regions of space along the ecliptic. The sunset horizon was a transverse line to map named regions of the Milky Way to the ecliptic path of the sun, moon, and planets. The following 22 apparent retrograde loops were created using Stellarium, and the letters and meanings were overlaid using GNU Image Manipulation Program.
+This is a preliminary research project investigating how the 22 letters of the Hebrew alphabet were part of a calendar system. The innermost planet Mercury has a faster orbit than Earth and creates a pattern of rising and setting at sunset 3 times a year and 22 times over 7 years. Apparent shapes in the Milky Way matching the meaning of each letter appear to have been used to name regions of space along the ecliptic. The sunset horizon was a transverse line to map named regions of the Milky Way to the ecliptic path of the sun, moon, and planets. The following 22 apparent retrograde loops were created using Stellarium, and the letters and meanings were overlaid using GNU Image Manipulation Program. 
+
+Observing Mercury's apparent retrograde motion from earth would manifest as Mercury setting into the sunset, then rising in throughout this page. This transition from an “evening star” to a “morning star” takes about 21 to 24 days.  Stellarium's `View Options=>SSO=>Show Trails` - allows us to trace the trails which in turn is used throughout this page.
 
 ![Mercury 22 loops](Mercury_22_loops.jpg)
 Mercury's 22 apparent retrograde loops starting in *Alef/Ox* date: -4382, 2, 26.
@@ -28,7 +30,7 @@ For each letter:
    - Easy to find or Difficult to find matches.
    - Multiple matches or no matches.
 
-The night sky acts as a universal canvas for human pareidolia, where the shapes projected onto the stars reveal far more about an observer's cultural era. When researching historical astronomy, it is essential to recognize that celestial patterns are not objective forms but subjective cultural artifacts. A single grouping of stars might represent a mythological hero to one civilization and a commonplace agricultural tool to another, and even a single celestial region can have multiple layered likeness comparisons that overlap across time and traditions. This diversity of human perspective is why planetarium software like Stelarium has many sky cultures available to view, reminding us that any historical description must be read as a fluid, era-dependent translation of the sky rather than a fixed astronomical truth.
+The night sky acts as a universal canvas for human pareidolia, where the shapes projected onto the stars reveal far more about an observer's cultural era. When researching historical astronomy, it is essential to recognize that celestial patterns are not objective forms but subjective cultural artifacts. A single grouping of stars might represent a mythological hero to one civilization and a commonplace agricultural tool to another, and even a single celestial region can have multiple layered likeness comparisons that overlap across time and traditions. This diversity of human perspective is why planetarium software like Stellarium has many sky cultures available to view, reminding us that any historical description must be read as a fluid, era-dependent translation of the sky rather than a fixed astronomical truth.
 
 ---
 
@@ -325,14 +327,14 @@ The Paleo Hebrew Tet (right) has some resemblance to Tav (left).
 ![Yod 3](10_Yod3.jpg)
 
 **Discussion:**
-- Lexical meaning: Hand (certain).
-- Hand shape: found.
-- Paleo-Hebrew letter shape: found.
-- Ktav Ashuri (Assyrian script) letter shape: found.
+ - Lexical meaning: Hand (certain).
+ - Hand shape: found.
+ - Paleo Hebrew letter shape: found.
+ - Ktav Ashuri (Assyrian script) letter shape: found.
 
 See [chapter 43](https://www.youtube.com/watch?v=D2RI6_u6ArA&list=PLbRaSh0207d5oxxRnekgN2GdKQNFtZT2z&index=44).
 
-This is one of the easier regions to recognize as a *hand*. Also, at the tip of the hand is an easily visible Paleo-Hebrew letter Yod. The traditional meaning of the letter “Yod”—“hand”—matches the meaning found in some of the acrostic Psalms: a Yod, Kaf, Kaf, Yod pattern.
+This is one of the easier regions to recognize as a *hand*. Also, at the tip of the hand is an easily visible Paleo Hebrew letter Yod. The traditional meaning of the letter *Yod*—*hand*—matches a Yod, Kaf, Kaf, Yod pattern found in the acrostic of Proverbs 31.
 
 > *Her-hands* (יָדֶיהָ) she hath sent forth on a spindle,
 > And-her-hands (וְכַפֶּיהָ) have held a distaff.
@@ -353,7 +355,7 @@ A related word to “hand” is “praise,” as lifting up the hands is a gestu
 > Judah (יְהוּדָה) is a lion’s whelp;
 > From the prey, my son, you have gone up.
 > He couches, he lies down as a lion,
-> And as a lion, who dares rouse him up? (This is describing the sound.)
+> And as a lion, who dares rouse him up? (This is describing the lion’s roar.)
 > The scepter shall not depart from Judah,
 > Nor the ruler’s staff from between his feet,
 > Until Shiloh comes,
@@ -365,6 +367,8 @@ A related word to “hand” is “praise,” as lifting up the hands is a gestu
 > His eyes are dull from wine (יַיִן),
 > And his teeth white from milk.
 > Gen 49:8–12
+
+Note: The blessing on Judah describes this region, including the lion’s whelp outlined in the image above: 'He couches, he lies down as a lion'.  This became a good starting point for decrypting the 12-month lunar calendar where each tribe, as ordered in the Book of Numbers, describes a region of the Milky Way similar to this 22-letter apparent retrograde loops of Mercury calendar system.  TODO: add link to 12-month tribe calendar.
 
 > And this regarding Judah (לִיהוּדָה); so he said,
 > “Hear, O LORD, the voice of Judah (יְהוּדָה),
@@ -389,7 +393,7 @@ A related word to “hand” is “praise,” as lifting up the hands is a gestu
 > “And Aaron lifted up his hand (יָדָיו) toward the people, and blessed them…”
 > Lev 9:22
 
-The main character of the Tanak (OT) is Yahweh. Yod at the beginning of a word means “He-will” (3rd person).
+The main character of the Tanakh (OT) is Yahweh. Yod at the beginning of a word means "He-will" (3rd person).
 
 In this time period, the summer/fall harvest would take place: grapes, figs, pomegranates, and olives.
 
