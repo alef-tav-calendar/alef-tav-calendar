@@ -336,36 +336,36 @@ See [chapter 43](https://www.youtube.com/watch?v=D2RI6_u6ArA&list=PLbRaSh0207d5o
 
 This is one of the easier regions to recognize as a *hand*. Also, at the tip of the hand is an easily visible Paleo Hebrew letter Yod. The traditional meaning of the letter *Yod*—*hand*—matches a Yod, Kaf, Kaf, Yod pattern found in the acrostic of Proverbs 31.
 
-> *Her-hands* (יָדֶיהָ) she hath sent forth on a spindle,
-> And-her-hands (וְכַפֶּיהָ) have held a distaff.
-> Her-hand (כַּפָּהּ) she hath spread forth to the poor,
-> *And-her-hands* (יָדֶיהָ) she sent forth to the needy.
+> *Her-hands* (יָדֶיהָ) she hath sent forth on a spindle,  
+> And-her-hands (וְכַפֶּיהָ) have held a distaff.  
+> Her-hand (כַּפָּהּ) she hath spread forth to the poor,  
+> *And-her-hands* (יָדֶיהָ) she sent forth to the needy.  
 > Proverbs 31:19–20
 
 A related word to “hand” is “praise,” as lifting up the hands is a gesture of praise. The words *Jew* and *Judah* (*Yehudah*) are related to this word.
 
-> And she conceived again and bore a son, and said,
-> “Now I will praise the LORD (אוֹדֶה אֶת־יְהוָה).”
-> Therefore she called his name Judah (יְהוּדָה). Then she stopped bearing.
+> And she conceived again and bore a son, and said,  
+> “Now I will praise the LORD (אוֹדֶה אֶת־יְהוָה).”  
+> Therefore she called his name Judah (יְהוּדָה). Then she stopped bearing.  
 > Gen 29:35
 
-> Judah (יְהוּדָה), your brothers shall praise (יָדָה) you;
-> Your hand (יָד) shall be on the neck of your enemies;
-> Your father’s sons shall bow down to you.
-> Judah (יְהוּדָה) is a lion’s whelp;
-> From the prey, my son, you have gone up.
-> He couches, he lies down as a lion,
-> And as a lion, who dares rouse him up? (This is describing the lion’s roar.)
-> The scepter shall not depart from Judah,
-> Nor the ruler’s staff from between his feet,
-> Until Shiloh comes,
-> And to him shall be the obedience (יִקָּהָה) of the peoples.
-> He ties his foal to the vine,
-> And his donkey’s colt to the choice vine;
-> He washes his garments in wine (יַיִן),
-> And his robes in the blood of grapes.
-> His eyes are dull from wine (יַיִן),
-> And his teeth white from milk.
+> Judah (יְהוּדָה), your brothers shall praise (יָדָה) you;  
+> Your hand (יָד) shall be on the neck of your enemies;  
+> Your father’s sons shall bow down to you.  
+> Judah (יְהוּדָה) is a lion’s whelp;  
+> From the prey, my son, you have gone up.  
+> He couches, he lies down as a lion,  
+> And as a lion, who dares rouse him up? (This is describing the lion’s roar.)  
+> The scepter shall not depart from Judah,  
+> Nor the ruler’s staff from between his feet,  
+> Until Shiloh comes,  
+> And to him shall be the obedience (יִקָּהָה) of the peoples.  
+> He ties his foal to the vine,  
+> And his donkey’s colt to the choice vine;  
+> He washes his garments in wine (יַיִן),  
+> And his robes in the blood of grapes.  
+> His eyes are dull from wine (יַיִן),  
+> And his teeth white from milk.  
 > Gen 49:8–12
 
 Note: The blessing on Judah describes this region, including the lion’s whelp outlined in the image above: 'He couches, he lies down as a lion'.  This became a good starting point for decrypting the 12-month lunar calendar where each tribe, as ordered in the Book of Numbers, describes a region of the Milky Way similar to this 22-letter apparent retrograde loops of Mercury calendar system.  TODO: add link to 12-month tribe calendar.
