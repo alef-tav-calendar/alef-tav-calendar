@@ -23,9 +23,9 @@ Mercury's 22 apparent retrograde loops starting in *Alef/Ox* date: -4382, 2, 26.
 
 For each letter:
  - Stellarium image of the location of Mercury's retrograde loop position.
- - Image of [11Q1 - 11Q paleoLev](https://www.deadseascrolls.org.il/explore-the-archive/image/B-513117) Paleo Hebrew letter overlaid over that region.
+ - Image of [11Q1 - 11Q paleoLev](https://www.deadseascrolls.org.il/explore-the-archive/image/B-513117) Paleo-Hebrew letter overlaid over that region.
  - Follow the green sunset horizon line to the Milky Way...
- - Use the meaning of the Paleo Hebrew Letter to identify both the shape and the letter itself.
+ - Use the meaning of the Paleo-Hebrew Letter to identify both the shape and the letter itself.
  - Discussion on each.
    - Easy to find or Difficult to find matches.
    - Multiple matches or no matches.
@@ -47,7 +47,7 @@ The night sky acts as a universal canvas for human pareidolia, where the shapes 
 **Discussion:**
  - Lexical meaning: Ox (certain).
  - Ox shape: found one (easy).
- - Paleo Hebrew letter shape: found one (easy).
+ - Paleo-Hebrew letter shape: found one (easy).
  - Ktav Ashuri (Assyrian script) letter shape: found one (easy).
 
 Instead of following the horizon to the Milky Way on the right, this letter is touching the Milky Way above.
@@ -75,8 +75,8 @@ It seems the clear dark desert skies of the fertile crescent gave astronomers an
 **Discussion:**
  - Lexical meaning: House (certain).
  - House shape: found multiple.
- - Paleo Hebrew letter shape: found multiple.
- - Ktav Ashuri (Assyrian script) letter shape: similar to Paleo Hebrew.
+ - Paleo-Hebrew letter shape: found multiple.
+ - Ktav Ashuri (Assyrian script) letter shape: similar to Paleo-Hebrew.
 
 The regions where the ecliptic path bisects the Milky Way are more difficult to interpret, as there are multiple shapes that match the meaning of the letter.  Top row of the above image represents looking West as the Milky Way goes toward sunset where a simple house is seen wide at the bottom narrow at the top. The bottom row is the Milky Way as it rises in the east, which has two temple-like houses. The last resembles the temple that David and Solomon worked on, which had a tall front face and two pillars.
 
@@ -97,7 +97,7 @@ The regions where the ecliptic path bisects the Milky Way are more difficult to 
 **Discussion:**
  - Lexical meaning: Camel (certain).
  - Camel shape: found two.
- - Paleo Hebrew letter shape: found multiple.
+ - Paleo-Hebrew letter shape: found multiple.
  - Ktav Ashuri (Assyrian script) letter shape: found multiple.
 
 There seem to be 2 Camel shapes that match.  There are also about 2 regions that match the letter shape.
@@ -119,7 +119,7 @@ See [Decoding Gimel: A Camel shape in the nebula? #20](https://www.youtube.com/w
 **Discussion:**
  - Lexical meaning: Door (certain).
  - Door shape: found difficult.
- - Paleo Hebrew letter shape: found.
+ - Paleo-Hebrew letter shape: found.
  - Ktav Ashuri (Assyrian script) letter shape: found. 
 
 The door shape itself is very faint. The apparent shape of the letter has a dark tail off to the right that does not match the letter exactly.
@@ -139,12 +139,12 @@ The door shape itself is very faint. The apparent shape of the letter has a dark
 **Discussion:**
  - Lexical meaning: Window/vent/behold (certain).
  - Window shape: there are several window shapes but I think they eye (behold) shape might be inferred - although there is *Ayin/Eye* later in the Alphabet.
- - Paleo Hebrew letter shape: found two.
+ - Paleo-Hebrew letter shape: found two.
  - Ktav Ashuri (Assyrian script) letter shape: not found
 
 *Hey* means **window** as well as how you interact with a window: **behold**. (Gen. 47:23)
 
-The larger Paleo Hebrew *Hey* shape (bottom left) is in the red light spectrum and I am unsure if the human eye can detect the red Paleo Hebrew letter *Hey* shape. I live too far north and not in dry desert to observe.  The bottom center *Hey* matches both the letter *Hey* and the *behold*.
+The larger Paleo-Hebrew *Hey* shape (bottom left) is in the red light spectrum and I am unsure if the human eye can detect the red Paleo-Hebrew letter *Hey* shape. I live too far north and not in dry desert to observe.  The bottom center *Hey* matches both the letter *Hey* and the *behold*.
 
 This portion of the Milky Way also sits low on the horizon, so it would have been more difficult to see as the light passes through more of earth's atmosphere.
 
@@ -165,12 +165,12 @@ This portion of the Milky Way also sits low on the horizon, so it would have bee
 **Discussion:**
  - Lexical meaning: Hook (certain).
  - Hook shape: not found.
- - Paleo Hebrew letter shape: found (difficult).
+ - Paleo-Hebrew letter shape: found (difficult).
  - Ktav Ashuri (Assyrian script) letter shape: not found. 
 
 *Vav* or *Waw* is in a portion of the Milky Way that is very close to the southern horizon, making this region more difficult to observe from the fertile crescent.
 
-*Hook* is a bit too vague of a term to find a shape.  It was also difficult to find both the Paleo Hebrew and Ktav Ashuri shapes.
+*Hook* is a bit too vague of a term to find a shape.  It was also difficult to find both the Paleo-Hebrew and Ktav Ashuri shapes.
 
 *Waw* has the sense of hook, join, and the letter is fittingly used as a conjunction to join thoughts in writing and is translated as: *AND*.  The ecliptic region of *Waw* has multiple side-by-side pairs of stars in the last image above.
 
@@ -189,7 +189,7 @@ This portion of the Milky Way also sits low on the horizon, so it would have bee
 **Discussion:**
  - Lexical meaning: Weapon (uncertain).
  - Weapon shape: found.
- - Paleo Hebrew letter shape: found.
+ - Paleo-Hebrew letter shape: found.
  - Ktav Ashuri (Assyrian script) letter shape: found. 
 
 
@@ -236,7 +236,7 @@ Note 2: This page is about the 22-Mercury-Retrograde calendar. When we get to th
 **Discussion:**
  - Lexical meaning: Fence (uncertain).
  - Fence shape: found.
- - Paleo Hebrew letter shape: found.
+ - Paleo-Hebrew letter shape: found.
  - Ktav Ashuri (Assyrian script) letter shape: pending. 
 
 
@@ -283,7 +283,7 @@ Note 2: This page is about the 22-Mercury-Retrograde calendar. When we get to th
 **Discussion:**
  - Lexical meaning: Spinning wheel, serpent, clay (uncertain).
  - Spinning wheel, serpent, or clay shape: found.
- - Paleo Hebrew letter shape: found.
+ - Paleo-Hebrew letter shape: found.
  - Ktav Ashuri (Assyrian script) letter shape: not easily found. 
 
 The letter Tet today makes a 't' sound.  Yet it is difficult to understand how a snake or a spinning wheel relates to the sound 't'.  Two suggestions for the sound and shape come from spinning wool and the saw-scaled viper.
@@ -311,7 +311,7 @@ If this letter indicated the same sound as the viper and the spinning/pulling of
 During the 70-year captivity in Babylon, many Israelites had adopted Aramaic as their daily spoken language and lost their fluency in ancient biblical Hebrew. Because of this shift, when Ezra read the original Hebrew text aloud, the Levites stationed among the crowd had to actively translate it into Aramaic and explain its meaning ("give the sense") so the common people could understand the laws.  
 
 ![Tet and Tav](09_Tet7.jpg)
-The Paleo Hebrew Tet (right) has some resemblance to Tav (left).
+The Paleo-Hebrew Tet (right) has some resemblance to Tav (left).
 
 
 ---
@@ -329,25 +329,25 @@ The Paleo Hebrew Tet (right) has some resemblance to Tav (left).
 **Discussion:**
  - Lexical meaning: Hand (certain).
  - Hand shape: found.
- - Paleo Hebrew letter shape: found.
+ - Paleo-Hebrew letter shape: found.
  - Ktav Ashuri (Assyrian script) letter shape: found.
 
 See [chapter 43](https://www.youtube.com/watch?v=D2RI6_u6ArA&list=PLbRaSh0207d5oxxRnekgN2GdKQNFtZT2z&index=44).
 
-This is one of the easier regions to recognize as a *hand*. Also, at the tip of the hand is an easily visible Paleo Hebrew letter Yod. The traditional meaning of the letter *Yod*—*hand*—matches a Yod, Kaf, Kaf, Yod pattern found in the acrostic of Proverbs 31.
+This is one of the easier regions to recognize as a *hand*. Also, at the tip of the hand is an easily visible Paleo-Hebrew letter Yod. The traditional meaning of the letter *Yod*—*hand*—matches a Yod, Kaf, Kaf, Yod pattern found in the acrostic of Proverbs 31.
 
 > *Her-hands* (יָדֶיהָ) she hath sent forth on a spindle,  
 > And-her-hands (וְכַפֶּיהָ) have held a distaff.  
 > Her-hand (כַּפָּהּ) she hath spread forth to the poor,  
 > *And-her-hands* (יָדֶיהָ) she sent forth to the needy.  
-> Proverbs 31:19–20
+> Proverbs 31:19–20  
 
 A related word to “hand” is “praise,” as lifting up the hands is a gesture of praise. The words *Jew* and *Judah* (*Yehudah*) are related to this word.
 
 > And she conceived again and bore a son, and said,  
 > “Now I will praise the LORD (אוֹדֶה אֶת־יְהוָה).”  
 > Therefore she called his name Judah (יְהוּדָה). Then she stopped bearing.  
-> Gen 29:35
+> Gen 29:35  
 
 > Judah (יְהוּדָה), your brothers shall praise (יָדָה) you;  
 > Your hand (יָד) shall be on the neck of your enemies;  
@@ -366,32 +366,32 @@ A related word to “hand” is “praise,” as lifting up the hands is a gestu
 > And his robes in the blood of grapes.  
 > His eyes are dull from wine (יַיִן),  
 > And his teeth white from milk.  
-> Gen 49:8–12
+> Gen 49:8–12  
 
 Note: The blessing on Judah describes this region, including the lion’s whelp outlined in the image above: 'He couches, he lies down as a lion'.  This became a good starting point for decrypting the 12-month lunar calendar where each tribe, as ordered in the Book of Numbers, describes a region of the Milky Way similar to this 22-letter apparent retrograde loops of Mercury calendar system.  TODO: add link to 12-month tribe calendar.
 
-> And this regarding Judah (לִיהוּדָה); so he said,
-> “Hear, O LORD, the voice of Judah (יְהוּדָה),
-> And bring him to his people.
-> With his-hands (יָדָיו) he contended for them,
-> And may You be a help against his adversaries.”
-> Deut 33:7
+> And this regarding Judah (לִיהוּדָה); so he said,  
+> “Hear, O LORD, the voice of Judah (יְהוּדָה),  
+> And bring him to his people.  
+> With his-hands (יָדָיו) he contended for them,  
+> And may You be a help against his adversaries.”  
+> Deut 33:7  
 
-> Praise-Thee (יוֹדוּךָ), O Yahweh (יְהוָה), do all Thy works,
-> And Thy saints do-bless-Thee (יְבָרֲכוּכָה).
-> Psalm 145:10
+> Praise-Thee (יוֹדוּךָ), O Yahweh (יְהוָה), do all Thy works,  
+> And Thy saints do-bless-Thee (יְבָרֲכוּכָה).  
+> Psalm 145:10  
 
-> “Hear the voice of my supplications,
-> when I cry unto thee,
-> when I lift up my hands (יָדַי) toward thy holy sanctuary.”
-> Psalm 28:2
+> “Hear the voice of my supplications,  
+> when I cry unto thee,  
+> when I lift up my hands (יָדַי) toward thy holy sanctuary.”  
+> Psalm 28:2  
 
-> “Lift up your hands (שְׂאוּ־יְדֵכֶם) in the sanctuary,
-> and bless the LORD.”
-> Psalm 134:2
+> “Lift up your hands (שְׂאוּ־יְדֵכֶם) in the sanctuary,  
+> and bless the LORD.”  
+> Psalm 134:2  
 
-> “And Aaron lifted up his hand (יָדָיו) toward the people, and blessed them…”
-> Lev 9:22
+> “And Aaron lifted up his hand (יָדָיו) toward the people, and blessed them…”  
+> Lev 9:22  
 
 The main character of the Tanakh (OT) is Yahweh. Yod at the beginning of a word means "He-will" (3rd person).
 
@@ -410,8 +410,28 @@ In this time period, the summer/fall harvest would take place: grapes, figs, pom
 **Discussion:**
  - Lexical meaning: Palm of hand *or foot*.
  - Palm shape: found.
- - Paleo Hebrew letter shape: found.
+ - Paleo-Hebrew letter shape: found.
  - Ktav Ashuri (Assyrian script) letter shape: found. 
+ - BDB Lexicon defines (כַּף) as: hollow, or flat of the hand, palm, sole of foot, pan.
+
+ It seems this may be describing the same large dark "hand" region - but this time focusing on the hollow mid section of the palm of the hand, or arched section of a foot.
+
+![Kaf 3](11_Kaf3.jpg)
+
+At this time of year, the milky way in relation to the sunset horizon is now upright.  It is in this upright area that we can observe the Paleo-Hebrew letter Kaf around a small foot.
+
+![Kaf 4](11_Kaf4.jpg)
+
+The Ktav Ashuri Kaf is seen in the same region rotate -90deg.
+
+Once again the synonomous meaning can be seen in Proverbs 31 Yod, Kaf, Kaf, Yod pattern.
+
+> *Her-hands* (יָדֶיהָ) she hath sent forth on a spindle,  
+> And-her-hands (וְכַפֶּיהָ) have held a distaff.  
+> Her-hand (כַּפָּהּ) she hath spread forth to the poor,  
+> *And-her-hands* (יָדֶיהָ) she sent forth to the needy.  
+> Proverbs 31:19–20  
+
 
 ---
 
@@ -426,7 +446,7 @@ In this time period, the summer/fall harvest would take place: grapes, figs, pom
 **Discussion:**
  - Lexical meaning: Ox-goad (certain).
  - Ox-goad shape: found.
- - Paleo Hebrew letter shape: found.
+ - Paleo-Hebrew letter shape: found.
  - Ktav Ashuri (Assyrian script) letter shape: pending. 
 
 ---
@@ -442,7 +462,7 @@ In this time period, the summer/fall harvest would take place: grapes, figs, pom
 **Discussion:**
  - Lexical meaning: Waters (certain).
  - Waters shape: found.
- - Paleo Hebrew letter shape: found.
+ - Paleo-Hebrew letter shape: found.
  - Ktav Ashuri (Assyrian script) letter shape: found. 
 
 This section is very busy with details which I find it more difficult.
@@ -460,7 +480,7 @@ This section is very busy with details which I find it more difficult.
 **Discussion:**
  - Lexical meaning: Fish (certain).
  - Fish shape: found.
- - Paleo Hebrew letter shape: found.
+ - Paleo-Hebrew letter shape: found.
  - Ktav Ashuri (Assyrian script) letter shape: pending. 
 
 ---
@@ -476,7 +496,7 @@ This section is very busy with details which I find it more difficult.
 **Discussion:**
  - Lexical meaning: Support (uncertain).
  - Support shape: found.
- - Paleo Hebrew letter shape: found.
+ - Paleo-Hebrew letter shape: found.
  - Ktav Ashuri (Assyrian script) letter shape: found. 
 
 ---
@@ -492,7 +512,7 @@ This section is very busy with details which I find it more difficult.
 **Discussion:**
  - Lexical meaning: Eye/spring (certain).
  - Eye shape: found.
- - Paleo Hebrew letter shape: found.
+ - Paleo-Hebrew letter shape: found.
  - Ktav Ashuri (Assyrian script) letter shape: found. 
 
 ---
@@ -508,7 +528,7 @@ This section is very busy with details which I find it more difficult.
 **Discussion:**
  - Lexical meaning: Mouth (certain).
  - Mouth shape: found.
- - Paleo Hebrew letter shape: found.
+ - Paleo-Hebrew letter shape: found.
  - Ktav Ashuri (Assyrian script) letter shape: found.
 
 The mouth and letter shape were easy to find.  *Pe* has a voiceless *P* sound made by pushing air through the lips.  The mouth shape of the nebula represents lips forming that sound.
@@ -534,10 +554,10 @@ Without looking at the Milky Way but stringing the Paleo-Hebrew letters together
 **Discussion:**
  - Lexical meaning: Fish-hook.
  - Fish hook shape: found (difficult).
- - Paleo Hebrew letter shape: found (difficult).
+ - Paleo-Hebrew letter shape: found (difficult).
  - Ktav Ashuri (Assyrian script) letter shape: found. 
 
-I found it difficult to locate a fish hook shape and the shape of the Paleo Hebrew letter.
+I found it difficult to locate a fish hook shape and the shape of the Paleo-Hebrew letter.
 
 ---
 
@@ -552,7 +572,7 @@ I found it difficult to locate a fish hook shape and the shape of the Paleo Hebr
 **Discussion:**
  - Lexical meaning: Monkey or Back of neck (certain).
  - Monkey shape: found 2.
- - Paleo Hebrew letter shape: found.
+ - Paleo-Hebrew letter shape: found.
  - Ktav Ashuri (Assyrian script) letter shape: found. 
 
 Finding a monkey shape is relatively easy and matches the letter shape.  I could not find the shape of the back of the neck, so it might be that the scholars were attempting to describe the location where the *Qof* sound comes from in the lower throat, paired with the shape of the letter.
@@ -570,7 +590,7 @@ Finding a monkey shape is relatively easy and matches the letter shape.  I could
 **Discussion:**
  - Lexical meaning: Head.
  - Head shape: found head of lion or bear.
- - Paleo Hebrew letter shape: found.
+ - Paleo-Hebrew letter shape: found.
  - Ktav Ashuri (Assyrian script) letter shape: found. 
 
 Lexicons and those who study Hebrew alphabet will sometimes refer to the shape of a head of a man.  However, the apparent shape of the Head is that of a Lion or Bear, which suddenly makes more sense when we consider the *R* sound that *Resh* makes.
@@ -600,7 +620,7 @@ TODO: Once finished, the 22 Retrograde loops of Mercury show how this region rel
 **Discussion:**
  - Lexical meaning: Teeth.
  - Teeth shape: found multiple.
- - Paleo Hebrew letter shape: found.
+ - Paleo-Hebrew letter shape: found.
  - Ktav Ashuri (Assyrian script) letter shape: found. 
 
 ---
@@ -616,7 +636,7 @@ TODO: Once finished, the 22 Retrograde loops of Mercury show how this region rel
 **Discussion:**
  - Lexical meaning: Mark.
  - Mark shape: found.
- - Paleo Hebrew letter shape: found.
+ - Paleo-Hebrew letter shape: found.
  - Ktav Ashuri (Assyrian script) letter shape: found. 
 
 ---
