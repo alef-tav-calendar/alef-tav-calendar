@@ -13,7 +13,7 @@ Mercury's 22 apparent retrograde loops starting in *Alef/Ox* date: -4382, 2, 26.
 | Tav      | Zayin    | Nun      |
 | Shin     | Vav      | Mem      |
 | Resh     | He       | Lamed    |
-| Qof      | Dalet    | Kaf      |
+| Qof      | Dalet    | Kaph      |
 | Tsadi    | Gimel    | Yod      |
 | Pe       | Bet      | Tet      |
 | Ayin     | *Alef*   | -        |
@@ -334,7 +334,7 @@ The Paleo-Hebrew Tet (right) has some resemblance to Tav (left).
 
 See [chapter 43](https://www.youtube.com/watch?v=D2RI6_u6ArA&list=PLbRaSh0207d5oxxRnekgN2GdKQNFtZT2z&index=44).
 
-This is one of the easier regions to recognize as a *hand*. Also, at the tip of the hand is an easily visible Paleo-Hebrew letter Yod. The traditional meaning of the letter *Yod*—*hand*—matches a Yod, Kaf, Kaf, Yod pattern found in the acrostic of Proverbs 31.
+This is one of the easier regions to recognize as a *hand*. Also, at the tip of the hand is an easily visible Paleo-Hebrew letter Yod. The traditional meaning of the letter *Yod*—*hand*—matches a Yod, Kaph, Kaph, Yod pattern found in the acrostic of Proverbs 31.
 
 > *Her-hands* (יָדֶיהָ) she hath sent forth on a spindle,  
 > And-her-hands (וְכַפֶּיהָ) have held a distaff.  
@@ -399,13 +399,13 @@ In this time period, the summer/fall harvest would take place: grapes, figs, pom
 
 ---
 
-## 11. Kaf (כָּף) — כ
+## 11. Kaph (כָּף) — כ
 
 **Meaning:** Palm (of the hand or foot)
 
-![Kaf 1](11_Kaf1.jpg)
+![Kaph 1](11_Kaph1.jpg)
 
-![Kaf 2](11_Kaf2.jpg)
+![Kaph 2](11_Kaph2.jpg)
 
 **Discussion:**
  - Lexical meaning: Palm of hand *or foot*.
@@ -416,15 +416,15 @@ In this time period, the summer/fall harvest would take place: grapes, figs, pom
 
  It seems this may be describing the same large dark "hand" region - but this time focusing on the hollow mid section of the palm of the hand, or arched section of a foot.
 
-![Kaf 3](11_Kaf3.jpg)
+![Kaph 3](11_Kaph3.jpg)
 
-At this time of year, the milky way in relation to the sunset horizon is now upright.  It is in this upright area that we can observe the Paleo-Hebrew letter Kaf around a small foot.
+At this time of year, the milky way in relation to the sunset horizon is now upright.  It is in this upright area that we can observe the Paleo-Hebrew letter Kaph around a small foot.
 
-![Kaf 4](11_Kaf4.jpg)
+![Kaph 4](11_Kaph4.jpg)
 
-The Ktav Ashuri Kaf is seen in the same region rotate -90deg.
+The Ktav Ashuri Kaph is seen in the same region rotate -90deg.
 
-Once again the synonomous meaning can be seen in Proverbs 31 Yod, Kaf, Kaf, Yod pattern.
+Once again the synonomous meaning can be seen in Proverbs 31 Yod, Kaph, Kaph, Yod pattern.
 
 > *Her-hands* (יָדֶיהָ) she hath sent forth on a spindle,  
 > And-her-hands (וְכַפֶּיהָ) have held a distaff.  
@@ -443,11 +443,18 @@ Once again the synonomous meaning can be seen in Proverbs 31 Yod, Kaf, Kaf, Yod 
 
 ![Lamed 2](12_Lamed2.jpg)
 
+![Lamed 3](12_Lamed3.jpg)
+
 **Discussion:**
  - Lexical meaning: Ox-goad (certain).
  - Ox-goad shape: found.
  - Paleo-Hebrew letter shape: found.
  - Ktav Ashuri (Assyrian script) letter shape: pending. 
+
+Lamed or Ox-goad prefix to words means: "to" or "for".  Sense of direction.
+
+In terms of the Hebrew alphabet lamed is the one letter that is written above the red line on the page.  It seems fitting that the dark nebula that represents an ox goad in relation to the galactic equator is somewhat above all the other letters.
+
 
 ---
 
@@ -659,7 +666,7 @@ Below is a table mapping the historical correspondence between the two alphabets
 | **Khet** | ח | **-Et-a** | Η, η |
 | **Tet** | ט | **Thet-a** | Θ, θ |
 | **Yod** | י | **Iot-a** | Ι, ι |
-| **Kaf** | כ | **Kapp-a** | Κ, κ |
+| **Kaph** | כ | **Kapp-a** | Κ, κ |
 | **Lamed** | ל | **Lambd-a** | Λ, λ |
 | **Mem** | מ | **Mu** | Μ, μ |
 | **Nun** | נ | **Nu** | Ν, ν |
@@ -672,7 +679,7 @@ Below is a table mapping the historical correspondence between the two alphabets
 | **Shin** | ש | **Sigm-a** | Σ, σ, ς |
 | **Tav** | ת | **Tau** | Τ, τ |
 
-*(Note: Some Hebrew letters like Kaf, Mem, Nun, Pe, and Tsadi have different forms when they appear at the very end of a word, though only the standard forms are shown here for simplicity).*
+*(Note: Some Hebrew letters like Kaph, Mem, Nun, Pe, and Tsadi have different forms when they appear at the very end of a word, though only the standard forms are shown here for simplicity).*
 
 ### Hebrew → Greek Alphabet: What Was Lost and Added
 
