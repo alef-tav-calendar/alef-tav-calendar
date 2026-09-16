@@ -13,7 +13,7 @@ Mercury's 22 apparent retrograde loops starting in *Alef/Ox* date: -4382, 2, 26.
 | Tav      | Zayin    | Nun      |
 | Shin     | Vav      | Mem      |
 | Resh     | He       | Lamed    |
-| Qof      | Dalet    | Kaph      |
+| Qof      | Dalet    | Kaph     |
 | Tsadi    | Gimel    | Yod      |
 | Pe       | Bet      | Tet      |
 | Ayin     | *Alef*   | -        |
@@ -455,7 +455,6 @@ The Lamed (ox-goad), as a prefix to words, means "to" or "for" — a sense of di
 
 In the Hebrew alphabet, Lamed is the one letter that is written above the red line on the page.  It seems fitting that the dark nebula that represents the ox-goad shape in relation to the galactic equator sits somewhat above all the other letters.
 
-
 ---
 
 ## 13. Mem (מֵם) — מ
@@ -474,14 +473,32 @@ In the Hebrew alphabet, Lamed is the one letter that is written above the red li
  - Paleo-Hebrew letter shape: found.
  - Ktav Ashuri (Assyrian script) letter shape: not found. 
 
-This section is very busy with detail, which I find more difficult to interpret.
 
 Attempts to understand the Mem regions:
  - Water in your mouth, lips shut, voiced — creates the 'mmm' sound.
- - Shape 1: Dark dust clouds may represent dark waters — Mem letter in the Ox's apparent shophar-horn shape.
- - Shape 2: The sound that Oxen make ('mmm') — Mem letter at the mouth of the apparent ox shape.
- - Shape 3: A large Mem top composed between the two horns of the Ox and the tail down the jawline.
+ - Shape 1: Dark dust clouds may represent dark waters — the Mem letter is in the Ox's apparent shophar-horn shape.
+ - Shape 2: The sound that Oxen make ('mmm') — the Mem letter is at the mouth of the apparent Ox shape.
+ - Shape 3: A large Mem shape whose top is formed between the two horns of the Ox, with the tail running down the jawline.
 
+This region of the Milky Way has many intricate shapes, which makes finding the letter shapes more difficult.  This galactic bulge has thousands of stars. In Hebrew grammar, when Mem is suffixed to a word, it can give it the sense of the plural (many):
+| (־ִים) | -im | noun/adjective *plural* | e.g. books |
+| (־ְכֶם) | -khem | 2nd person masculine *plural* | your/you |
+| (־ָם)  | -am | 3rd person masculine *plural* | their/them |
+| (־ָהֶם / ־הֶם) | -ahem/-hem | 3rd person masculine *plural* | their/them |
+
+The next letter, Nun, is also used as a *plural* feminine suffix.
+
+Another sequence that came to my attention forms a fishing scene when the Paleo-Hebrew letters are joined along the ecliptic path.
+ - Mem — water
+ - Nun — fish tail
+ - Samek — support ribs
+ - Ayin — eye of the fish
+ - Pe — mouth of the fish
+ - Tsade — fish hook
+
+In the calendar system, Mem marks the start of the rainy season in the Fertile Crescent region.
+
+Note: Behind the apparent ox shape, just to the inside of his right shophar-horn, there is an apparent upside-down cone shape resembling the pile found in the center of a threshing floor.  The combination of a threshing floor, an Ox, and an Ox-goad creates memorable imagery, which we will discuss in more detail elsewhere.
 
 ---
 
@@ -495,9 +512,17 @@ Attempts to understand the Mem regions:
 
 **Discussion:**
  - Lexical meaning: Fish (certain).
- - Fish shape: found.
+ - Fish shape: found multiple.
  - Paleo-Hebrew letter shape: found.
- - Ktav Ashuri (Assyrian script) letter shape: pending. 
+ - Ktav Ashuri (Assyrian script) letter shape: difficult — too many matches. 
+
+The traditional meaning of Nun is *fish*, and as a verb, *propagate* or *increase*.  
+
+Similar to Mem, this Nun region of the Milky Way has many shapes to choose from, which makes the task a bit more difficult.  And similar to Mem, Nun in the alphabet gives the sense of the plural (many) when it is suffixed to a word.
+| (־כֶן) | -khen | 2nd person feminine *plural* | your/you |
+| (־ָן) | -an | 3rd person feminine *plural* | they/them |
+| (־ָהֶן / ־הֶן) | -ahen/-hen | 3rd person feminine *plural*  | they/them |
+
 
 ---
 
