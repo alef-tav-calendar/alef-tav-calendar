@@ -451,9 +451,9 @@ Once again the synonomous meaning can be seen in Proverbs 31 Yod, Kaph, Kaph, Yo
  - Paleo-Hebrew letter shape: found.
  - Ktav Ashuri (Assyrian script) letter shape: pending. 
 
-Lamed or Ox-goad prefix to words means: "to" or "for".  Sense of direction.
+The Lamed (ox-goad), as a prefix to words, means "to" or "for" — a sense of direction.
 
-In terms of the Hebrew alphabet lamed is the one letter that is written above the red line on the page.  It seems fitting that the dark nebula that represents an ox goad in relation to the galactic equator is somewhat above all the other letters.
+In the Hebrew alphabet, Lamed is the one letter that is written above the red line on the page.  It seems fitting that the dark nebula that represents the ox-goad shape in relation to the galactic equator sits somewhat above all the other letters.
 
 
 ---
@@ -466,13 +466,22 @@ In terms of the Hebrew alphabet lamed is the one letter that is written above th
 
 ![Mem 2](13_Mem2.jpg)
 
+![Mem 3](13_Mem3.jpg)
+
 **Discussion:**
  - Lexical meaning: Waters (certain).
  - Waters shape: found.
  - Paleo-Hebrew letter shape: found.
- - Ktav Ashuri (Assyrian script) letter shape: found. 
+ - Ktav Ashuri (Assyrian script) letter shape: not found. 
 
-This section is very busy with details which I find it more difficult.
+This section is very busy with detail, which I find more difficult to interpret.
+
+Attempts to understand the Mem regions:
+ - Water in your mouth, lips shut, voiced — creates the 'mmm' sound.
+ - Shape 1: Dark dust clouds may represent dark waters — Mem letter in the Ox's apparent shophar-horn shape.
+ - Shape 2: The sound that Oxen make ('mmm') — Mem letter at the mouth of the apparent ox shape.
+ - Shape 3: A large Mem top composed between the two horns of the Ox and the tail down the jawline.
+
 
 ---
 
