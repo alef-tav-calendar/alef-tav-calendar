@@ -481,10 +481,12 @@ Attempts to understand the Mem regions:
  - Shape 3: A large Mem shape whose top is formed between the two horns of the Ox, with the tail running down the jawline.
 
 This region of the Milky Way has many intricate shapes, which makes finding the letter shapes more difficult.  This galactic bulge has thousands of stars. In Hebrew grammar, when Mem is suffixed to a word, it can give it the sense of the plural (many):
-| (־ִים) | -im | noun/adjective *plural* | e.g. books |
-| (־ְכֶם) | -khem | 2nd person masculine *plural* | your/you |
-| (־ָם)  | -am | 3rd person masculine *plural* | their/them |
-| (־ָהֶם / ־הֶם) | -ahem/-hem | 3rd person masculine *plural* | their/them |
+| suffix      | suffix     | word form (morphology)        | translation |
+|-------------|------------|-------------------------------|-------------|
+| (־ִים)       | -im        | noun/adjective *plural*       | e.g. books  |
+| (־ְכֶם)       | -khem      | 2nd person masculine *plural* | your/you    |
+| (־ָם)        | -am        | 3rd person masculine *plural* | their/them  |
+| (־ָהֶם / ־הֶם) | -ahem/-hem | 3rd person masculine *plural* | their/them  |
 
 The next letter, Nun, is also used as a *plural* feminine suffix.
 
@@ -510,6 +512,8 @@ Note: Behind the apparent ox shape, just to the inside of his right shophar-horn
 
 ![Nun 2](14_Nun2.jpg)
 
+![Nun 3](14_Nun3.jpg)
+
 **Discussion:**
  - Lexical meaning: Fish (certain).
  - Fish shape: found multiple.
@@ -519,9 +523,11 @@ Note: Behind the apparent ox shape, just to the inside of his right shophar-horn
 The traditional meaning of Nun is *fish*, and as a verb, *propagate* or *increase*.  
 
 Similar to Mem, this Nun region of the Milky Way has many shapes to choose from, which makes the task a bit more difficult.  And similar to Mem, Nun in the alphabet gives the sense of the plural (many) when it is suffixed to a word.
-| (־כֶן) | -khen | 2nd person feminine *plural* | your/you |
-| (־ָן) | -an | 3rd person feminine *plural* | they/them |
-| (־ָהֶן / ־הֶן) | -ahen/-hen | 3rd person feminine *plural*  | they/them |
+| suffix      | suffix     | word form                    | translation |
+|-------------|------------|------------------------------|-------------|
+| (־כֶן)       | -khen      | 2nd person feminine *plural* | your/you    |
+| (־ָן)        | -an        | 3rd person feminine *plural* | they/them   |
+| (־ָהֶן / ־הֶן) | -ahen/-hen | 3rd person feminine *plural  | they/them   |
 
 
 ---
