@@ -574,29 +574,37 @@ Several acrostic Psalms represent this letter with a word that is very similar t
 
  > *Sustain-me* according to Thy saying, 
  > And I live, and Thou puttest me not to shame Because of my hope. 
+ > 
  > סָמְכֵנִי כְ‍אִמְרָתְךָ וְאֶחְיֶה וְאַל־תְּבִישֵׁנִי מִ‍שִּׂבְרִי׃ 
+ > 
  > Psalm 119:116
 
 
  > Yahweh *is-supporting* all who are falling, 
  > And raising up all who are bowed down. 
+ > 
  > סוֹמֵךְ יְהוָה לְכָל־הַנֹּפְלִים וְזוֹקֵף לְכָל־הַכְּפוּפִים׃  
+ > 
  > Psalm 145:14
 
 
  > *They-stand-fast* forever and ever, 
  > And-are-done in truth and uprightness. 
+ > 
  > סְמוּכִים לָעַד לְעוֹלָם 
  > עֲשׂוּיִם בֶּאֱמֶת וְיָשָׁר׃ 
+ > 
  > Psalm 111:8
 
 
  > *Established* is his heart; 
  > He will not be afraid, 
  > Until he sees his desire upon his enemies. 
+ > 
  > סָמוּךְ לִבּוֹ 
  > לֹא יִירָא 
  > עַד אֲשֶׁר־יִרְאֶה בְצָרָיו׃ 
+ > 
  > Psalm 112:8
 
 
