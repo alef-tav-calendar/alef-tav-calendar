@@ -49,6 +49,7 @@ The night sky acts as a universal canvas for human pareidolia, where the shapes 
  - Ox shape: found one (easy).
  - Paleo-Hebrew letter shape: found one (easy).
  - Ktav Ashuri (Assyrian script) letter shape: found one (easy).
+ - Sound: A
 
 Instead of following the horizon to the Milky Way on the right, this letter is touching the Milky Way above.
 
@@ -77,6 +78,7 @@ It seems the clear dark desert skies of the fertile crescent gave astronomers an
  - House shape: found multiple.
  - Paleo-Hebrew letter shape: found multiple.
  - Ktav Ashuri (Assyrian script) letter shape: similar to Paleo-Hebrew.
+ - Sound B
 
 The regions where the ecliptic path bisects the Milky Way are more difficult to interpret, as there are multiple shapes that match the meaning of the letter.  Top row of the above image represents looking West as the Milky Way goes toward sunset where a simple house is seen wide at the bottom narrow at the top. The bottom row is the Milky Way as it rises in the east, which has two temple-like houses. The last resembles the temple that David and Solomon worked on, which had a tall front face and two pillars.
 
@@ -99,6 +101,7 @@ The regions where the ecliptic path bisects the Milky Way are more difficult to 
  - Camel shape: found two.
  - Paleo-Hebrew letter shape: found multiple.
  - Ktav Ashuri (Assyrian script) letter shape: found multiple.
+ - Sound: G
 
 There seem to be 2 Camel shapes that match.  There are also about 2 regions that match the letter shape.
 
@@ -121,6 +124,7 @@ See [Decoding Gimel: A Camel shape in the nebula? #20](https://www.youtube.com/w
  - Door shape: found difficult.
  - Paleo-Hebrew letter shape: found.
  - Ktav Ashuri (Assyrian script) letter shape: found. 
+ - Sound: D
 
 The door shape itself is very faint. The apparent shape of the letter has a dark tail off to the right that does not match the letter exactly.
  
@@ -141,6 +145,7 @@ The door shape itself is very faint. The apparent shape of the letter has a dark
  - Window shape: there are several window shapes but I think they eye (behold) shape might be inferred - although there is *Ayin/Eye* later in the Alphabet.
  - Paleo-Hebrew letter shape: found two.
  - Ktav Ashuri (Assyrian script) letter shape: not found
+ - Sound: H
 
 *Hey* means **window** as well as how you interact with a window: **behold**. (Gen. 47:23)
 
@@ -167,6 +172,7 @@ This portion of the Milky Way also sits low on the horizon, so it would have bee
  - Hook shape: not found.
  - Paleo-Hebrew letter shape: found (difficult).
  - Ktav Ashuri (Assyrian script) letter shape: not found. 
+ - Sound: O
 
 *Vav* or *Waw* is in a portion of the Milky Way that is very close to the southern horizon, making this region more difficult to observe from the fertile crescent.
 
@@ -191,6 +197,7 @@ This portion of the Milky Way also sits low on the horizon, so it would have bee
  - Weapon shape: found.
  - Paleo-Hebrew letter shape: found.
  - Ktav Ashuri (Assyrian script) letter shape: found. 
+ - Sound: Z
 
 
 Since the lexical meaning is uncertain, the notes below may or may not help in understanding the nebula shapes being described. Possible meanings of the Hebrew letter Zayin (ז):
@@ -238,6 +245,7 @@ Note 2: This page is about the 22-Mercury-Retrograde calendar. When we get to th
  - Fence shape: found.
  - Paleo-Hebrew letter shape: found.
  - Ktav Ashuri (Assyrian script) letter shape: pending. 
+ - Sound: kh - gutteral back of throat.
 
 
 ### Khet (חֵית) — Etymology & Morphology Notes
@@ -285,6 +293,7 @@ Note 2: This page is about the 22-Mercury-Retrograde calendar. When we get to th
  - Spinning wheel, serpent, or clay shape: found.
  - Paleo-Hebrew letter shape: found.
  - Ktav Ashuri (Assyrian script) letter shape: not easily found. 
+ - Sound: T
 
 The letter Tet today makes a 't' sound.  Yet it is difficult to understand how a snake or a spinning wheel relates to the sound 't'.  Two suggestions for the sound and shape come from spinning wool and the saw-scaled viper.
 
@@ -331,6 +340,7 @@ The Paleo-Hebrew Tet (right) has some resemblance to Tav (left).
  - Hand shape: found.
  - Paleo-Hebrew letter shape: found.
  - Ktav Ashuri (Assyrian script) letter shape: found.
+ - Sound: Y
 
 See [chapter 43](https://www.youtube.com/watch?v=D2RI6_u6ArA&list=PLbRaSh0207d5oxxRnekgN2GdKQNFtZT2z&index=44).
 
@@ -412,6 +422,7 @@ In this time period, the summer/fall harvest would take place: grapes, figs, pom
  - Palm shape: found.
  - Paleo-Hebrew letter shape: found.
  - Ktav Ashuri (Assyrian script) letter shape: found. 
+ - Sound: K
  - BDB Lexicon defines (כַּף) as: hollow, or flat of the hand, palm, sole of foot, pan.
 
  It seems this may be describing the same large dark "hand" region - but this time focusing on the hollow mid section of the palm of the hand, or arched section of a foot.
@@ -450,6 +461,7 @@ Once again the synonomous meaning can be seen in Proverbs 31 Yod, Kaph, Kaph, Yo
  - Ox-goad shape: found.
  - Paleo-Hebrew letter shape: found.
  - Ktav Ashuri (Assyrian script) letter shape: pending. 
+ - Sound: L
 
 The Lamed (ox-goad), as a prefix to words, means "to" or "for" — a sense of direction.
 
@@ -472,6 +484,7 @@ In the Hebrew alphabet, Lamed is the one letter that is written above the red li
  - Waters shape: found.
  - Paleo-Hebrew letter shape: found.
  - Ktav Ashuri (Assyrian script) letter shape: not found. 
+ - Sound: M
 
 
 Attempts to understand the Mem regions:
@@ -493,7 +506,7 @@ The next letter, Nun, is also used as a *plural* feminine suffix.
 Another sequence that came to my attention forms a fishing scene when the Paleo-Hebrew letters are joined along the ecliptic path.
  - Mem — water
  - Nun — fish tail
- - Samek — support ribs
+ - Samekh — support ribs
  - Ayin — eye of the fish
  - Pe — mouth of the fish
  - Tsade — fish hook
@@ -501,6 +514,10 @@ Another sequence that came to my attention forms a fishing scene when the Paleo-
 In the calendar system, Mem marks the start of the rainy season in the Fertile Crescent region.
 
 Note: Behind the apparent ox shape, just to the inside of his right shophar-horn, there is an apparent upside-down cone shape resembling the pile found in the center of a threshing floor.  The combination of a threshing floor, an Ox, and an Ox-goad creates memorable imagery, which we will discuss in more detail elsewhere.
+
+See also:
+ - [Testing the calendar.  Mem means water. #13](https://www.youtube.com/watch?v=l42tqwR4zPE)
+ - [Fountains and floodgates - Ancient data preservation. #15](https://www.youtube.com/watch?v=R0sTtFCRQBo)
 
 ---
 
@@ -519,6 +536,7 @@ Note: Behind the apparent ox shape, just to the inside of his right shophar-horn
  - Fish shape: found multiple.
  - Paleo-Hebrew letter shape: found.
  - Ktav Ashuri (Assyrian script) letter shape: difficult — too many matches. 
+ - Sound: N
 
 The traditional meaning of Nun is *fish*, and as a verb, *propagate* or *increase*.  
 
@@ -536,15 +554,53 @@ Similar to Mem, this Nun region of the Milky Way has many shapes to choose from,
 
 **Meaning:** Support, prop
 
-![Samekh 1](15_Samek1.jpg)
+![Samekh 1](15_Samekh1.jpg)
 
-![Samekh 2](15_Samek2.jpg)
+![Samekh 2](15_Samekh2.jpg)
+
+![Samekh 3](15_Samekh3.jpg)
 
 **Discussion:**
- - Lexical meaning: Support (uncertain).
+ - Lexical meaning: Support or sustain.
  - Support shape: found.
- - Paleo-Hebrew letter shape: found.
+ - Paleo-Hebrew letter shape: difficult.
  - Ktav Ashuri (Assyrian script) letter shape: found. 
+ - Sound: "S"
+
+The shape of support or sustain may be this apparent box structure. Resembling a shelter, a house or a feed trough.
+
+
+Several acrostic Psalms represent this letter with a word that is very similar to the letter's name itself.
+
+ > *Sustain-me* according to Thy saying, 
+ > And I live, and Thou puttest me not to shame Because of my hope. 
+ > סָמְכֵנִי כְ‍אִמְרָתְךָ וְאֶחְיֶה וְאַל־תְּבִישֵׁנִי מִ‍שִּׂבְרִי׃ 
+ > Psalm 119:116
+
+
+ > Yahweh *is-supporting* all who are falling, 
+ > And raising up all who are bowed down. 
+ > סוֹמֵךְ יְהוָה לְכָל־הַנֹּפְלִים וְזוֹקֵף לְכָל־הַכְּפוּפִים׃  
+ > Psalm 145:14
+
+
+ > *They-stand-fast* forever and ever, 
+ > And-are-done in truth and uprightness. 
+ > סְמוּכִים לָעַד לְעוֹלָם 
+ > עֲשׂוּיִם בֶּאֱמֶת וְיָשָׁר׃ 
+ > Psalm 111:8
+
+
+ > *Established* is his heart; 
+ > He will not be afraid, 
+ > Until he sees his desire upon his enemies. 
+ > סָמוּךְ לִבּוֹ 
+ > לֹא יִירָא 
+ > עַד אֲשֶׁר־יִרְאֶה בְצָרָיו׃ 
+ > Psalm 112:8
+
+
+See: [Decoding Samek constellation: to support, to sustain #25](https://www.youtube.com/watch?v=gA-iPK3v_Fo)
 
 ---
 
@@ -562,6 +618,8 @@ Similar to Mem, this Nun region of the Milky Way has many shapes to choose from,
  - Paleo-Hebrew letter shape: found.
  - Ktav Ashuri (Assyrian script) letter shape: found. 
 
+
+See: [Decoding an Ayin nebula: an Eye, a Spring #24](https://www.youtube.com/watch?v=WXlz6gGHKME)
 ---
 
 ## 17. Pe (פֶּה) — פ
@@ -624,6 +682,8 @@ I found it difficult to locate a fish hook shape and the shape of the Paleo-Hebr
 
 Finding a monkey shape is relatively easy and matches the letter shape.  I could not find the shape of the back of the neck, so it might be that the scholars were attempting to describe the location where the *Qof* sound comes from in the lower throat, paired with the shape of the letter.
 
+
+See: [Decoding Qof and Resh: a Monkey and a Head #26](https://www.youtube.com/watch?v=ih_0SDwW4vc)
 ---
 
 ## 20. Resh (רֹאשׁ) — ר
