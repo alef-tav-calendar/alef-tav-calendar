@@ -105,7 +105,8 @@ The regions where the ecliptic path bisects the Milky Way are more difficult to 
 
 There seem to be 2 Camel shapes that match.  There are also about 2 regions that match the letter shape.
 
-See [Decoding Gimel: A Camel shape in the nebula? #20](https://www.youtube.com/watch?v=n0SOUpVgzXM)
+See [Decoding Gimel: A Camel shape in the nebula? #20](https://www.youtube.com/watch?v=n0SOUpVgzXM) 
+
 
 ---
 
@@ -342,7 +343,7 @@ The Paleo-Hebrew Tet (right) has some resemblance to Tav (left).
  - Ktav Ashuri (Assyrian script) letter shape: found.
  - Sound: Y
 
-See [chapter 43](https://www.youtube.com/watch?v=D2RI6_u6ArA&list=PLbRaSh0207d5oxxRnekgN2GdKQNFtZT2z&index=44).
+See [chapter 43](https://www.youtube.com/watch?v=D2RI6_u6ArA&list=PLbRaSh0207d5oxxRnekgN2GdKQNFtZT2z&index=44). 
 
 This is one of the easier regions to recognize as a *hand*. Also, at the tip of the hand is an easily visible Paleo-Hebrew letter Yod. The traditional meaning of the letter *Yod*—*hand*—matches a Yod, Kaph, Kaph, Yod pattern found in the acrostic of Proverbs 31.
 
@@ -516,8 +517,9 @@ In the calendar system, Mem marks the start of the rainy season in the Fertile C
 Note: Behind the apparent ox shape, just to the inside of his right shophar-horn, there is an apparent upside-down cone shape resembling the pile found in the center of a threshing floor.  The combination of a threshing floor, an Ox, and an Ox-goad creates memorable imagery, which we will discuss in more detail elsewhere.
 
 See also:
- - [Testing the calendar.  Mem means water. #13](https://www.youtube.com/watch?v=l42tqwR4zPE)
- - [Fountains and floodgates - Ancient data preservation. #15](https://www.youtube.com/watch?v=R0sTtFCRQBo)
+ - [Testing the calendar.  Mem means water. #13](https://www.youtube.com/watch?v=l42tqwR4zPE) 
+ - [Fountains and floodgates - Ancient data preservation. #15](https://www.youtube.com/watch?v=R0sTtFCRQBo) 
+
 
 ---
 
@@ -607,8 +609,8 @@ Several acrostic Psalms represent this letter with a word that is very similar t
  > 
  > Psalm 112:8
 
+See [Decoding Samek constellation: to support, to sustain #25](https://www.youtube.com/watch?v=gA-iPK3v_Fo) 
 
-See: [Decoding Samek constellation: to support, to sustain #25](https://www.youtube.com/watch?v=gA-iPK3v_Fo)
 
 ---
 
@@ -674,7 +676,9 @@ The traditional name matches several acrostic passages:
 > 
 > Lamentations 3:49, 51
 
-See: [Decoding an Ayin nebula: an Eye, a Spring #24](https://www.youtube.com/watch?v=WXlz6gGHKME)
+See [Decoding an Ayin nebula: an Eye, a Spring #24](https://www.youtube.com/watch?v=WXlz6gGHKME) 
+
+
 ---
 
 ## 17. Pe (פֶּה) — פ
@@ -738,7 +742,9 @@ I found it difficult to locate a fish hook shape and the shape of the Paleo-Hebr
 Finding a monkey shape is relatively easy and matches the letter shape.  I could not find the shape of the back of the neck, so it might be that the scholars were attempting to describe the location where the *Qof* sound comes from in the lower throat, paired with the shape of the letter.
 
 
-See: [Decoding Qof and Resh: a Monkey and a Head #26](https://www.youtube.com/watch?v=ih_0SDwW4vc)
+See [Decoding Qof and Resh: a Monkey and a Head #26](https://www.youtube.com/watch?v=ih_0SDwW4vc) 
+
+
 ---
 
 ## 20. Resh (רֹאשׁ) — ר
