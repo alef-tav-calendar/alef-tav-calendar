@@ -637,26 +637,30 @@ The traditional name matches several acrostic passages:
 >
 > עֵינַי תָּמִיד אֶל־יְהוָה
 > כִּי הוּא־יוֹצִיא מֵ‍רֶשֶׁת רַגְלָי׃
- Psalm 25:15
+> 
+> Psalm 25:15
 
 > *The eyes* of the LORD are on the righteous, 
 > And-His-ears are open to their cry. 
 >
 > עֵינֵי יְהוָה אֶל־צַדִּיקִים
 > וְאָזְנָיו אֶל־שַׁוְעָתָם׃
- Psalm 34:15
+> 
+> Psalm 34:15
 
 > *Mine-eyes* have been consumed for Thy salvation.  
 > And for the saying of Thy righteousness. 
 > 
 > עֵינַי כָּלוּ לִישׁוּעָתֶךָ וּלְאִמְרַת צִדְקֶךָ׃
- Psalm 119:123
+> 
+> Psalm 119:123
 
 > *The-eyes* of all unto Thee do look, 
 > And Thou art giving to them their food in-its-season, 
 > 
 > עֵינֵי־כֹל אֵלֶיךָ יְשַׂבֵּרוּ וְאַתָּה נוֹתֵן־לָהֶם אֶת־אָכְלָם בְּעִתּוֹ׃
- Psalm 145:15
+> 
+> Psalm 145:15
 
 > *Mine-eye* is poured out,  
 > And doth not cease without intermission, 
@@ -667,7 +671,8 @@ The traditional name matches several acrostic passages:
 > Because of all the daughters of my city. 
 > 
 > עֵינִי עוֹלְלָה לְנַפְשִׁי מִ‍כֹּל בְּנוֹת עִירִי׃  ס
- Lamentations 3:49, 51
+> 
+> Lamentations 3:49, 51
 
 See: [Decoding an Ayin nebula: an Eye, a Spring #24](https://www.youtube.com/watch?v=WXlz6gGHKME)
 ---
