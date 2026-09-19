@@ -245,7 +245,7 @@ Note 2: This page is about the 22-Mercury-Retrograde calendar. When we get to th
  - Fence shape: found.
  - Paleo-Hebrew letter shape: found.
  - Ktav Ashuri (Assyrian script) letter shape: pending. 
- - Sound: kh - gutteral back of throat.
+ - Sound: kh - guttural back of throat.
 
 
 ### Khet (חֵית) — Etymology & Morphology Notes
@@ -620,12 +620,54 @@ See: [Decoding Samek constellation: to support, to sustain #25](https://www.yout
 
 ![Ayin 2](16_Ayin2.jpg)
 
+![Ayin 3](16_Ayin3.jpg)
+
 **Discussion:**
  - Lexical meaning: Eye/spring (certain).
  - Eye shape: found.
  - Paleo-Hebrew letter shape: found.
  - Ktav Ashuri (Assyrian script) letter shape: found. 
+ - Sound: guttural, like the glottal stop in the English word *bo'tle* — the sound made when someone cries and runs out of breath for a brief moment.
 
+This apparent shape of an Ayin/Eye was much easier to pick out because it is part of a face, while the right half of the face is in shadow.  In Hebrew, *Ayin* is both Eye and Spring, as both can gush out water.  *Ayin* also appears in a Hebrew idiom where a *good eye* means generous and a *bad eye* means stingy — I find this idiom makes more sense when compared to coming upon a *good spring* or a *bad spring* when thirsty.
+
+The traditional name matches several acrostic passages:
+> *My-eyes* are ever toward the LORD, 
+> For He shall-pluck my feet out of the net. 
+>
+> עֵינַי תָּמִיד אֶל־יְהוָה
+> כִּי הוּא־יוֹצִיא מֵ‍רֶשֶׁת רַגְלָי׃
+ Psalm 25:15
+
+> *The eyes* of the LORD are on the righteous, 
+> And-His-ears are open to their cry. 
+>
+> עֵינֵי יְהוָה אֶל־צַדִּיקִים
+> וְאָזְנָיו אֶל־שַׁוְעָתָם׃
+ Psalm 34:15
+
+> *Mine-eyes* have been consumed for Thy salvation.  
+> And for the saying of Thy righteousness. 
+> 
+> עֵינַי כָּלוּ לִישׁוּעָתֶךָ וּלְאִמְרַת צִדְקֶךָ׃
+ Psalm 119:123
+
+> *The-eyes* of all unto Thee do look, 
+> And Thou art giving to them their food in-its-season, 
+> 
+> עֵינֵי־כֹל אֵלֶיךָ יְשַׂבֵּרוּ וְאַתָּה נוֹתֵן־לָהֶם אֶת־אָכְלָם בְּעִתּוֹ׃
+ Psalm 145:15
+
+> *Mine-eye* is poured out,  
+> And doth not cease without intermission, 
+> 
+> עֵינִי נִגְּרָה וְלֹא תִדְמֶה מֵ‍אֵין הֲפֻגוֹת׃
+>
+> *My-eye* affecteth my soul,  
+> Because of all the daughters of my city. 
+> 
+> עֵינִי עוֹלְלָה לְנַפְשִׁי מִ‍כֹּל בְּנוֹת עִירִי׃  ס
+ Lamentations 3:49, 51
 
 See: [Decoding an Ayin nebula: an Eye, a Spring #24](https://www.youtube.com/watch?v=WXlz6gGHKME)
 ---
