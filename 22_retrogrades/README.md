@@ -689,21 +689,16 @@ See [Decoding an Ayin nebula: an Eye, a Spring #24](https://www.youtube.com/watc
 
 ![Pe 2](17_Pe2.jpg)
 
+![Pe 3](17_Pe3.jpg)
+
 **Discussion:**
  - Lexical meaning: Mouth (certain).
  - Mouth shape: found.
  - Paleo-Hebrew letter shape: found.
  - Ktav Ashuri (Assyrian script) letter shape: found.
+ - Sound: P or Ph
 
-The mouth and letter shape were easy to find.  *Pe* has a voiceless *P* sound made by pushing air through the lips.  The mouth shape of the nebula represents lips forming that sound.
-
-Without looking at the Milky Way but stringing the Paleo-Hebrew letters together, I noticed the letters form a static animation of a fish being pulled from the water with a fish-hook.
- - Mem (Water),
- - Nun (Fish resembling the tail of a fish),
- - Samekh (Support body of fish),
- - Ayin (eye of fish),
- - Pe (mouth of fish),
- - Tsadi (fish-hook)
+The mouth shape of the nebula represents lips forming the P sound.
 
 ---
 
@@ -723,6 +718,13 @@ Without looking at the Milky Way but stringing the Paleo-Hebrew letters together
 
 I found it difficult to locate a fish hook shape and the shape of the Paleo-Hebrew letter.
 
+Without looking at the Milky Way but stringing the Paleo-Hebrew letters together, I noticed the letters form a static animation of a fish being pulled from the water with a fish-hook.
+ - Mem (Water),
+ - Nun (Fish resembling the tail of a fish),
+ - Samekh (Support body of fish),
+ - Ayin (eye of fish),
+ - Pe (mouth of fish),
+ - Tsadi (fish-hook)
 ---
 
 ## 19. Qof (קוּף) — ק
