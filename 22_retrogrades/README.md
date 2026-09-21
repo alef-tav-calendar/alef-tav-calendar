@@ -716,7 +716,7 @@ The mouth shape of the nebula represents lips forming the P sound.
  - Lexical meaning: fish-hook (uncertain).
  - Fish hook/huting shape: found (difficult uncertain).
  - Paleo-Hebrew letter shape: found.
- - Ktav Ashuri (Assyrian script) letter shape: found (difficult). 
+ - Ktav Ashuri (Assyrian script) letter shape: not found. 
  - Sound: ts
 
 The word used for fishhook in scripture is (חַכָּה) **khakkah**.  Whereas Tsade relates more to hunting, lie-in-wait.
@@ -736,10 +736,10 @@ There may be a shape in this region that resembles hunting or lying-in-wait that
 
 Without looking at the Milky Way but stringing the Paleo-Hebrew letters together, I noticed the letters may be describing the parts of a fish being pulled from the water with a fish-hook.
  - Mem (Water),
- - Nun (Fish resembling the tail of a fish),
- - Samekh (Support body of fish),
- - Ayin (eye of fish),
- - Pe (mouth of fish),
+ - Nun (Fish tail),
+ - Samekh (Support fish ribs or fish fins),
+ - Ayin (fish eye),
+ - Pe (fish mouth),
  - Tsadi (fish-hook)
 
 ![Tsadi 4](18_Tsadi4.jpg) 
