@@ -510,7 +510,7 @@ Another sequence that came to my attention forms a fishing scene when the Paleo-
  - Samekh — support ribs
  - Ayin — eye of the fish
  - Pe — mouth of the fish
- - Tsade — fish hook
+ - Tsadi — fish hook
 
 In the calendar system, Mem marks the start of the rainy season in the Fertile Crescent region.
 
@@ -710,21 +710,41 @@ The mouth shape of the nebula represents lips forming the P sound.
 
 ![Tsadi 2](18_Tsadi2.jpg)
 
+![Tsadi 3](18_Tsadi3.jpg)
+
 **Discussion:**
- - Lexical meaning: Fish-hook.
- - Fish hook shape: found (difficult).
- - Paleo-Hebrew letter shape: found (difficult).
- - Ktav Ashuri (Assyrian script) letter shape: found. 
+ - Lexical meaning: fish-hook (uncertain).
+ - Fish hook/huting shape: found (difficult uncertain).
+ - Paleo-Hebrew letter shape: found.
+ - Ktav Ashuri (Assyrian script) letter shape: found (difficult). 
+ - Sound: ts
 
-I found it difficult to locate a fish hook shape and the shape of the Paleo-Hebrew letter.
+The word used for fishhook in scripture is (חַכָּה) **khakkah**.  Whereas Tsade relates more to hunting, lie-in-wait.
 
-Without looking at the Milky Way but stringing the Paleo-Hebrew letters together, I noticed the letters form a static animation of a fish being pulled from the water with a fish-hook.
+Acrostic scriptures and the lexicons do not speak of a fish-hook but there may be a word family that may relate:
+- Hunted:
+  - Hunted (צוֹד) Lam 3:52
+  - They-have-hunted (צָדוּ) Lam 4:18
+
+- (צַד) side, lie/lay (on side), at side of
+  - (צָדָה) lie-in-wait
+  - (צְדִיָּה) lying-in-wait
+
+
+There may be a shape in this region that resembles hunting or lying-in-wait that I have not yet been able to pick out.
+
+
+Without looking at the Milky Way but stringing the Paleo-Hebrew letters together, I noticed the letters may be describing the parts of a fish being pulled from the water with a fish-hook.
  - Mem (Water),
  - Nun (Fish resembling the tail of a fish),
  - Samekh (Support body of fish),
  - Ayin (eye of fish),
  - Pe (mouth of fish),
  - Tsadi (fish-hook)
+
+![Tsadi 4](18_Tsadi4.jpg) 
+
+
 ---
 
 ## 19. Qof (קוּף) — ק
