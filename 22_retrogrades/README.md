@@ -755,13 +755,28 @@ Without looking at the Milky Way but stringing the Paleo-Hebrew letters together
 
 ![Qof 2](19_Qof2.jpg)
 
+![Qof 3](19_Qof3.jpg)
+
 **Discussion:**
  - Lexical meaning: Monkey or Back of neck (certain).
  - Monkey shape: found 2.
  - Paleo-Hebrew letter shape: found.
  - Ktav Ashuri (Assyrian script) letter shape: found. 
+ - Sound: Q
 
 Finding a monkey shape is relatively easy and matches the letter shape.  I could not find the shape of the back of the neck, so it might be that the scholars were attempting to describe the location where the *Qof* sound comes from in the lower throat, paired with the shape of the letter.
+
+
+Qof-Resh (קֹר) sequential letters in the alphabet mean "Cold".  When this region of the night sky is in the sunset it is the cold winter time of year.
+
+
+1Kings 10:22  (also 2Chronicls 9:21)
+For the king had at sea a navy of Tharshish with the navy of Hiram: 
+once in three years came the navy of Tharshish, 
+bringing gold, and silver, ivory, and *apes/monkeys*, and peacocks. 
+
+כִּי֩ אֳנִ֨י תַרְשִׁ֤ישׁ לַמֶּ֨לֶךְ֙ בַּיָּ֔ם עִ֖ם אֳנִ֣י חִירָ֑ם אַחַת֩ לְשָׁלֹ֨שׁ שָׁנִ֜ים תָּב֣וֹא ׀ אֳנִ֣י תַרְשִׁ֗ישׁ נֹֽשְׂאֵת֙ זָהָ֣ב וָכֶ֔סֶף 
+
 
 
 See [Decoding Qof and Resh: a Monkey and a Head #26](https://www.youtube.com/watch?v=ih_0SDwW4vc) 
