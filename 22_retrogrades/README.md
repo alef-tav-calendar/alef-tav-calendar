@@ -769,7 +769,6 @@ Without looking at the Milky Way but stringing the Paleo-Hebrew letters together
 Finding a monkey shape is relatively easy and matches the letter shape.  I could not find the shape of the back of the neck, so it might be that the scholars were attempting to describe the location where the *Qof* sound comes from in the lower throat, paired with the shape of the letter.
 
 
-Qof-Resh (קֹר) sequential letters in the alphabet mean "Cold".  When this region of the night sky is in the sunset it is the cold winter time of year.
 
 
 1Kings 10:22  (also 2Chronicls 9:21)
@@ -779,6 +778,8 @@ bringing gold, and silver, ivory, and *apes/monkeys*, and peacocks.
 
 כִּי֩ אֳנִ֨י תַרְשִׁ֤ישׁ לַמֶּ֨לֶךְ֙ בַּיָּ֔ם עִ֖ם אֳנִ֣י חִירָ֑ם אַחַת֩ לְשָׁלֹ֨שׁ שָׁנִ֜ים תָּב֣וֹא ׀ אֳנִ֣י תַרְשִׁ֗ישׁ נֹֽשְׂאֵת֙ זָהָ֣ב וָכֶ֔סֶף 
 
+
+Qof-Resh (קֹר) sequential letters in the alphabet mean "Cold".  When this region of the night sky is in the sunset it is the cold winter time of year. 
 
 
 See [Decoding Qof and Resh: a Monkey and a Head #26](https://www.youtube.com/watch?v=ih_0SDwW4vc) 
@@ -794,19 +795,24 @@ See [Decoding Qof and Resh: a Monkey and a Head #26](https://www.youtube.com/wat
 
 ![Resh 2](20_Resh2.jpg)
 
+![Resh 3](20_Resh3.jpg)
+
 **Discussion:**
  - Lexical meaning: Head.
  - Head shape: found head of lion or bear.
  - Paleo-Hebrew letter shape: found.
  - Ktav Ashuri (Assyrian script) letter shape: found. 
+ - Sound: R
 
-Lexicons and those who study Hebrew alphabet will sometimes refer to the shape of a head of a man.  However, the apparent shape of the Head is that of a Lion or Bear, which suddenly makes more sense when we consider the *R* sound that *Resh* makes.
+Lexicons and those who study Hebrew alphabet will sometimes refer to the shape of a head of a man.  However, the apparent shape of the Head is that of a Lion or Bear, this makes more sense when we consider the rolling *R* sound that *Resh* makes. 
+
+Like Qof-Resh means cold.  Resh-Shin word family is (רִישׁ) (רֵישׁ) (רֵאשׁ) and in Hebrew have similar idea: of be in want, poor, and poverty - that is poor and lacking in the winter months.
 
 TODO: Once finished, the 22 Retrograde loops of Mercury show how this region relates to the Lunar calendar region of the tribe of Gad, as the lion, torn arm, and crown of the head are all visible here.
 
 > Of Gad he said,
 > “Blessed is the one who enlarges Gad; 
-> He lies down as a lion, 
+> He lies down as a *lion*, 
 > And tears the arm, also the crown of the head. 
 > He provided the first (רֵאשִׁית֙) part for himself,
 > Because a lawgiver’s portion was reserved there.
@@ -829,6 +835,7 @@ TODO: Once finished, the 22 Retrograde loops of Mercury show how this region rel
  - Teeth shape: found multiple.
  - Paleo-Hebrew letter shape: found.
  - Ktav Ashuri (Assyrian script) letter shape: found. 
+ - Sound: S, SH
 
 ---
 
