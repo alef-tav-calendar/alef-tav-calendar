@@ -757,6 +757,8 @@ Without looking at the Milky Way but stringing the Paleo-Hebrew letters together
 
 ![Qof 3](19_Qof3.jpg)
 
+![Qof 4](19_Qof4.jpg)
+
 **Discussion:**
  - Lexical meaning: Monkey or Back of neck (certain).
  - Monkey shape: found 2.
