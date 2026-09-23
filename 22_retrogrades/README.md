@@ -1,13 +1,13 @@
 # Hebrew Alphabet (Alef-Tav)
 
-This is a preliminary research project investigating how the 22 letters of the Hebrew alphabet were part of a calendar system. The innermost planet Mercury has a faster orbit than Earth and creates a pattern of rising and setting at sunset 3 times a year and 22 times over 7 years. Apparent shapes in the Milky Way matching the meaning of each letter appear to have been used to name regions of space along the ecliptic. The sunset horizon was a transverse line to map named regions of the Milky Way to the ecliptic path of the sun, moon, and planets. The following 22 apparent retrograde loops were created using Stellarium, and the letters and meanings were overlaid using GNU Image Manipulation Program. 
+This is a preliminary research project investigating how the 22 letters of the Hebrew alphabet were part of a calendar system. The innermost planet Mercury has a faster orbit than Earth and creates a pattern of rising and setting at sunset 3 times a year and 22 times over 7 years. Apparent shapes in the Milky Way matching the meaning of each letter appear to have been used to name regions of space along the ecliptic. The sunset horizon is the transversal: it is the line that crosses both the ecliptic and the galactic equator of the Milky Way, mapping named regions of the Milky Way to the path of the sun, moon, and planets. The following 22 apparent retrograde loops were created using Stellarium, and the letters and meanings were overlaid using GNU Image Manipulation Program. 
 
-Observing Mercury's apparent retrograde motion from earth would manifest as Mercury setting into the sunset, then rising in throughout this page. This transition from an “evening star” to a “morning star” takes about 21 to 24 days.  Stellarium's `View Options=>SSO=>Show Trails` - allows us to trace the trails which in turn is used throughout this page.
+Observing Mercury's apparent retrograde motion from Earth would manifest as Mercury setting into the sunset, then rising in the sunrise several days later. This transition from an “evening star” to a “morning star” takes about 21 to 24 days.  Stellarium's `View Options=>SSO=>Show Trails` - allows us to trace the trails which in turn is used throughout this page.
 
 
-The acrostic scriptures which are written in alphabetical order sometimes contain the traditional meaning of letters. However there is not a single acrostic passage that contains the traditional meanings of all the letters.
+The acrostic scriptures which are written in alphabetical order sometimes contain the traditional meaning of letters. However, there is no single acrostic passage that contains the traditional meanings for all the letters.
 
-![Mercury 22 loops](Mercury_22_loops.jpg)
+![Mercury's 22 apparent retrograde loops aligned with the Hebrew Alphabet](Mercury_22_loops.jpg)
 Mercury's 22 apparent retrograde loops starting in *Alef/Ox* date: -4382, 2, 26.
 
 | REGION 1 | REGION 2 | REGION 3 |
@@ -15,13 +15,43 @@ Mercury's 22 apparent retrograde loops starting in *Alef/Ox* date: -4382, 2, 26.
 | Alef     | Khet     | Samekh   |
 | Tav      | Zayin    | Nun      |
 | Shin     | Vav      | Mem      |
-| Resh     | He       | Lamed    |
+| Resh     | Hey      | Lamed    |
 | Qof      | Dalet    | Kaph     |
 | Tsadi    | Gimel    | Yod      |
 | Pe       | Bet      | Tet      |
 | Ayin     | *Alef*   | -        |
 
+The italic Alef marks where the cycle wraps back to the start
+
 ---
+## Contents
+
+- [Overview](#overview)
+- [1. Aleph — א](#1-aleph-אָלֶף--א)
+- [2. Bet — ב](#2-bet-בֵּית--ב)
+- [3. Gimel — ג](#3-gimel-גִּימֶל--ג)
+- [4. Dalet — ד](#4-dalet-דָּלֶת--ד)
+- [5. Hey — ה](#5-hey-הֶה--ה)
+- [6. Vav — ו](#6-vav-וָו--ו)
+- [7. Zayin — ז](#7-zayin-זַיִן--ז)
+- [8. Khet — ח](#8-khet-חֵית--ח)
+- [9. Tet — ט](#9-tet-טֵית--ט)
+- [10. Yod — י](#10-yod-יָד--י)
+- [11. Kaph — כ](#11-kaph-כָּף--כ)
+- [12. Lamed — ל](#12-lamed-לָמֶד--ל)
+- [13. Mem — מ](#13-mem-מֵם--מ)
+- [14. Nun — נ](#14-nun-נּון--נ)
+- [15. Samekh — ס](#15-samekh-סָמֶך--ס)
+- [16. Ayin — ע](#16-ayin-עַיִן--ע)
+- [17. Pe — פ](#17-pe-פֶּה--פ)
+- [18. Tsadi — צ](#18-tsadi-צַדִּי--צ)
+- [19. Qof — ק](#19-qof-קוּף--ק)
+- [20. Resh — ר](#20-resh-רֹאשׁ--ר)
+- [21. Shin — ש](#21-shin-שִׁין--ש)
+- [22. Tav — ת](#22-tav-תָּו--ת)
+- [Appendix - Greek Alphabet](#appendix---greek-alphabet)
+- [Sources and Further Reading](#sources-and-further-reading)
+
 ## Overview
 
 For each letter:
@@ -41,11 +71,11 @@ The night sky acts as a universal canvas for human pareidolia, where the shapes 
 
 **Meaning:** Ox
 
-![Alef 1](01_Alef1.jpg)
+![Apparent retrograde loop in Alef with constellation art.](01_Alef1.jpg)
 
-![Alef 2](01_Alef2.jpg)
+![Apparent retrograde loop in Alef with Paleo Hebrew text.](01_Alef2.jpg)
 
-![Alef 3](01_Alef3.jpg)
+![Attempt at finding Ox and Alef shapes.](01_Alef3.jpg)
 
 **Discussion:**
  - Lexical meaning: Ox (certain).
@@ -62,7 +92,7 @@ The star region shows an apparent shape of an Ox which was easy to find.  In Ste
 
 The Alef letter shape is not depicting the Ox itself but rather a dark cloud nebula at the mouth of the Ox.  This makes sense because the sound of Alef resembles the sound that an Ox makes. See [Decoding Alef: An Ox shape in the nebula? #19](https://www.youtube.com/watch?v=p5pBJx-jWuE).
 
-It seems the clear dark desert skies of the fertile crescent gave astronomers and astrologers the apparent shape of an Ox or Bull in the Milky Way that was passed between nations. Hebrews, Egyptians, Babylonians, Medes and Persians, Greeks, Romans, etc.  However, it is apparent that not all astronomers could observe the Milky Way from the clear desert sky regions, not to mention those at latitudes and time periods where the horizon did not align with the ecliptic path.  The latter astronomers had to rely on the stars only — even to the point where the Milky Way shapes seem to have been forgotten.  Forgotten until around 2021, in the second year of this preliminary research, where I started noticing these shapes and correlations.
+It seems the clear dark desert skies of the Fertile Crescent gave astronomers and astrologers the apparent shape of an Ox or Bull in the Milky Way that was passed between nations. Hebrews, Egyptians, Babylonians, Medes and Persians, Greeks, Romans, etc.  However, it is apparent that not all astronomers could observe the Milky Way from the clear desert sky regions, not to mention those at latitudes and time periods where the horizon did not align with the ecliptic path.  The latter astronomers had to rely on the stars only — even to the point where the Milky Way shapes seem to have been forgotten.  Forgotten until around 2021, in the second year of this preliminary research, where I started noticing these shapes and correlations.
 
 ---
 
@@ -70,18 +100,18 @@ It seems the clear dark desert skies of the fertile crescent gave astronomers an
 
 **Meaning:** House
 
-![Bet 1](02_Bet1.jpg)
+![Apparent retrograde loop in Bet with constellation art.](02_Bet1.jpg)
 
-![Bet 2](02_Bet2.jpg)
+![Apparent retrograde loop in Bet with Paleo Hebrew text.](02_Bet2.jpg)
 
-![Bet 3](02_Bet3.jpg)
+![Attempt at finding House and Bet shapes.](02_Bet3.jpg)
 
 **Discussion:**
  - Lexical meaning: House (certain).
  - House shape: found multiple.
  - Paleo-Hebrew letter shape: found multiple.
  - Ktav Ashuri (Assyrian script) letter shape: similar to Paleo-Hebrew.
- - Sound B
+ - Sound: B
 
 The regions where the ecliptic path bisects the Milky Way are more difficult to interpret, as there are multiple shapes that match the meaning of the letter.  Top row of the above image represents looking West as the Milky Way goes toward sunset where a simple house is seen wide at the bottom narrow at the top. The bottom row is the Milky Way as it rises in the east, which has two temple-like houses. The last resembles the temple that David and Solomon worked on, which had a tall front face and two pillars.
 
@@ -93,11 +123,11 @@ The regions where the ecliptic path bisects the Milky Way are more difficult to 
 
 **Meaning:** Camel
 
-![Gimel 1](03_Gimel1.jpg)
+![Apparent retrograde loop in Gimel with constellation art.](03_Gimel1.jpg)
 
-![Gimel 2](03_Gimel2.jpg)
+![Apparent retrograde loop in Gimel with Paleo Hebrew text.](03_Gimel2.jpg)
 
-![Gimel 3](03_Gimel3.jpg)
+![Attempt at finding Camel and Gimel shapes.](03_Gimel3.jpg)
 
 **Discussion:**
  - Lexical meaning: Camel (certain).
@@ -106,7 +136,7 @@ The regions where the ecliptic path bisects the Milky Way are more difficult to 
  - Ktav Ashuri (Assyrian script) letter shape: found multiple.
  - Sound: G
 
-There seem to be 2 Camel shapes that match.  There are also about 2 regions that match the letter shape.
+There seem to be two Camel shapes that match.  There are also about two regions that match the letter shape.
 
 See [Decoding Gimel: A Camel shape in the nebula? #20](https://www.youtube.com/watch?v=n0SOUpVgzXM) 
 
@@ -117,11 +147,11 @@ See [Decoding Gimel: A Camel shape in the nebula? #20](https://www.youtube.com/w
 
 **Meaning:** Door
 
-![Dalet 1](04_Dalet1.jpg)
+![Apparent retrograde loop in Dalet with constellation art.](04_Dalet1.jpg)
 
-![Dalet 2](04_Dalet2.jpg)
+![Apparent retrograde loop in Dalet with Paleo Hebrew text.](04_Dalet2.jpg)
 
-![Dalet 3](04_Dalet3.jpg)
+![Attempt at finding Door and Dalet shapes.](04_Dalet3.jpg)
 
 **Discussion:**
  - Lexical meaning: Door (certain).
@@ -134,15 +164,15 @@ The door shape itself is very faint. The apparent shape of the letter has a dark
  
 ---
 
-## 5. He (הֶה) — ה
+## 5. Hey (הֶה) — ה
 
 **Meaning:** Window or lattice
 
-![He 1](05_Hey1.jpg)
+![Apparent retrograde loop in Hey with constellation art.](05_Hey1.jpg)
 
-![He 2](05_Hey2.jpg)
+![Apparent retrograde loop in Hey with Paleo Hebrew text.](05_Hey2.jpg)
 
-![He 3](05_Hey3.jpg)
+![Attempt at finding Window or lattice and Hey shapes.](05_Hey3.jpg)
 
 **Discussion:**
  - Lexical meaning: Window/vent/behold (certain).
@@ -153,9 +183,9 @@ The door shape itself is very faint. The apparent shape of the letter has a dark
 
 *Hey* means **window** as well as how you interact with a window: **behold**. (Gen. 47:23)
 
-The larger Paleo-Hebrew *Hey* shape (bottom left) is in the red light spectrum and I am unsure if the human eye can detect the red Paleo-Hebrew letter *Hey* shape. I live too far north and not in dry desert to observe.  The bottom center *Hey* matches both the letter *Hey* and the *behold*.
+The larger Paleo-Hebrew *Hey* shape (bottom left) is in the red light spectrum and I am unsure if the human eye can detect the red Paleo-Hebrew letter *Hey* shape. This is difficult to verify from northern latitudes without dry desert skies.  The bottom center *Hey* matches both the letter *Hey* and the *behold*.
 
-This portion of the Milky Way also sits low on the horizon, so it would have been more difficult to see as the light passes through more of earth's atmosphere.
+This portion of the Milky Way also sits low on the horizon, so it would have been more difficult to see as the light passes through more of Earth's atmosphere.
 
 ---
 
@@ -163,22 +193,22 @@ This portion of the Milky Way also sits low on the horizon, so it would have bee
 
 **Meaning:** Hook (conjunction joining two ideas)
 
-![Vav 1](06_Waw1.jpg)
+![Apparent retrograde loop in Vav (Waw) with constellation art.](06_Waw1.jpg)
 
-![Vav 2](06_Waw2.jpg)
+![Apparent retrograde loop in Vav (Waw) with Paleo Hebrew text.](06_Waw2.jpg)
 
-![Vav 3](06_Waw3.jpg)
+![Attempt at finding Hook and Vav (Waw) shapes.](06_Waw3.jpg)
 
-![Vav 4](06_Waw4.jpg)
+![Apparent retrograde loop in Vav (Waw) with multiple side-by-side pairs of stars.](06_Waw4.jpg)
 
 **Discussion:**
  - Lexical meaning: Hook (certain).
  - Hook shape: not found.
  - Paleo-Hebrew letter shape: found (difficult).
  - Ktav Ashuri (Assyrian script) letter shape: not found. 
- - Sound: O
+ - Sound: O or OO (vowel), V/W (as in "and")
 
-*Vav* or *Waw* is in a portion of the Milky Way that is very close to the southern horizon, making this region more difficult to observe from the fertile crescent.
+*Vav* (Waw) is in a portion of the Milky Way that is very close to the southern horizon, making this region more difficult to observe from the Fertile Crescent.
 
 *Hook* is a bit too vague of a term to find a shape.  It was also difficult to find both the Paleo-Hebrew and Ktav Ashuri shapes.
 
@@ -190,11 +220,11 @@ This portion of the Milky Way also sits low on the horizon, so it would have bee
 
 **Meaning:** Weapon
 
-![Zayin 1](07_Zayin1.jpg)
+![Apparent retrograde loop in Zayin with constellation art.](07_Zayin1.jpg)
 
-![Zayin 2](07_Zayin2.jpg)
+![Apparent retrograde loop in Zayin with Paleo Hebrew text.](07_Zayin2.jpg)
 
-![Zayin 3](07_Zayin3.jpg)
+![Attempt at finding Weapon and Zayin shapes.](07_Zayin3.jpg)
 
 **Discussion:**
  - Lexical meaning: Weapon (uncertain).
@@ -238,18 +268,18 @@ Note 2: This page is about the 22-Mercury-Retrograde calendar. When we get to th
 
 **Meaning:** Fence
 
-![Khet 1](08_Khet1.jpg)
+![Apparent retrograde loop in Khet with constellation art.](08_Khet1.jpg)
 
-![Khet 2](08_Khet2.jpg)
+![Apparent retrograde loop in Khet with Paleo Hebrew text.](08_Khet2.jpg)
 
-![Khet 3](08_Khet3.jpg)
+![Attempt at finding Fence and Khet shapes.](08_Khet3.jpg)
 
 **Discussion:**
  - Lexical meaning: Fence (uncertain).
  - Fence shape: found.
  - Paleo-Hebrew letter shape: found.
- - Ktav Ashuri (Assyrian script) letter shape: pending. 
- - Sound: kh - guttural back of throat.
+ - Ktav Ashuri (Assyrian script) letter shape: not found.
+ - Sound: kh - guttural back of throat
 
 
 ### Khet (חֵית) — Etymology & Morphology Notes
@@ -286,11 +316,11 @@ Note 2: This page is about the 22-Mercury-Retrograde calendar. When we get to th
 
 **Meaning:** Serpent, clay, or a spinning wheel
 
-![Tet 1](09_Tet1.jpg)
+![Apparent retrograde loop in Tet with constellation art.](09_Tet1.jpg)
 
-![Tet 2](09_Tet2.jpg)
+![Apparent retrograde loop in Tet with Paleo Hebrew text.](09_Tet2.jpg)
 
-![Tet 3](09_Tet3.png)
+![Attempt at finding Serpent, clay, or a spinning wheel and Tet shapes.](09_Tet3.png)
 
 **Discussion:**
  - Lexical meaning: Spinning wheel, serpent, clay (uncertain).
@@ -301,11 +331,11 @@ Note 2: This page is about the 22-Mercury-Retrograde calendar. When we get to th
 
 The letter Tet today makes a 't' sound.  Yet it is difficult to understand how a snake or a spinning wheel relates to the sound 't'.  Two suggestions for the sound and shape come from spinning wool and the saw-scaled viper.
 
-![Instrument for spinning wool](09_Tet5.png)
+![Instrument for whorl - or drop-spinning wool into thread.](09_Tet5.png)
 Instrument for whorl- or drop-spinning wool into thread.
 [Sisian History Museum in Armenia](https://www.sisianmuseum.am/gallery.php?lng=1&parent_id=4)
 
-![Echis carinatus](09_Tet6.png)
+![Saw-scaled viper (Echis carinatus) where its body and head resemble the Tet shape.](09_Tet6.png)
 Saw-scaled viper (*Echis carinatus*) curls into the same Tet shape and has the same `t` or `+` shape on top of its head.
  - [Reptile Database](https://reptile-database.reptarium.cz/Echis/carinatus).
 
@@ -313,9 +343,9 @@ Since these letter symbols represent sounds, this viper's sound is significant. 
  - [Saw-scaled viper sound](https://www.youtube.com/watch?v=BNAO-KCxBpE)
  - [Pulling Wool](https://youtu.be/GSJzuQFrFjw?si=zM4YsWGTzI22pMg2&t=254)
 
-The sound this poisonous viper made would have been well known in the fertile crescent region.  The clay connection is also in the name: the Hebrew word *tit* (טיט) means "mud, mire, or wet clay" — a near-homophone of the letter name.  The saw-scaled viper lives in the wadis where this wet clay is found, and when it dries it buries itself in it with only its eyes above the surface.
+The sound this poisonous viper made would have been well known in the Fertile Crescent region.  The clay connection is also in the name: the Hebrew word *tit* (טיט) means "mud, mire, or wet clay" — a near-homophone of the letter name.  The saw-scaled viper lives in the wadis where this wet clay is found, and when it dries it buries itself in it with only its eyes above the surface.
 
-![Tet 4](09_Tet4.png)
+![Three examples of how Tet was written.](09_Tet4.png)
 
 If this letter indicated the same sound as the viper and the spinning/pulling of wool, this would suggest that the modern Tet sound has changed with the passage of time and culture.  Today, the sounds are converging into what is called Modern Hebrew.  However, in the past there have been distinctions among Ashkenazi, Sephardic, Yemenite, and Mizrahi Hebrew.  Even after the Babylonian captivity, we learn of shifts in the language of the people of the book:
 
@@ -323,7 +353,7 @@ If this letter indicated the same sound as the viper and the spinning/pulling of
 
 During the 70-year captivity in Babylon, many Israelites had adopted Aramaic as their daily spoken language and lost their fluency in ancient biblical Hebrew. Because of this shift, when Ezra read the original Hebrew text aloud, the Levites stationed among the crowd had to actively translate it into Aramaic and explain its meaning ("give the sense") so the common people could understand the laws.  
 
-![Tet and Tav](09_Tet7.jpg)
+![Paleo-Hebrew Tet(right) has some similarity to Tav(left).](09_Tet7.jpg)
 The Paleo-Hebrew Tet (right) has some resemblance to Tav (left).
 
 
@@ -333,11 +363,11 @@ The Paleo-Hebrew Tet (right) has some resemblance to Tav (left).
 
 **Meaning:** Hand
 
-![Yod 1](10_Yod1.jpg)
+![Apparent retrograde loop in Yod with constellation art.](10_Yod1.jpg)
 
-![Yod 2](10_Yod2.jpg)
+![Apparent retrograde loop in Yod with Paleo Hebrew text.](10_Yod2.jpg)
 
-![Yod 3](10_Yod3.jpg)
+![Attempt at finding Hand and Yod shapes.](10_Yod3.jpg)
 
 **Discussion:**
  - Lexical meaning: Hand (certain).
@@ -417,9 +447,9 @@ In this time period, the summer/fall harvest would take place: grapes, figs, pom
 
 **Meaning:** Palm (of the hand or foot)
 
-![Kaph 1](11_Kaph1.jpg)
+![Apparent retrograde loop in Kaph with constellation art.](11_Kaph1.jpg)
 
-![Kaph 2](11_Kaph2.jpg)
+![Apparent retrograde loop in Kaph with Paleo Hebrew text.](11_Kaph2.jpg)
 
 **Discussion:**
  - Lexical meaning: Palm of hand *or foot*.
@@ -429,17 +459,17 @@ In this time period, the summer/fall harvest would take place: grapes, figs, pom
  - Sound: K
  - BDB Lexicon defines (כַּף) as: hollow, or flat of the hand, palm, sole of foot, pan.
 
- It seems this may be describing the same large dark "hand" region - but this time focusing on the hollow mid section of the palm of the hand, or arched section of a foot.
+ It seems this may be describing the same large dark "hand" region - but this time focusing on the hollow midsection of the palm of the hand, or arched section of a foot.
 
-![Kaph 3](11_Kaph3.jpg)
+![Attempt at finding Palm and Kaph shapes.](11_Kaph3.jpg)
 
-At this time of year, the milky way in relation to the sunset horizon is now upright.  It is in this upright area that we can observe the Paleo-Hebrew letter Kaph around a small foot.
+At this time of year, the Milky Way in relation to the sunset horizon is now upright.  It is in this upright area that we can observe the Paleo-Hebrew letter Kaph around a small foot.
 
-![Kaph 4](11_Kaph4.jpg)
+![Ktav Ashuri Kaph in the same region, rotated -90°.](11_Kaph4.jpg)
 
-The Ktav Ashuri Kaph is seen in the same region rotate -90deg.
+The Ktav Ashuri Kaph is seen in the same region, rotated -90°.
 
-Once again the synonomous meaning can be seen in Proverbs 31 Yod, Kaph, Kaph, Yod pattern.
+Once again the synonymous meaning can be seen in Proverbs 31 Yod, Kaph, Kaph, Yod pattern.
 
 > *Her-hands* (יָדֶיהָ) she hath sent forth on a spindle,  
 > And-her-hands (וְכַפֶּיהָ) have held a distaff.  
@@ -454,17 +484,17 @@ Once again the synonomous meaning can be seen in Proverbs 31 Yod, Kaph, Kaph, Yo
 
 **Meaning:** Ox-goad (cattle prod)
 
-![Lamed 1](12_Lamed1.jpg)
+![Apparent retrograde loop in Lamed with constellation art.](12_Lamed1.jpg)
 
-![Lamed 2](12_Lamed2.jpg)
+![Apparent retrograde loop in Lamed with Paleo Hebrew text.](12_Lamed2.jpg)
 
-![Lamed 3](12_Lamed3.jpg)
+![Attempt at finding Ox-goad and Lamed shapes.](12_Lamed3.jpg)
 
 **Discussion:**
  - Lexical meaning: Ox-goad (certain).
  - Ox-goad shape: found.
  - Paleo-Hebrew letter shape: found.
- - Ktav Ashuri (Assyrian script) letter shape: pending. 
+ - Ktav Ashuri (Assyrian script) letter shape: found.
  - Sound: L
 
 The Lamed (ox-goad), as a prefix to words, means "to" or "for" — a sense of direction.
@@ -477,11 +507,11 @@ In the Hebrew alphabet, Lamed is the one letter that is written above the red li
 
 **Meaning:** Waters
 
-![Mem 1](13_Mem1.jpg)
+![Apparent retrograde loop in Mem with constellation art.](13_Mem1.jpg)
 
-![Mem 2](13_Mem2.jpg)
+![Apparent retrograde loop in Mem with Paleo Hebrew text.](13_Mem2.jpg)
 
-![Mem 3](13_Mem3.jpg)
+![Attempt at finding Waters and Mem shapes.](13_Mem3.jpg)
 
 **Discussion:**
  - Lexical meaning: Waters (certain).
@@ -530,11 +560,11 @@ See also:
 
 **Meaning:** Fish
 
-![Nun 1](14_Nun1.jpg)
+![Apparent retrograde loop in Nun with constellation art.](14_Nun1.jpg)
 
-![Nun 2](14_Nun2.jpg)
+![Apparent retrograde loop in Nun with Paleo Hebrew text.](14_Nun2.jpg)
 
-![Nun 3](14_Nun3.jpg)
+![Attempt at finding Fish and Nun shapes.](14_Nun3.jpg)
 
 **Discussion:**
  - Lexical meaning: Fish (certain).
@@ -559,18 +589,18 @@ Similar to Mem, this Nun region of the Milky Way has many shapes to choose from,
 
 **Meaning:** Support, prop
 
-![Samekh 1](15_Samekh1.jpg)
+![Apparent retrograde loop in Samekh with constellation art.](15_Samekh1.jpg)
 
-![Samekh 2](15_Samekh2.jpg)
+![Apparent retrograde loop in Samekh with Paleo Hebrew text.](15_Samekh2.jpg)
 
-![Samekh 3](15_Samekh3.jpg)
+![Attempt at finding Support or prop and Samekh shapes.](15_Samekh3.jpg)
 
 **Discussion:**
  - Lexical meaning: Support or sustain.
  - Support shape: found.
  - Paleo-Hebrew letter shape: difficult.
  - Ktav Ashuri (Assyrian script) letter shape: found. 
- - Sound: "S"
+ - Sound: S
 
 The shape of support or sustain may be this apparent box structure. Resembling a shelter, a house or a feed trough.
 
@@ -621,18 +651,18 @@ See [Decoding Samek constellation: to support, to sustain #25](https://www.youtu
 
 **Meaning:** Eye (also meaning a physical spring/fountain)
 
-![Ayin 1](16_Ayin1.jpg)
+![Apparent retrograde loop in Ayin with constellation art.](16_Ayin1.jpg)
 
-![Ayin 2](16_Ayin2.jpg)
+![Apparent retrograde loop in Ayin with Paleo Hebrew text.](16_Ayin2.jpg)
 
-![Ayin 3](16_Ayin3.jpg)
+![Attempt at finding Eye or spring and Ayin shapes.](16_Ayin3.jpg)
 
 **Discussion:**
  - Lexical meaning: Eye/spring (certain).
  - Eye shape: found.
  - Paleo-Hebrew letter shape: found.
  - Ktav Ashuri (Assyrian script) letter shape: found. 
- - Sound: guttural, like the glottal stop in the English word *bo'tle* — the sound made when someone cries and runs out of breath for a brief moment.
+ - Sound: guttural, like the glottal-stop pronunciation of 'bottle' (bo'-'le) — the sound made when someone cries and runs out of breath for a brief moment
 
 This apparent shape of an Ayin/Eye was much easier to pick out because it is part of a face, while the right half of the face is in shadow.  In Hebrew, *Ayin* is both Eye and Spring, as both can gush out water.  *Ayin* also appears in a Hebrew idiom where a *good eye* means generous and a *bad eye* means stingy — I find this idiom makes more sense when compared to coming upon a *good spring* or a *bad spring* when thirsty.
 
@@ -688,11 +718,11 @@ See [Decoding an Ayin nebula: an Eye, a Spring #24](https://www.youtube.com/watc
 
 **Meaning:** Mouth
 
-![Pe 1](17_Pe1.jpg)
+![Apparent retrograde loop in Pe with constellation art.](17_Pe1.jpg)
 
-![Pe 2](17_Pe2.jpg)
+![Apparent retrograde loop in Pe with Paleo Hebrew text.](17_Pe2.jpg)
 
-![Pe 3](17_Pe3.jpg)
+![Attempt at finding Mouth and Pe shapes.](17_Pe3.jpg)
 
 **Discussion:**
  - Lexical meaning: Mouth (certain).
@@ -709,15 +739,15 @@ The mouth shape of the nebula represents lips forming the P sound.
 
 **Meaning:** Fish-hook or side/hunt
 
-![Tsadi 1](18_Tsadi1.jpg)
+![Apparent retrograde loop in Tsadi with constellation art.](18_Tsadi1.jpg)
 
-![Tsadi 2](18_Tsadi2.jpg)
+![Apparent retrograde loop in Tsadi with Paleo Hebrew text.](18_Tsadi2.jpg)
 
-![Tsadi 3](18_Tsadi3.jpg)
+![Attempt at finding Fish-hook or side/hunt and Tsadi shapes.](18_Tsadi3.jpg)
 
 **Discussion:**
- - Lexical meaning: fish-hook (uncertain).
- - Fish hook/huting shape: found (difficult uncertain).
+ - Lexical meaning: Fish-hook (uncertain).
+ - Fish-hook/hunting shape: found (difficult, uncertain).
  - Paleo-Hebrew letter shape: found.
  - Ktav Ashuri (Assyrian script) letter shape: not found. 
  - Sound: ts
@@ -745,7 +775,7 @@ Without looking at the Milky Way but stringing the Paleo-Hebrew letters together
  - Pe (fish mouth),
  - Tsadi (fish-hook)
 
-![Tsadi 4](18_Tsadi4.jpg) 
+![Paleo-Hebrew letters strung together along the ecliptic path describing a fish scene.](18_Tsadi4.jpg) 
 
 
 ---
@@ -754,17 +784,17 @@ Without looking at the Milky Way but stringing the Paleo-Hebrew letters together
 
 **Meaning:** Monkey
 
-![Qof 1](19_Qof1.jpg)
+![Apparent retrograde loop in Qof with constellation art.](19_Qof1.jpg)
 
-![Qof 2](19_Qof2.jpg)
+![Apparent retrograde loop in Qof with Paleo Hebrew text.](19_Qof2.jpg)
 
-![Qof 3](19_Qof3.jpg)
+![Attempt at finding Monkey and Qof shapes.](19_Qof3.jpg)
 
-![Qof 4](19_Qof4.jpg)
+![Qof 3 region rotated 90 degrees.](19_Qof4.jpg)
 
 **Discussion:**
  - Lexical meaning: Monkey (certain).
- - Monkey shape: found 2.
+ - Monkey shape: found two.
  - Paleo-Hebrew letter shape: found.
  - Ktav Ashuri (Assyrian script) letter shape: found. 
  - Sound: Q
@@ -792,11 +822,11 @@ See [Decoding Qof and Resh: a Monkey and a Head #26](https://www.youtube.com/wat
 
 **Meaning:** Head (of a lion)
 
-![Resh 1](20_Resh1.jpg)
+![Apparent retrograde loop in Resh with constellation art.](20_Resh1.jpg)
 
-![Resh 2](20_Resh2.jpg)
+![Apparent retrograde loop in Resh with Paleo Hebrew text.](20_Resh2.jpg)
 
-![Resh 3](20_Resh3.jpg)
+![Attempt at finding Head and Resh shapes.](20_Resh3.jpg)
 
 **Discussion:**
  - Lexical meaning: Head.
@@ -805,7 +835,7 @@ See [Decoding Qof and Resh: a Monkey and a Head #26](https://www.youtube.com/wat
  - Ktav Ashuri (Assyrian script) letter shape: found. 
  - Sound: R
 
-Lexicons and those who study the Hebrew alphabet will sometimes refer to the shape of a head of a man.  However, the apparent shape of the Head is that of a Lion or Bear; this makes more sense when we consider the rolling *R* sound that *Resh* makes. 
+Some lexicons describe the shape of the letter as the head of a man.  However, the apparent shape of the Head is that of a Lion or Bear; this makes more sense when we consider the rolling *R* sound that *Resh* makes. 
 
 As with Qof-Resh, which means cold, the Resh-Shin word family (רִישׁ) (רֵישׁ) (רֵאשׁ) carries a related idea in Hebrew: being in want, poor, in poverty — that is, poor and lacking in the winter months.
 
@@ -827,13 +857,13 @@ TODO: Once finished, the 22 Retrograde loops of Mercury show how this region rel
 
 **Meaning:** Teeth
 
-![Shin 1](21_Shin1.jpg)
+![Apparent retrograde loop in Shin with constellation art.](21_Shin1.jpg)
 
-![Shin 2](21_Shin2.jpg)
+![Apparent retrograde loop in Shin with Paleo Hebrew text.](21_Shin2.jpg)
 
-![Shin 3](21_Shin3.jpg)
+![Attempt at finding Teeth and Shin shapes.](21_Shin3.jpg)
 
-![Shin 4](21_Shin4.jpg)
+![Shin 3 region rotated 90 degrees.](21_Shin4.jpg)
 
 **Discussion:**
  - Lexical meaning: Tooth or teeth.
@@ -843,7 +873,7 @@ TODO: Once finished, the 22 Retrograde loops of Mercury show how this region rel
  - Sound: S, SH
 
 
-Due to the shape of Shin/teeth, it can match in both orientations.  Making the Shin sound of Shh or Sss, you pass air through your teeth (unvoiced). 
+Due to the shape of Shin/teeth, it can match in both orientations.  To make the Shin sound of Shh or Sss, you pass air through your teeth (unvoiced). 
 
 
 This acrostic contains the traditional meaning.
@@ -864,11 +894,11 @@ This acrostic contains the traditional meaning.
 
 **Meaning:** Mark, or sign
 
-![Tav 1](22_Tav1.jpg)
+![Apparent retrograde loop in Tav with constellation art.](22_Tav1.jpg)
 
-![Tav 2](22_Tav2.jpg)
+![Apparent retrograde loop in Tav with Paleo Hebrew text.](22_Tav2.jpg)
 
-![Tav 3](22_Tav3.jpg)
+![Attempt at finding Mark or sign and Tav shapes.](22_Tav3.jpg)
 
 **Discussion:**
  - Lexical meaning: Mark or Sign.
@@ -884,13 +914,13 @@ Looking at how words related to Tav are used in scriptural context, the sense is
  - David scratching on the doors of the gate (1 Samuel 21:13).
 
 
-Listen to the sound of the older style reed pens or quill pens that have been dipped in ink.  These older pens create ticking or scratching sounds.  Friction and angle of the pen on the paper can create sound and vibration felt on the reed or quill pen.  Again the way to simulate this “mark” sound with your mouth is similar to the “T” sound.  The other description of Tav is David “scratching” on the doors of the gate 1Samuel 21:13.  This also makes a similar sound to the reed pen scratching out “marks” on paper.  Next time you see a gate, go listen to the sound made when you scratch it with your fingers — just don’t wreck the paint on the gate.
+Listen to the sound of the older style reed pens or quill pens that have been dipped in ink.  These older pens create ticking or scratching sounds.  Friction and angle of the pen on the paper can create sound and vibration felt on the reed or quill pen.  Again the way to simulate this “mark” sound with your mouth is similar to the “T” sound.  The scratching described in 1 Samuel 21:13 also makes a similar sound to the reed pen scratching out “marks” on paper.  Next time you see a gate, go listen to the sound made when you scratch it with your fingers.
 
-In Modern Hebrew tradition the Tav (left) is both “T” and “TH” sounds, distinguished by a dot in the middle called a dagesh. Dagesh was added by the Masoretes (~600-1000AD). 
+In Modern Hebrew tradition, the Tav (left) is both “T” and “TH” sounds, distinguished by a dot in the middle called a dagesh. Dagesh was added by the Masoretes (~600-1000AD). 
 
 Analyzing the apparent shapes and the traditional meanings, I can't help but wonder whether, at some point in early history, Tav and Tet each had their own unique sound — either one similar to how the Greeks borrowed from them (see the Appendix below), or a unique sound like the saw-scaled viper for Tet. It is difficult to be certain.
 
-![Tet and Tav](09_Tet7.jpg)
+![Paleo-Hebrew Tet(right) has some similarity to Tav(left).](09_Tet7.jpg)
 The Paleo-Hebrew Tet (right) has some resemblance to Tav (left).
 
 ---
@@ -907,7 +937,7 @@ Below is a table mapping the historical correspondence between the two alphabets
 | **Bet** | ב | **Bet-a** | Β, β |
 | **Gimel** | ג | **Gamm-a** | Γ, γ |
 | **Dalet** | ד | **Delt-a** | Δ, δ |
-| **He** | ה | **Epsilon** | Ε, ε |
+| **Hey** | ה | **Epsilon** | Ε, ε |
 | **Vav** | ו | **(Digamma)** | Ϝ, ϝ |
 | **Zayin** | ז | **Zet-a** | Ζ, ζ |
 | **Khet** | ח | **-Et-a** | Η, η |
@@ -937,7 +967,7 @@ Hebrew (Semitic) and Greek (Indo-European) have different sound inventories. Gre
 | Hebrew Letter | Sound | Fate in Greek |
 |---|---|---|
 | Aleph (א) | Glottal stop | Repurposed as vowel **Alpha (Α)** |
-| He (ה) | Soft "h" | Repurposed as vowel **Epsilon (Ε)** |
+| Hey (ה) | Soft "h" | Repurposed as vowel **Epsilon (Ε)** |
 | Het (ח) | Harsh throaty "ch" | Repurposed as vowel **Eta (Η)** |
 | Ayin (ע) | Pharyngeal fricative | Repurposed as vowel **Omicron (Ο)** |
 | Shin (ש) | "Sh" | Became **Sigma (Σ)**, pronounced only as "s" |
@@ -958,4 +988,35 @@ Greek needed true vowel sounds Hebrew's consonantal script didn't mark, and adde
 - **Narrow**: Sounds partially shared (Shin/Sigma) were kept but simplified to fit Greek phonology.
 - **Drop**: Emphatic consonants (Tsadi, Qof) were redundant once standard equivalents existed, and were discarded.
 - **Add**: Greek supplemented the borrowed alphabet with new vowel and consonant letters to capture sounds Hebrew never needed to write.
+
+---
+
+## Sources and Further Reading
+
+**Lexicons and reference works**
+- BDB (Brown-Driver-Briggs), *A Hebrew and English Lexicon of the Old Testament*
+- Gesenius, *A Hebrew and Chaldee Lexicon to the Old Testament*
+- [Jewish Encyclopedia (1906) — “Het”](https://www.jewishencyclopedia.com/articles/7653-het)
+- [Balashon — “chet”](https://www.balashon.com/2006/08/chet.html)
+- [Wikipedia — “Heth”](https://en.wikipedia.org/wiki/Heth)
+- [Wikipedia — “Taurus (constellation)”](https://en.wikipedia.org/wiki/Taurus_(constellation))
+- [11Q1 (11QpaleoLev), Dead Sea Scrolls — 11Q113117 image](https://www.deadseascrolls.org.il/explore-the-archive/image/B-513117)
+- [Reptile Database — *Echis carinatus*](https://reptile-database.reptarium.cz/Echis/carinatus)
+- [Sisian History Museum (Armenia) — drop-spinning whorl](https://www.sisianmuseum.am/gallery.php?lng=1&parent_id=4)
+
+**Video references**
+- [#13 Testing the calendar. Mem means water.](https://www.youtube.com/watch?v=l42tqwR4zPE)
+- [#15 Fountains and floodgates - Ancient data preservation.](https://www.youtube.com/watch?v=R0sTtFCRQBo)
+- [#19 Decoding Alef: An Ox shape in the nebula?](https://www.youtube.com/watch?v=p5pBJx-jWuE)
+- [#20 Decoding Gimel: A Camel shape in the nebula?](https://www.youtube.com/watch?v=n0SOUpVgzXM)
+- [#21 Decoding Beth: a House shape in the nebula?](https://www.youtube.com/watch?v=kCLfgkLFryU)
+- [Chapter 43 — Yod](https://www.youtube.com/watch?v=D2RI6_u6ArA&list=PLbRaSh0207d5oxxRnekgN2GdKQNFtZT2z&index=44)
+- [#24 Decoding an Ayin nebula: an Eye, a Spring](https://www.youtube.com/watch?v=WXlz6gGHKME)
+- [#25 Decoding Samek constellation: to support, to sustain](https://www.youtube.com/watch?v=gA-iPK3v_Fo)
+- [#26 Decoding Qof and Resh: a Monkey and a Head](https://www.youtube.com/watch?v=ih_0SDwW4vc)
+- [Saw-scaled viper sound](https://www.youtube.com/watch?v=BNAO-KCxBpE)
+- [Pulling Wool](https://youtu.be/GSJzuQFrFjw)
+
+**Scripture**
+- Proverbs 31:19–20; Genesis 29:35; Genesis 49:8–12; Deuteronomy 33:7, 33:20–21, 33:24; Psalm 25:15; 28:2; 34:15; 111:8; 112:8, 10, 14; 119:51, 53, 116, 123; 134:2; 145:10, 14, 15; Lamentations 2:7; 3:49, 51, 52; 4:7, 18; 1 Kings 10:22; 2 Chronicles 9:21; Ezekiel 9:3–6; Job 31:35; 1 Samuel 21:13; Nehemiah 8:8; Leviticus 9:22
 
