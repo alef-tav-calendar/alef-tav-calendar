@@ -847,9 +847,9 @@ Due to the shape of Shin/teeth, it can match in both orientations.  Making the S
 
 
 This acrostic contains the traditional meaning.
-> (Resh) The-wicked will-see it and be grieved; 
-> (Shin) His-teeth he will gnash and melt away; 
-> (Tav) The-desire of the wicked shall-perish. 
+> (Resh) The-wicked will-see it and be grieved;   
+> (Shin) His-teeth he will gnash and melt away;  
+> (Tav) The-desire of the wicked shall-perish.  
 > 
 > 
 > רָשָׁע יִרְאֶה וְכָעָס 
