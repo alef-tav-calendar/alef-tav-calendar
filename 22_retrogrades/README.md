@@ -4,6 +4,9 @@ This is a preliminary research project investigating how the 22 letters of the H
 
 Observing Mercury's apparent retrograde motion from earth would manifest as Mercury setting into the sunset, then rising in throughout this page. This transition from an “evening star” to a “morning star” takes about 21 to 24 days.  Stellarium's `View Options=>SSO=>Show Trails` - allows us to trace the trails which in turn is used throughout this page.
 
+
+The acrostic scriptures which are written in alphabetical order sometimes contain the traditional meaning of letters. However there is not a single acrostic passage that contains the traditional meanings of all the letters.
+
 ![Mercury 22 loops](Mercury_22_loops.jpg)
 Mercury's 22 apparent retrograde loops starting in *Alef/Ox* date: -4382, 2, 26.
 
@@ -760,7 +763,7 @@ Without looking at the Milky Way but stringing the Paleo-Hebrew letters together
 ![Qof 4](19_Qof4.jpg)
 
 **Discussion:**
- - Lexical meaning: Monkey or Back of neck (certain).
+ - Lexical meaning: Monkey (certain).
  - Monkey shape: found 2.
  - Paleo-Hebrew letter shape: found.
  - Ktav Ashuri (Assyrian script) letter shape: found. 
@@ -769,17 +772,15 @@ Without looking at the Milky Way but stringing the Paleo-Hebrew letters together
 Finding a monkey shape is relatively easy and matches the letter shape.  I could not find the shape of the back of the neck, so it might be that the scholars were attempting to describe the location where the *Qof* sound comes from in the lower throat, paired with the shape of the letter.
 
 
+> For the king had at sea a navy of Tharshish with the navy of Hiram:  
+> once in three years came the navy of Tharshish, 
+> bringing gold, and silver, ivory, and *apes/monkeys*, and peacocks. 
+> 
+> כִּי֩ אֳנִ֨י תַרְשִׁ֤ישׁ לַמֶּ֨לֶךְ֙ בַּיָּ֔ם עִ֖ם אֳנִ֣י חִירָ֑ם אַחַת֩ לְשָׁלֹ֨שׁ שָׁנִ֜ים תָּב֣וֹא ׀ אֳנִ֣י תַרְשִׁ֗ישׁ נֹֽשְׂאֵת֙ זָהָ֣ב וָכֶ֔סֶף שֶׁנְהַבִּ֥ים וְקֹפִ֖ים וְתֻכִּיִּֽים׃
+> 
+> 1 Kings 10:22 (also 2 Chronicles 9:21)
 
-
-1Kings 10:22  (also 2Chronicls 9:21)
-For the king had at sea a navy of Tharshish with the navy of Hiram: 
-once in three years came the navy of Tharshish, 
-bringing gold, and silver, ivory, and *apes/monkeys*, and peacocks. 
-
-כִּי֩ אֳנִ֨י תַרְשִׁ֤ישׁ לַמֶּ֨לֶךְ֙ בַּיָּ֔ם עִ֖ם אֳנִ֣י חִירָ֑ם אַחַת֩ לְשָׁלֹ֨שׁ שָׁנִ֜ים תָּב֣וֹא ׀ אֳנִ֣י תַרְשִׁ֗ישׁ נֹֽשְׂאֵת֙ זָהָ֣ב וָכֶ֔סֶף 
-
-
-Qof-Resh (קֹר) sequential letters in the alphabet mean "Cold".  When this region of the night sky is in the sunset it is the cold winter time of year. 
+Qof-Resh (קֹר) sequential letters in the alphabet mean "Cold".  When this region of the night sky is visible at sunset it is the cold winter time of year. 
 
 
 See [Decoding Qof and Resh: a Monkey and a Head #26](https://www.youtube.com/watch?v=ih_0SDwW4vc) 
@@ -804,9 +805,9 @@ See [Decoding Qof and Resh: a Monkey and a Head #26](https://www.youtube.com/wat
  - Ktav Ashuri (Assyrian script) letter shape: found. 
  - Sound: R
 
-Lexicons and those who study Hebrew alphabet will sometimes refer to the shape of a head of a man.  However, the apparent shape of the Head is that of a Lion or Bear, this makes more sense when we consider the rolling *R* sound that *Resh* makes. 
+Lexicons and those who study the Hebrew alphabet will sometimes refer to the shape of a head of a man.  However, the apparent shape of the Head is that of a Lion or Bear; this makes more sense when we consider the rolling *R* sound that *Resh* makes. 
 
-Like Qof-Resh means cold.  Resh-Shin word family is (רִישׁ) (רֵישׁ) (רֵאשׁ) and in Hebrew have similar idea: of be in want, poor, and poverty - that is poor and lacking in the winter months.
+As with Qof-Resh, which means cold, the Resh-Shin word family (רִישׁ) (רֵישׁ) (רֵאשׁ) carries a related idea in Hebrew: being in want, poor, in poverty — that is, poor and lacking in the winter months.
 
 TODO: Once finished, the 22 Retrograde loops of Mercury show how this region relates to the Lunar calendar region of the tribe of Gad, as the lion, torn arm, and crown of the head are all visible here.
 
@@ -818,7 +819,7 @@ TODO: Once finished, the 22 Retrograde loops of Mercury show how this region rel
 > Because a lawgiver’s portion was reserved there.
 > He came with the heads (רָ֣אשֵׁי) of the people;
 > He administered the justice of the Lord,
-> And His judgments with Israel.”  Deut 33:20-21
+> And His judgments with Israel.”  Deut. 33:20–21
 
 ---
 
@@ -830,28 +831,67 @@ TODO: Once finished, the 22 Retrograde loops of Mercury show how this region rel
 
 ![Shin 2](21_Shin2.jpg)
 
+![Shin 3](21_Shin3.jpg)
+
+![Shin 4](21_Shin4.jpg)
+
 **Discussion:**
- - Lexical meaning: Teeth.
+ - Lexical meaning: Tooth or teeth.
  - Teeth shape: found multiple.
  - Paleo-Hebrew letter shape: found.
  - Ktav Ashuri (Assyrian script) letter shape: found. 
  - Sound: S, SH
 
+
+Due to the shape of Shin/teeth, it can match in both orientations.  Making the Shin sound of Shh or Sss, you pass air through your teeth (unvoiced). 
+
+
+This acrostic contains the traditional meaning.
+> (Resh) The-wicked will-see it and be grieved; 
+> (Shin) His-teeth he will gnash and melt away; 
+> (Tav) The-desire of the wicked shall-perish. 
+> 
+> 
+> רָשָׁע יִרְאֶה וְכָעָס 
+> שִׁנָּיו יַחֲרֹק וְנָמָס 
+> תַּאֲוַת רְשָׁעִים תֹּאבֵד׃ 
+> 
+> Psalm 112:10
+
 ---
 
 ## 22. Tav (תָּו) — ת
 
-**Meaning:** Mark, cross, or sign
+**Meaning:** Mark, or sign
 
 ![Tav 1](22_Tav1.jpg)
 
 ![Tav 2](22_Tav2.jpg)
 
+![Tav 3](22_Tav3.jpg)
+
 **Discussion:**
- - Lexical meaning: Mark.
+ - Lexical meaning: Mark or Sign.
  - Mark shape: found.
  - Paleo-Hebrew letter shape: found.
  - Ktav Ashuri (Assyrian script) letter shape: found. 
+ - Sound: T or Th
+
+
+Looking at how words related to Tav are used in scriptural context, the sense is that of: 
+ - writing a mark with an inkhorn Ezek 9:3-6.
+ - “Here is my mark… had written a book” Job 31:35.
+ - David scratching on the doors of the gate (1 Samuel 21:13).
+
+
+Listen to the sound of the older style reed pens or quill pens that have been dipped in ink.  These older pens create ticking or scratching sounds.  Friction and angle of the pen on the paper can create sound and vibration felt on the reed or quill pen.  Again the way to simulate this “mark” sound with your mouth is similar to the “T” sound.  The other description of Tav is David “scratching” on the doors of the gate 1Samuel 21:13.  This also makes a similar sound to the reed pen scratching out “marks” on paper.  Next time you see a gate, go listen to the sound made when you scratch it with your fingers — just don’t wreck the paint on the gate.
+
+In Modern Hebrew tradition the Tav (left) is both “T” and “TH” sounds, distinguished by a dot in the middle called a dagesh. Dagesh was added by the Masoretes (~600-1000AD). 
+
+Analyzing the apparent shapes and the traditional meanings, I can't help but wonder whether, at some point in early history, Tav and Tet each had their own unique sound — either one similar to how the Greeks borrowed from them (see the Appendix below), or a unique sound like the saw-scaled viper for Tet. It is difficult to be certain.
+
+![Tet and Tav](09_Tet7.jpg)
+The Paleo-Hebrew Tet (right) has some resemblance to Tav (left).
 
 ---
 
