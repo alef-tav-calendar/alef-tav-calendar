@@ -1,6 +1,25 @@
 This page contains preliminary research notes investigating if the Moon's 12-month year was used to divide the night sky into 12 regions.  As it is a work in progress you will not yet find conclusions on this page.  Each of the 12 region may have represented each of the 12 tribes of Israel.
 
 
+## Table of Contents
+
+ - [Figures](#figures) - index of all 39 figures
+ - [Judah](#judah) - 1st (Noah) / 7th (Moses)
+ - [Issachar](#issachar) - 2nd (Noah) / 8th (Moses)
+ - [Zebulun](#zebulun) - 3rd (Noah) / 9th (Moses)
+ - [Reuben](#reuben) - 4th (Noah) / 10th (Moses)
+ - [Simeon](#simeon) - 5th (Noah) / 11th (Moses)
+ - [Gad](#gad) - 6th (Noah) / 12th (Moses)
+ - [Levi](#levi) - 13th (Moses)
+ - [Ephraim](#ephraim) - 7th (Noah) / 1st (Moses)
+ - [Manasseh](#manasseh) - 8th (Noah) / 2nd (Moses)
+ - [Benjamin](#benjamin) - 9th (Noah) / 3rd (Moses)
+ - [Dan](#dan) - 10th (Noah) / 4th (Moses)
+ - [Asher](#asher) - 11th (Noah) / 5th (Moses)
+ - [Naphtali](#naphtali) - 12th (Noah) / 6th (Moses)
+ - [Appendix A](#appendix-a) - lion shapes
+ - [Appendix B](#appendix-b) - mandrakes
+
 ## Figures
 
 | Figure | Subject | | Figure | Subject |
@@ -62,7 +81,9 @@ TODO: link to study - in Genesis they are wandering Shepherds, Moses updates the
 
 
 
-## Judah (יְהוּדָה)
+## Judah
+
+יְהוּדָה
  - Meaning: praise
  - 1st month (Noah) - Noah's birth month
  - 7th month (Moses)
@@ -154,7 +175,9 @@ Moses:
 
 ---
 
-## Issachar (יִשָּׂשכָר)  
+## Issachar
+
+יִשָּׂשכָר
  - Meaning: wages
  - 2nd month (Noah)
  - 8th month (Moses)
