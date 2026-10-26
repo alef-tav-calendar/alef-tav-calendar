@@ -1,6 +1,30 @@
 This page contains preliminary research notes investigating if the Moon's 12-month year was used to divide the night sky into 12 regions.  As it is a work in progress you will not yet find conclusions on this page.  Each of the 12 region may have represented each of the 12 tribes of Israel.
 
 
+## Figures
+
+| Figure | Subject | | Figure | Subject |
+| ---: |---|---| ---: |---|
+| 1 | Precession of the equinoxes | | 21 | Reuben base star region (pending) |
+| 2 | Judah calendar month region | | 22 | Simeon calendar month region |
+| 3 | Judah: Yod/Hand, lion | | 23 | Simeon base star region (pending) |
+| 4 | Judah: lion, donkey & vine, garments | | 24 | Gad calendar month region |
+| 5 | Issachar calendar month region | | 25 | Gad: star region, lion |
+| 6 | Issachar base star region | | 26 | Levi calendar month region (pending) |
+| 7 | Issachar: two donkeys | | 27 | Levi base star region (pending) |
+| 8 | Issachar: servant | | 28 | Ephraim calendar month region |
+| 9 | Issachar: wages scales | | 29 | Ephraim base star region (pending) |
+| 10 | Issachar: woman and mandrakes | | 30 | Manasseh calendar month region |
+| 11 | Issachar/Zebulun: seas, treasures of the sand | | 31 | Manasseh base star region (pending) |
+| 12 | Issachar/Zebulun: mountain and sacrifices | | 32 | Benjamin calendar month region |
+| 13 | Issachar/Zebulun: altar | | 33 | Benjamin base star region (pending) |
+| 14 | Zebulun calendar month region | | 34 | Dan calendar month region |
+| 15–18 | Zebulun: shared regions (Figures 6, 11–13) | | 35 | Dan base star region (pending) |
+| 19 | Map of tribal land allotments | | 36 | Asher calendar month region |
+| 20 | Reuben calendar month region | | 37 | Asher base star region (pending) |
+|  |  | | 38 | Naphtali calendar month region |
+|  |  | | 39 | Naphtali base star region (pending) |
+
 Helps:
  - Using the horizon line to bisect the ecliptic path of the moon with apparent shapes in the Milky Way.
    - The context of the list of names include Hebrew word-plays and descriptive language which we will demonstrate is describing apparent shapes in the Milky Way.  These shapes in turn create a 12 month calendar system. 
@@ -22,7 +46,9 @@ Difficulties:
 | -1722 | 36 | Exodus 1 | Exodus Moses narrative ( approximate ) |
 
 
-![Equinox moved about 36 days from Adam to Moses](00_precession.jpg)
+![Equinox moved about 36 days from Adam to Moses](00_precession.jpg)  
+**Figure 1.** *Precession of the equinoxes.* Equinox drift from the Genesis 1 narrative to Moses, about 36 days.
+
 TODO: link to study - in Genesis they are wandering Shepherds, Moses updates the calendar system where 1st month is Exodus/Passover/Spring setting the stage for a calendar optimal for farming the land which was obtained under Joshuah.
  - The transition from sons of Israel to tribes we find:
    - Joseph receives a double portion through two sons: Tribe of Ephraim, and Tribe of Manasseh
@@ -87,8 +113,8 @@ Moses
 > And may You be a help against his adversaries.”
 > Deut 33:7
 
-![Month 1 Judah](01_judah_1.jpg)
--1722 approximately time of Joseph and Exodus. Moon in the region of the Yod/Hand. The path of the sun represents one lunar month. The path of the moon is start of lunar month to beginning of next lunar month.
+![Month 1 Judah](01_judah_1.jpg)  
+**Figure 2.** *Judah calendar month region (1st Noah / 7th Moses).* -1722 approximately time of Joseph and Exodus. Moon in the region of the Yod/Hand. The path of the sun represents one lunar month. The path of the moon is start of lunar month to beginning of next lunar month.
 
 To date I've found only 4 apparent shapes of lions in the milky way - See [Appendix A](#appendix-a).  There are 3 tribal blessings that reference lions:
 - Lion of Judah by Jacob - Gen 49:9
@@ -97,15 +123,18 @@ To date I've found only 4 apparent shapes of lions in the milky way - See [Appen
 
 I choose to start with Judah blessing by Jacob as it references the Yod/Hand shape.
 
-![Judah, hand, lion](01_judah_2.jpg)
-Found but in the wrong calendar region.  Below fits better the lion of Dan, however the vine, donkey and robes could match Judah.
+![Judah, hand, lion](01_judah_2.jpg)  
+**Figure 3.** *Judah: Yod/Hand and lion.* Found in the wrong calendar region. Fits the lion of Dan better, however the vine, donkey and robes could match Judah.
+
 Below clockwise:
 - star region
 - lion
 - foal, donkey's colt, vine
 - garments/robes washed in wine/blood of grapes
   - red and purple garments were costly and were worn by royalty so the robes could infer the scepter and rulers staff.
-![clockwise region, lion, donkey & vine, garments](01_judah_3.jpg)
+![clockwise region, lion, donkey & vine, garments](01_judah_3.jpg)  
+**Figure 4.** *Judah: star region, lion, donkey & vine, garments.* Clockwise: star region, lion, foal/donkey's colt/vine, garments washed in wine/blood of grapes.
+
 I'm including these difficulties in order to stay honest.  TODO: Investigate if Jacob and Moses ascribed different regions.  As we are using the tribal order of Moses in Numbers I'll try to note the differences.
 
 Leah:
@@ -148,11 +177,11 @@ Leah:
 > And Rachel said, “Therefore he will lie with you tonight for your son’s mandrakes.” 
 > When Jacob came out of the field in the evening, 
 > Leah went out to meet him and said, 
-> “You must come in to me, for I have surely-hired(שָׂכֹ֣ר שְׂכַרְתִּ֔יךָ) you with my son’s mandrakes.” 
+> “You must come in to me, for I have surely-hired(שָׂכֹ֣ר שְׂכַרְתִּ֔ךָ) you with my son’s mandrakes.” 
 > And he lay with her that night. 
 > And God listened to Leah, and she conceived and bore Jacob a fifth son. 
-> Leah said, “God has given me my wages(שְׂכָרִ֔י), because I have given my maid to my husband.”
-> So she called his name Issachar(יִשָּׂשכָֽר).
+> Leah said, “God has given me my wages(שְׂכָרִ֔י), because I have given my maid to my husband.”
+> So she called his name Issachar(יִשָּׂשכָֽר).
 > Genesis 30:14-18
 
 In Hebrew the word for "Mandrakes"(דּוּדַי) is very similar to "beloved"(דּוֹד).  See [Appendix B](#appendix-b) for notes on "Mandrakes".
@@ -182,36 +211,36 @@ Moses combines Zebulun and Issachar referring to them as "they will":
 > And the hidden treasures of the sand." 
 > Deut 33:18-18
 
-![Month 2 Issachar](02_issachar_1.jpg)
-Calendar Month
+![Month 2 Issachar](02_issachar_1.jpg)  
+**Figure 5.** *Issachar calendar month region (2nd Noah / 8th Moses).*
 
-![Base Region](02_issachar_2.jpg)
-Base Image
+![Base Region](02_issachar_2.jpg)  
+**Figure 6.** *Issachar base star region.* Shared with Zebulun.
 
-![Issachar Donkey](02_issachar_3.jpg)
-2 Donkeys
+![Issachar Donkey](02_issachar_3.jpg)  
+**Figure 7.** *Issachar: two donkeys in the star region.* “A strong donkey lying down between two sheepfolds/burdens” (Gen 49:14).
 
-![Issachar Servant](02_issachar_4.jpg)
-Servant
+![Issachar Servant](02_issachar_4.jpg)  
+**Figure 8.** *Issachar: servant at forced labor.*
 
-![Issachar Wages/Scale](02_issachar_5.jpg)
-Wages were weighed out in balance scales.  
+![Issachar Wages/Scale](02_issachar_5.jpg)  
+**Figure 9.** *Issachar: wages weighed in balance scales.*  
 > Then I said to them, 
-> “If it is agreeable to you, give me my-wages(שְׂכָרִ֖י); and if not, refrain.” 
-> So they weighed out for my-wages(שְׂכָרִ֖י) thirty pieces of silver. 
+> “If it is agreeable to you, give me my-wages(שְׂכָרִ֖י); and if not, refrain.” 
+> So they weighed out for my-wages(שְׂכָרִ֖י) thirty pieces of silver. 
 > Zechariah 11:12
 
-![Issachar Woman and Mandrake](02_issachar_6.jpg)
-Woman and Mandrakes
+![Issachar Woman and Mandrake](02_issachar_6.jpg)  
+**Figure 10.** *Issachar: woman and mandrakes.* From the Leah narrative (Gen 30:14-18).
 
-![Issachar Seas, Treasures of the sand](02_issachar_7.jpg)
-Treasures of the sand - shared with Zebulun
+![Issachar Seas, Treasures of the sand](02_issachar_7.jpg)  
+**Figure 11.** *Issachar/Zebulun: abundance of the seas, treasures of the sand.* Ships may be the white sails.
 
-![Issachar mountain and sacrifices](02_issachar_8.jpg)
-Mountain and Sacrifices - shared with Zebulun
+![Issachar mountain and sacrifices](02_issachar_8.jpg)  
+**Figure 12.** *Issachar/Zebulun: mountain and sacrifices.*
 
-![Issachar altar](02_issachar_9.jpg)
-Altar - shared with Zebulun
+![Issachar altar](02_issachar_9.jpg)  
+**Figure 13.** *Issachar/Zebulun: altar.*
 
 Leah:
  - wages - found scales
@@ -268,26 +297,26 @@ Moses:
 > And, Issachar, in your tents.  
 > They will call peoples to the mountain;  
 > There they will offer righteous sacrifices;  
-> For they will draw out the abundance of the seas,  
+> For they will draw out the abundance of the seas, 
 > And the hidden treasures of the sand." 
 > Deut 33:18-18
 
 ---
 
-![Month 3 Zebulun](03_zebulun_1.jpg)
-Calendar Region
+![Month 3 Zebulun](03_zebulun_1.jpg)  
+**Figure 14.** *Zebulun calendar month region (3rd Noah / 9th Moses).*
 
-![Base Region](02_issachar_2.jpg)
-Base Image - shared with Issacar
+![Base Region](02_issachar_2.jpg)  
+**Figure 15.** *Zebulun base star region.* Same image as Figure 6, shared with Issachar.
 
-![Zebulun Seas, Treasures of the sand](02_issachar_7.jpg)
-Treasures of the sand haven or inlet for ships. Ships may be the white sails. - shared with Issacar
+![Zebulun Seas, Treasures of the sand](02_issachar_7.jpg)  
+**Figure 16.** *Zebulun: seashore, haven for ships, treasures of the sand.* Same image as Figure 11, shared with Issachar.
 
-![Zebulun mountain and sacrifices](02_issachar_8.jpg)
-Mountain and Sacrifices - shared with Issacar
+![Zebulun mountain and sacrifices](02_issachar_8.jpg)  
+**Figure 17.** *Zebulun: mountain and sacrifices.* Same image as Figure 12, shared with Issachar.
 
-![Zebulun altar](02_issachar_9.jpg)
-Altar - shared with Issacar
+![Zebulun altar](02_issachar_9.jpg)  
+**Figure 18.** *Zebulun: altar.* Same image as Figure 13, shared with Issachar.
 
 Leah:
 - dwell - too difficult to find.
@@ -319,8 +348,8 @@ Today there are "havens for ships" with modern man-mad sea walls with ports and 
 - The largest has several names: Haifa Bay, Haifa Harbor, Haifa Port, Kishon Port, Kishon Harbor. This region is where the river Kishon empties into the Mediterranean sea and is a natural harbor for ships.
 
 All of the small ports and marinas mimic the natural haven for ships at Haifa have man-made protective sea walls on the south and west with the openings to the north for the ships enter and exit.  This huge Haifa Bay opens to the north which may be what was inferred when Genesis 49:13 reads "his flank shall be toward Sidon", that is, ships from Sidon could trade at Haifa Bay.  It may be that the fertile Jezreel Valley farmland of Zebulun profited greatly from the Haifa Bay sea port that was in Asher.
-![Map of Israel at time of Joshuah - wikipedia](12_Tribes_of_Israel_Map.jpg)
-
+![Map of Israel at time of Joshuah - wikipedia](12_Tribes_of_Israel_Map.jpg)  
+**Figure 19.** *Map of tribal land allotments after Joshuah.*
 
 TODO: if it is not describing the land of Israel but rather Nebulae then the mountain and sacrifices may be describing the large Ox Shape above the treasure in the sand.  Dark nebulae rising up likened to smoke rising off the sacrifice.
 
@@ -366,8 +395,11 @@ Moses:
 > Nor his men be few.  
 > Deut 33:6
 
-![Month 4 Ruben](04_ruben_1.jpg)
-![Month 4 Ruben](04_ruben_2.jpg)
+![Month 4 Ruben](04_ruben_1.jpg)  
+**Figure 20.** *Reuben calendar month region (4th Noah / 10th Moses).*
+
+![Month 4 Ruben](04_ruben_2.jpg)  
+**Figure 21.** *Reuben base star region.* Image pending.
 
 ---
 
@@ -405,8 +437,11 @@ Jacob:
 > Gen 49:5-7
 
 
-![Month 5 Simeon](05_simeon_1.jpg)
-![Month 5 Simeon](05_simeon_2.jpg)
+![Month 5 Simeon](05_simeon_1.jpg)  
+**Figure 22.** *Simeon calendar month region (5th Noah / 11th Moses).*
+
+![Month 5 Simeon](05_simeon_2.jpg)  
+**Figure 23.** *Simeon base star region.* Image pending.
 
 ---
 
@@ -425,13 +460,13 @@ Leah:
 > So she named him Gad(גָּד). 
 > Gen 30:11
 ---
-> גָּ֖ד גְּד֣וּד יְגוּדֶ֑נּוּ וְה֖וּא יָגֻ֥ד עָקֵֽב
+> גָּ֖ד גְּדוּד יְגוּדֶ֑נּוּ וְה֖וּא יָגֻ֥ד עָקֵֽב
 
 ---
 
 Jacob:
 
-> As for Gad(גָּ֖ד), raiders(גְּדוּד) shall raid(יְגוּדֶ֑נּוּ) him, 
+> As for Gad(גָּ֖ד), raiders(גְּדוּד) shall raid(יְגוּדֶ֑נּוּ) him, 
 > But he will raid(יָגֻ֥ד) at their heels.  
 > Gen 49:19
 
@@ -443,15 +478,18 @@ Moses:
 > Blessed is the one who enlarges Gad;  
 > He lies down as a lion, 
 > And tears the arm, also the crown of the head. 
-> He provided the first(רֵאשִׁית֙) part for himself, 
+> He provided the first(רֵאשִׁית֙) part for himself, 
 > Because a lawgiver’s portion was reserved there. 
-> He came with the heads(רָ֣אשֵׁי) of the people; 
+> He came with the heads(רָ֣אשֵׁי) of the people; 
 > He administered the justice of the Lord, 
 > And His judgments with Israel.”  
 > Deut 33:20-21
 
-![Month 6 Gad](06_gad_1.jpg)
-![Month 6 Gad](06_gad_2.jpg)
+![Month 6 Gad](06_gad_1.jpg)  
+**Figure 24.** *Gad calendar month region (6th Noah / 12th Moses).*
+
+![Month 6 Gad](06_gad_2.jpg)  
+**Figure 25.** *Gad: star region with lion shape.* “He lies down as a lion” (Deut 33:20).
 
 ---
 
@@ -468,7 +506,7 @@ TODO decide where Levi will fit.
 Leah:
 
 > She conceived again and bore a son and said, 
-> Now this time my husband will become-attached-to-me(יִלָּוֶ֤ה), 
+> Now this time my husband will become-attached-to-me(יִלָּוֶ֤ה), 
 > because I have borne him three sons. 
 > Therefore he was named Levi(לֵוִֽי).  
 > Gen 29:34
@@ -518,8 +556,11 @@ Moses:
 > so that they will not rise again.”  
 > Deut 33:8-11
 
-![Month 13 Levi](13_Levi_1.jpg)
-![Month 13 Levi](13_levi_2.jpg)
+![Month 13 Levi](13_Levi_1.jpg)  
+**Figure 26.** *Levi calendar month region (13th Moses).* Image pending.
+
+![Month 13 Levi](13_levi_2.jpg)  
+**Figure 27.** *Levi base star region.* Image pending.
 
 ---
 
@@ -645,8 +686,11 @@ Moses:
 > And those are the thousands(אֶלֶף) of Manasseh.” 
 > Deut 33:13-17
 
-![Month 7 Ephraim](07_ephraim_1.jpg)
-![Month 7 Ephraim](07_ephraim_2.jpg)
+![Month 7 Ephraim](07_ephraim_1.jpg)  
+**Figure 28.** *Ephraim calendar month region (7th Noah / 1st Moses).*
+
+![Month 7 Ephraim](07_ephraim_2.jpg)  
+**Figure 29.** *Ephraim base star region.* Image pending.
 
 ---
 
@@ -669,8 +713,11 @@ Moses:
 
 The verses for Joseph are under Ephraim above.
 
-![Month 8 Manasseh](08_manasseh_1.jpg)
-![Month 8 Manasseh](08_manasseh_2.jpg)
+![Month 8 Manasseh](08_manasseh_1.jpg)  
+**Figure 30.** *Manasseh calendar month region (8th Noah / 2nd Moses).*
+
+![Month 8 Manasseh](08_manasseh_2.jpg)  
+**Figure 31.** *Manasseh base star region.* Image pending.
 
 ---
 
@@ -713,8 +760,11 @@ Moses:
 > And he dwells between His shoulders.” 
 > Deut 33:12  
 
-![Month 9 Benjamin](09_benjamin_1.jpg)
-![Month 0 Benjamin](09_benjamin_2.jpg)
+![Month 9 Benjamin](09_benjamin_1.jpg)  
+**Figure 32.** *Benjamin calendar month region (9th Noah / 3rd Moses).*
+
+![Month 0 Benjamin](09_benjamin_2.jpg)  
+**Figure 33.** *Benjamin base star region.* Image pending.
 ---
 
 ## Dan
@@ -759,8 +809,11 @@ Moses:
 > Deut 33:22
 
 
-![Month 10 Dan](10_dan_1.jpg)
-![Month 10 Dan](10_dan_2.jpg)
+![Month 10 Dan](10_dan_1.jpg)  
+**Figure 34.** *Dan calendar month region (10th Noah / 4th Moses).*
+
+![Month 10 Dan](10_dan_2.jpg)  
+**Figure 35.** *Dan base star region.* Image pending.
 ---
 
 ## Asher
@@ -805,11 +858,14 @@ Moses:
 > Deut 33:24-27
 
 
-![Month 11 Asher](11_asher_1.jpg)
-![Month 11 Asher](11_asher_2.jpg)
+![Month 11 Asher](11_asher_1.jpg)  
+**Figure 36.** *Asher calendar month region (11th Noah / 5th Moses).*
+
+![Month 11 Asher](11_asher_2.jpg)  
+**Figure 37.** *Asher base star region.* Image pending.
 ---
 
-## Naphteli
+## Naphtali
  - Meaning: wrestling
  - 12th month (Noah)
  - 6th month (Moses)
@@ -848,8 +904,11 @@ Moses:
 > Deut 33:23
 
 
-![Month 12 Naphtali](12_naphtali_1.jpg)
-![Month 12 Naphtali](12_naphteli_2.jpg)
+![Month 12 Naphtali](12_naphtali_1.jpg)  
+**Figure 38.** *Naphtali calendar month region (12th Noah / 6th Moses).*
+
+![Month 12 Naphtali](12_naphtali_2.jpg)  
+**Figure 39.** *Naphtali base star region.* Image pending.
 
 ---
 
@@ -864,7 +923,7 @@ The four apparent lion shapes are demonstrated in
 
 ## Appendix B
 
-In Hebrew the word for "Mandrakes"(דּוּדַי) is very similar to "beloved"(דּוֹד). It may be the play on the words itself was a mental aphrodisiac rather than a bio-chemical reaction.  I have not found any controlled human trials in relation to Mandragora officinarum or Mandragora autumnalis as an aphrodisiac.  The plant is rich in tropane alkaloids (hyoscyamine, atropine, scopolamine). These are sedative, hallucinogenic, and anticholinergic, which could explain its ancient use as an anesthetic and narcotic. Those effects are not aphrodisiac effects, and anticholinergics can actually impair sexual function.  The gap between a dose that produces effects and a toxic dose is small and unpredictable, since alkaloid content varies by plant part, season, and preparation. Mandrake poisoning is a real medical emergency.  The following passage demonstrates of beloved/love and Mandrake can be a play on words. It is also worth noting that the mandrake was used as a fragrance and it's yellow-to-orange berry has a strong sweet, apple-like scent.
+In Hebrew the word for "Mandrakes"(דּוּדַי) is very similar to "beloved"(דּוֹד). It may be the play on the words itself was a mental aphrodisiac rather than a bio-chemical reaction.  I have not found any controlled human trials in relation to Mandragora officinarum or Mandragora autumnalis as an aphrodisiac.  The plant is rich in tropane alkaloids (hyoscyamine, atropine, scopolamine). These are sedative, hallucinogenic, and anticholinergic, which could explain its ancient use as an anesthetic and narcotic.  Those effects are not aphrodisiac effects, and anticholinergics can actually impair sexual function.  The gap between a dose that produces effects and a toxic dose is small and unpredictable, since alkaloid content varies by plant part, season, and preparation. Mandrake poisoning is a real medical emergency.  The following passage demonstrates of beloved/love and Mandrake can be a play on words. It is also worth noting that the mandrake was used as a fragrance and it's yellow-to-orange berry has a strong sweet, apple-like scent.
 
 > And your mouth like the best wine! 
 > It goes down smoothly for my beloved(דּוֹד), 
@@ -878,5 +937,3 @@ In Hebrew the word for "Mandrakes"(דּוּדַי) is very similar to "beloved"(
 > The mandrakes(דּוּדַי) have given forth fragrance; 
 > And over our doors are all choice fruits, Both new and old, Which I have saved up for you, my beloved(דּוֹד).
 > Song of Solomon 7:8-13
-
-
