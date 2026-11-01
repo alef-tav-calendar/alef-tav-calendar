@@ -406,8 +406,8 @@ Jacob:
 > My might and the beginning of my strength, 
 > Preeminent in dignity and preeminent in power. 
 > Uncontrolled as water, you shall not have preeminence, 
-> Because you went up to your father’s bed; 
-> Then you defiled it — he went up to my couch. 
+> Because you went up to your father’s bed(מִשְׁכָּב); 
+> Then you defiled it — he went up to my couch(יָצוּעַ). 
 > Gen 49:3-4
 
 ---
@@ -418,11 +418,24 @@ Moses:
 > Nor his men be few.  
 > Deut 33:6
 
-![Month 4 Ruben](04_ruben_1.jpg)  
+![Month 4 Reuben](04_reuben_1.jpg)  
 **Figure 20.** *Reuben calendar month region (4th Noah / 10th Moses).*
 
-![Month 4 Ruben](04_ruben_2.jpg)  
-**Figure 21.** *Reuben base star region.* Image pending.
+![Month 4 Reuben](04_reuben_2.jpg)  
+**Figure 21.** *Reuben base star region.* (left). **See a son, bed, couch** (right)
+
+Leah:
+ - seen - difficult
+   - see a son - found
+Jacob:
+ - firstborn - found
+ - might strength - not found
+ - beginning (רֵאשִׁית) - close to Genesis 1:1 equinox region but a bit earlier in time.
+ - uses two different hebrew words words for bed/couch - may be what was the treasure box above now a bed.
+
+Moses:
+ - live - found
+ - men - not found
 
 ---
 
