@@ -24,7 +24,7 @@ This page contains preliminary research notes investigating if the Moon's 12-mon
 
 | Figure | Subject | | Figure | Subject |
 | ---: |---|---| ---: |---|
-| 1 | Precession of the equinoxes | | 21 | Reuben base star region (pending) |
+| 1 | Precession of the equinoxes | | 21 | Reuben star region |
 | 2 | Judah calendar month region | | 22 | Simeon calendar month region |
 | 3 | Judah: Yod/Hand, lion | | 23 | Simeon base star region (pending) |
 | 4 | Judah: lion, donkey & vine, garments | | 24 | Gad calendar month region |
