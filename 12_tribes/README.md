@@ -3,7 +3,7 @@ This page contains preliminary research notes investigating if the Moon's 12-mon
 
 ## Table of Contents
 
- - [Figures](#figures) - index of all 39 figures
+ - [Figures](#figures) - index of all 43 figures
  - [Judah](#judah) - 1st (Noah) / 7th (Moses)
  - [Issachar](#issachar) - 2nd (Noah) / 8th (Moses)
  - [Zebulun](#zebulun) - 3rd (Noah) / 9th (Moses)
@@ -24,25 +24,27 @@ This page contains preliminary research notes investigating if the Moon's 12-mon
 
 | Figure | Subject | | Figure | Subject |
 | ---: |---|---| ---: |---|
-| 1 | Precession of the equinoxes | | 21 | Reuben star region |
-| 2 | Judah calendar month region | | 22 | Simeon calendar month region |
-| 3 | Judah: Yod/Hand, lion | | 23 | Simeon base star region (pending) |
-| 4 | Judah: lion, donkey & vine, garments | | 24 | Gad calendar month region |
-| 5 | Issachar calendar month region | | 25 | Gad: star region, lion |
-| 6 | Issachar base star region | | 26 | Levi calendar month region (pending) |
-| 7 | Issachar: two donkeys | | 27 | Levi base star region (pending) |
-| 8 | Issachar: servant | | 28 | Ephraim calendar month region |
-| 9 | Issachar: wages scales | | 29 | Ephraim base star region (pending) |
-| 10 | Issachar: woman and mandrakes | | 30 | Manasseh calendar month region |
-| 11 | Issachar/Zebulun: seas, treasures of the sand | | 31 | Manasseh base star region (pending) |
-| 12 | Issachar/Zebulun: mountain and sacrifices | | 32 | Benjamin calendar month region |
-| 13 | Issachar/Zebulun: altar | | 33 | Benjamin base star region (pending) |
-| 14 | Zebulun calendar month region | | 34 | Dan calendar month region |
-| 15–18 | Zebulun: shared regions (Figures 6, 11–13) | | 35 | Dan base star region (pending) |
-| 19 | Map of tribal land allotments | | 36 | Asher calendar month region |
-| 20 | Reuben calendar month region | | 37 | Asher base star region (pending) |
-|  |  | | 38 | Naphtali calendar month region |
-|  |  | | 39 | Naphtali base star region (pending) |
+| 1 | Precession of the equinoxes | | 23 | Simeon: base star region |
+| 2 | Judah: calendar month region | | 24 | Simeon: sword, anger, slain |
+| 3 | Judah: Yod/Hand, lion | | 25 | Simeon: slain man 1 |
+| 4 | Judah: lion, donkey & vine, garments | | 26 | Simeon: slain man 2 |
+| 5 | Issachar: calendar month region | | 27 | Simeon: slain man 3 |
+| 6 | Issachar: base star region | | 28 | Gad: calendar month region |
+| 7 | Issachar: two donkeys | | 29 | Gad: star region, lion |
+| 8 | Issachar: servant | | 30 | Levi: calendar month region (pending) |
+| 9 | Issachar: wages scales | | 31 | Levi: base star region (pending) |
+| 10 | Issachar: woman and mandrakes | | 32 | Ephraim: calendar month region |
+| 11 | Issachar/Zebulun: seas, treasures of the sand | | 33 | Ephraim: base star region (pending) |
+| 12 | Issachar/Zebulun: mountain and sacrifices | | 34 | Manasseh: calendar month region |
+| 13 | Issachar/Zebulun: altar | | 35 | Manasseh: base star region (pending) |
+| 14 | Zebulun: calendar month region | | 36 | Benjamin: calendar month region |
+| 15–18 | Zebulun: shared regions (Figures 6, 11–13) | | 37 | Benjamin: base star region (pending) |
+| 19 | Map of tribal land allotments | | 38 | Dan: calendar month region |
+| 20 | Reuben: calendar month region | | 39 | Dan: base star region (pending) |
+| 21 | Reuben: base star region | | 40 | Asher: calendar month region |
+| 22 | Simeon: calendar month region | | 41 | Asher: base star region (pending) |
+|  |  | | 42 | Naphtali: calendar month region |
+|  |  | | 43 | Naphtali: base star region (pending) |
 
 Helps:
  - Using the horizon line to bisect the ecliptic path of the moon with apparent shapes in the Milky Way.
@@ -135,7 +137,7 @@ Moses
 > Deut 33:7
 
 ![Month 1 Judah](01_judah_1.jpg)  
-**Figure 2.** *Judah calendar month region (1st Noah / 7th Moses).* -1722 approximately time of Joseph and Exodus. Moon in the region of the Yod/Hand. The path of the sun represents one lunar month. The path of the moon is start of lunar month to beginning of next lunar month.
+**Figure 2.** *Judah: calendar month region (1st Noah / 7th Moses).* -1722 approximately time of Joseph and Exodus. Moon in the region of the Yod/Hand. The path of the sun represents one lunar month. The path of the moon is start of lunar month to beginning of next lunar month.
 
 To date I've found only 4 apparent shapes of lions in the milky way - See [Appendix A](#appendix-a).  There are 3 tribal blessings that reference lions:
 - Lion of Judah by Jacob - Gen 49:9
@@ -232,13 +234,13 @@ Moses combines Zebulun and Issachar referring to them as "they will":
 > There they will offer righteous sacrifices;  
 > For they will draw out the abundance of the seas,  
 > And the hidden treasures of the sand." 
-> Deut 33:18-18
+> Deut 33:18-19
 
 ![Month 2 Issachar](02_issachar_1.jpg)  
-**Figure 5.** *Issachar calendar month region (2nd Noah / 8th Moses).*
+**Figure 5.** *Issachar: calendar month region (2nd Noah / 8th Moses).*
 
 ![Base Region](02_issachar_2.jpg)  
-**Figure 6.** *Issachar base star region.* Shared with Zebulun.
+**Figure 6.** *Issachar: base star region.* Shared with Zebulun.
 
 ![Issachar Donkey](02_issachar_3.jpg)  
 **Figure 7.** *Issachar: two donkeys in the star region.* “A strong donkey lying down between two sheepfolds/burdens” (Gen 49:14).
@@ -322,15 +324,15 @@ Moses:
 > There they will offer righteous sacrifices;  
 > For they will draw out the abundance of the seas, 
 > And the hidden treasures of the sand." 
-> Deut 33:18-18
+> Deut 33:18-19
 
 ---
 
 ![Month 3 Zebulun](03_zebulun_1.jpg)  
-**Figure 14.** *Zebulun calendar month region (3rd Noah / 9th Moses).*
+**Figure 14.** *Zebulun: calendar month region (3rd Noah / 9th Moses).*
 
 ![Base Region](02_issachar_2.jpg)  
-**Figure 15.** *Zebulun base star region.* Same image as Figure 6, shared with Issachar.
+**Figure 15.** *Zebulun: base star region.* Same image as Figure 6, shared with Issachar.
 
 ![Zebulun Seas, Treasures of the sand](02_issachar_7.jpg)  
 **Figure 16.** *Zebulun: seashore, haven for ships, treasures of the sand.* Same image as Figure 11, shared with Issachar.
@@ -384,7 +386,7 @@ TODO: if it is not describing the land of Israel but rather Nebulae then the mou
  - 10th month (Moses)
  - Tevet 'muddy month' (Akkadian)
  - December-January
- - Feasts:
+ - Feasts: none
  - Leah's 1st son
  - Jacob's 1st son
 
@@ -419,10 +421,10 @@ Moses:
 > Deut 33:6
 
 ![Month 4 Reuben](04_reuben_1.jpg)  
-**Figure 20.** *Reuben calendar month region (4th Noah / 10th Moses).*
+**Figure 20.** *Reuben: calendar month region (4th Noah / 10th Moses).*
 
 ![Month 4 Reuben](04_reuben_2.jpg)  
-**Figure 21.** *Reuben base star region.* (left). **See a son, bed, couch** (right)
+**Figure 21.** *Reuben: base star region* (left). *See a son, bed, couch* (right).
 
 Leah:
  - seen - difficult
@@ -430,8 +432,8 @@ Leah:
 Jacob:
  - firstborn - found
  - might strength - not found
- - beginning (רֵאשִׁית) - close to Genesis 1:1 equinox region but a bit earlier in time.
- - uses two different hebrew words words for bed/couch - may be what was the treasure box above now a bed.
+ - beginning (רֵאשִׁית) - close to Genesis 1:1 equinox region pre-dates the starting timeline date.
+ - uses two different Hebrew words for bed/couch - may be what was the treasure box above, now a bed.
 
 Moses:
  - live - found
@@ -444,7 +446,7 @@ Moses:
  - 5th month (Noah)
  - 11th month (Moses)
  - Shevat 'strike' heavy rains (Akkadian)
- - Feasts: 
+ - Feasts: none
  - Leah's 2nd son
  - Jacob's 2nd son
 
@@ -472,12 +474,44 @@ Jacob:
 > And scatter them in Israel.
 > Gen 49:5-7
 
+---
+Moses does not mention Simeon in the blessings of Deut 33. A Simeonite, Zimri, brought a Midianite woman into the camp causing Israelites to bow down to their gods, God then sent a plague throughout Israel. Numbers 25. Simeon's tribal census numbers dropped from 59,300 to 22,200 (Numbers 1 & 26) before and after the plague. Jacob refers to how Simeon and Levi had the men of Shechem circumcise themselves then on the 3rd day they killed them because Shechem had defiled Dinah their sister. It is a bit ironic that it is a Levite Phinehas that slays a Simeonite Cozbi for taking a Midianite woman. Jacob said “I will disperse them in Jacob, and scatter them in Israel” - Simeon became a tribe within Judah's land Joshua 19:1-9
+> The second lot came out for Simeon, 
+> for the tribe of the children of Simeon according to their families. 
+> And their inheritance was within the inheritance of the children of Judah.
+> Josh 19:1-2
+
 
 ![Month 5 Simeon](05_simeon_1.jpg)  
-**Figure 22.** *Simeon calendar month region (5th Noah / 11th Moses).*
+**Figure 22.** *Simeon: calendar month region (5th Noah / 11th Moses).*
 
-![Month 5 Simeon](05_simeon_2.jpg)  
-**Figure 23.** *Simeon base star region.* Image pending.
+![Simeon base star region](05_simeon_2.jpg)  
+**Figure 23.** *Simeon: base star region.*
+
+![Simeon: sword, anger, slain](05_simeon_3.jpg)  
+**Figure 24.** *Simeon: sword, anger, slain.*
+
+![Simeon: slain man 1](05_simeon_4.jpg)  
+**Figure 25.** *Simeon: slain man 1.*
+
+![Simeon: slain man 2](05_simeon_5.jpg)  
+**Figure 26.** *Simeon: slain man 2.*
+
+![Simeon: slain man 3](05_simeon_6.jpg)  
+**Figure 27.** *Simeon: slain man 3.*
+
+Leah:
+- Heard - not found / difficult
+
+Jacob:
+- sword - found
+- slew men - found
+- lamed oxen - difficult - may be the ox to the far right?
+- anger, wrath - found
+
+Moses:
+- no blessings recorded.
+
 
 ---
 
@@ -522,10 +556,10 @@ Moses:
 > Deut 33:20-21
 
 ![Month 6 Gad](06_gad_1.jpg)  
-**Figure 24.** *Gad calendar month region (6th Noah / 12th Moses).*
+**Figure 28.** *Gad: calendar month region (6th Noah / 12th Moses).*
 
 ![Month 6 Gad](06_gad_2.jpg)  
-**Figure 25.** *Gad: star region with lion shape.* “He lies down as a lion” (Deut 33:20).
+**Figure 29.** *Gad: star region with lion shape.* “He lies down as a lion” (Deut 33:20).
 
 ---
 
@@ -551,7 +585,7 @@ Leah:
 
 poetry is matching pairs.
 
-Jacob:
+Jacob combines two tribes:
 
 > Simeon and Levi are brothers; 
 > Their swords are implements of violence. 
@@ -564,6 +598,9 @@ Jacob:
 > I will disperse them in Jacob, 
 > And scatter them in Israel.
 > Gen 49:5-7
+
+---
+
 
 ---
 
@@ -593,10 +630,10 @@ Moses:
 > Deut 33:8-11
 
 ![Month 13 Levi](13_Levi_1.jpg)  
-**Figure 26.** *Levi calendar month region (13th Moses).* Image pending.
+**Figure 30.** *Levi: calendar month region (13th Moses).* Image pending.
 
 ![Month 13 Levi](13_levi_2.jpg)  
-**Figure 27.** *Levi base star region.* Image pending.
+**Figure 31.** *Levi: base star region.* Image pending.
 
 ---
 
@@ -723,10 +760,10 @@ Moses:
 > Deut 33:13-17
 
 ![Month 7 Ephraim](07_ephraim_1.jpg)  
-**Figure 28.** *Ephraim calendar month region (7th Noah / 1st Moses).*
+**Figure 32.** *Ephraim: calendar month region (7th Noah / 1st Moses).*
 
 ![Month 7 Ephraim](07_ephraim_2.jpg)  
-**Figure 29.** *Ephraim base star region.* Image pending.
+**Figure 33.** *Ephraim: base star region.* Image pending.
 
 ---
 
@@ -750,10 +787,10 @@ Moses:
 The verses for Joseph are under Ephraim above.
 
 ![Month 8 Manasseh](08_manasseh_1.jpg)  
-**Figure 30.** *Manasseh calendar month region (8th Noah / 2nd Moses).*
+**Figure 34.** *Manasseh: calendar month region (8th Noah / 2nd Moses).*
 
 ![Month 8 Manasseh](08_manasseh_2.jpg)  
-**Figure 31.** *Manasseh base star region.* Image pending.
+**Figure 35.** *Manasseh: base star region.* Image pending.
 
 ---
 
@@ -797,10 +834,10 @@ Moses:
 > Deut 33:12  
 
 ![Month 9 Benjamin](09_benjamin_1.jpg)  
-**Figure 32.** *Benjamin calendar month region (9th Noah / 3rd Moses).*
+**Figure 36.** *Benjamin: calendar month region (9th Noah / 3rd Moses).*
 
-![Month 0 Benjamin](09_benjamin_2.jpg)  
-**Figure 33.** *Benjamin base star region.* Image pending.
+![Month 9 Benjamin](09_benjamin_2.jpg)  
+**Figure 37.** *Benjamin: base star region.* Image pending.
 ---
 
 ## Dan
@@ -846,10 +883,10 @@ Moses:
 
 
 ![Month 10 Dan](10_dan_1.jpg)  
-**Figure 34.** *Dan calendar month region (10th Noah / 4th Moses).*
+**Figure 38.** *Dan: calendar month region (10th Noah / 4th Moses).*
 
 ![Month 10 Dan](10_dan_2.jpg)  
-**Figure 35.** *Dan base star region.* Image pending.
+**Figure 39.** *Dan: base star region.* Image pending.
 ---
 
 ## Asher
@@ -895,10 +932,10 @@ Moses:
 
 
 ![Month 11 Asher](11_asher_1.jpg)  
-**Figure 36.** *Asher calendar month region (11th Noah / 5th Moses).*
+**Figure 40.** *Asher: calendar month region (11th Noah / 5th Moses).*
 
 ![Month 11 Asher](11_asher_2.jpg)  
-**Figure 37.** *Asher base star region.* Image pending.
+**Figure 41.** *Asher: base star region.* Image pending.
 ---
 
 ## Naphtali
@@ -941,10 +978,10 @@ Moses:
 
 
 ![Month 12 Naphtali](12_naphtali_1.jpg)  
-**Figure 38.** *Naphtali calendar month region (12th Noah / 6th Moses).*
+**Figure 42.** *Naphtali: calendar month region (12th Noah / 6th Moses).*
 
 ![Month 12 Naphtali](12_naphtali_2.jpg)  
-**Figure 39.** *Naphtali base star region.* Image pending.
+**Figure 43.** *Naphtali: base star region.* Image pending.
 
 ---
 
