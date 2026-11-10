@@ -47,8 +47,8 @@ This page contains preliminary research notes investigating if the Moon's 12-mon
 |  |  | | 43 | Naphtali: base star region (pending) |
 
 Helps:
- - Using the horizon line to bisect the ecliptic path of the moon with apparent shapes in the Milky Way.
-   - The context of the list of names include Hebrew word-plays and descriptive language which we will demonstrate is describing apparent shapes in the Milky Way.  These shapes in turn create a 12 month calendar system. 
+ - Use the horizon line to bisect the ecliptic path of the moon with apparent shapes in the Milky Way.
+   - The context of the list of names include Hebrew word-plays and descriptive language, which we will demonstrate, is describing apparent shapes in the Milky Way.  These shapes in turn create a 12 month calendar system. 
  - The book of Numbers has consistent groupings of 3 (Numbers, 1,2,7,10,26).  Then consistent order for the camp, the offerings, and for travel.  (Numbers 2, 7, 10)
    - The 12 tribes: Judah, Issachar, Zebulun;  Reuben, Simeon, Gad;  Ephraim, Manasseh, Benjamin;  Dan, Asher, Naphtali.
    - The 13th tribe: Levi in the middle of the camp.
@@ -61,7 +61,7 @@ Difficulties:
  - Due to the precession of the equinoxes the time between Adam and Moses caused the alignment of the seasonal calendar relative to the fixed stars to shift by about 36 days, representing a drift of greater than one calendar month.  
 | Year | precession of equinox since Gen 1 | Reference | Notes |
 | ---: | ---: |---|---|
-| -4382 | 0 | Genesis 1 | Adam narrative approximately around when galactic equator, ecliptic's fall equinox bisect. |
+| -4382 | 0 | Genesis 1 | Adam narrative approximately around when galactic equator, and the ecliptic's fall equinox bisect. |
 | -2726 | 22 | Genesis 7 | Flood narrative when fall equinox is leaving the last bright colorful region above the milky way: Rho Ophiuchi |
 | -2182 | 30 | Genesis 30 | Joseph's birth narrative ( approximate ) |
 | -1722 | 36 | Exodus 1 | Exodus Moses narrative ( approximate ) |
@@ -561,17 +561,33 @@ Moses:
 ![Month 6 Gad](06_gad_2.jpg)  
 **Figure 29.** *Gad: star region with lion shape.* “He lies down as a lion” (Deut 33:20).
 
+Leah:
+- troop/fortunate - not found
+
+Jacob:
+- raid/raiders - not found
+
+Moses:
+- Lion - found
+- Tears the arm - found
+- Tears ... the crown of the head - found
+- First/Head - found
+
+NOTES:
+- troop/raid/raiders/bands/armies also relates to the same family for words as `sinews`, `cut`.  A guess at the relationship would be that of how troops or raiders come through and cut everything down. The star region above resembles a torn arm and a torn head left in a troop's destructive path.
+
 ---
 
 ## Levi
-TODO decide where Levi will fit.
  - Meaning: attached
- -  month (Noah)
+ - ? month (Noah)
  - 13th month (Moses)
- - 
+ - Adar II (Akkadian)
  - Feasts: 
  - Leah's 3rd son
  - Jacob's 3rd son
+
+Note: the 13th month is added in order to keep the Lunar calendar in sync with the Solar calendar.
 
 Leah:
 
@@ -601,9 +617,6 @@ Jacob combines two tribes:
 
 ---
 
-
----
-
 Poetry is matching pairs.
 
 Moses:
@@ -629,16 +642,41 @@ Moses:
 > so that they will not rise again.”  
 > Deut 33:8-11
 
+Moses, Aaron and the priesthood descend from the Tribe of Levi.  Jacob's blessing shows that Levi was dispersed in Jacob and was scattered in Israel as Levitical priests.
+
+
 ![Month 13 Levi](13_Levi_1.jpg)  
 **Figure 30.** *Levi: calendar month region (13th Moses).* Image pending.
 
 ![Month 13 Levi](13_levi_2.jpg)  
 **Figure 31.** *Levi: base star region.* Image pending.
 
+
+Leah:
+- become attached - not found (unless refering to additional month Attached?)
+Jacob
+- anger - not found
+- slew men - not found
+- lamed oxen - not found
+Moses:
+- Thummim and Urim - not found
+- Massah - not found
+- Water os Meribah - not found 
+- ordances, law - not found
+- inscence - not found
+- burnt offerings - not found
+- altar - not found
+- work of his hands - not found
+- shatter loins - not found
+
+NOTE: For the most part Levi does not seem to have a match unless you skip around the entire band. i.e. "scatter them in Israel".
+
+
 ---
 
 ## Ephraim
  - Meaning: double fruit 
+  - Joseph meaning: add, increase
  - 7th month (Noah)
  - 1st month (Moses)
    - Aviv(אָבִֽיב) 'ear of grain' Exodus 13:4;
@@ -658,10 +696,18 @@ Joseph who saves his family and Egypt from the great famine becomes two tribes: 
 Rachel:
 
 > So she conceived and bore a son and said, 
-> “God has taken-away(אָסַף) my reproach.” 
+> “God has gathered(אָסַף) my reproach.” 
 > She named him Joseph(יוֹסֵף), saying, 
 > May the LORD add-to-me(יֹסֵ֧ף) another son. 
 > Gen 30:23-24
+
+---
+
+Joseph:
+
+> He named the second Ephraim(אֶפְרָ֑יִם), “For,” he said, 
+> "God has made me fruitful(פָּרָה) in the land of my affliction." 
+> Gen 41:52
 
 ---
 
@@ -687,14 +733,6 @@ Jacob:
 > May they be on the head of Joseph, 
 > And on the crown of the head of the one distinguished among his brothers.  
 > Gen 49:22-26 
-
----
-
-Joseph:
-
-> He named the second Ephraim(אֶפְרָ֑יִם), “For,” he said, 
-> "God has made me fruitful(פָּרָה) in the land of my affliction." 
-> Gen 41:52
 
 ---
 
@@ -737,9 +775,10 @@ Jacob/Israel:
 
 ---
 
-Moses:
+Moses: ( in poetic pairs )
 
 > Of Joseph he said,  
+
 > Blessed of the LORD be his land, 
 > With the choice things of heaven, with the dew, 
 > And from the deep lying beneath, 
@@ -759,16 +798,68 @@ Moses:
 > And those are the thousands(אֶלֶף) of Manasseh.” 
 > Deut 33:13-17
 
+Following the patters above the list of things observable is more difficult as it is mainly reffering to the blessing of entering the physical land of Israel and becoming a multitude.  "As the stars of heaven for multitude" - fitting description of the milky way band seen during this time of year.  The monthly calendar apparent shapes matching tribes only seem to match with the blessings spoken by Moses.
+
+Rachel says of Ephraim's father Joseph:
+- added, gathered.
+
+Joseph sais of his son Ephraim:
+- fruitful
+
+Jacob says of Ephraim's father Joseph:
+- fruitful bough - alluding to Ephraim/fruitful.
+- fruitful bough by a spring.
+- branches run over a wall
+- archers attached him
+- shot at him
+- his bow
+- his arms
+- hands of the Mighty One
+- Shepard
+- Stone of Israel
+- head of Joseph
+- crown of the head
+NOTE: Joseph is one of the main characters of the latter part of Genesis. Joseph narrative explains how Israel was saved through the famine and how they entered Egypt leading into Exodus.
+
+Jacob in relation to his grandson Ephraim:
+- crossing his left and right hand. - shapes not found
+- applies name of Abraham, Isaac, and Jacob(himself) and the blessing. - shapes not found
+
+NOTE: Ephraim comes to represent Israel and the larger northern tribes starting with Jeroboam the son of Nebat.  Most of these blessings seem to relate to to the seed becoming a multitude in the land.
+
+Moses of Joseph - Ephraim's dad:
+- choice things of heaven, dew - may reffer to band of milky way as dew.
+ - deep beneath - may reffer to the dark regions below the milky way.
+- yield of the sun
+ - produce of the moon/months
+- ancient mountains
+ - everlasting hills
+- land of and its fullness
+ - Him who dwelt in the bush - not the same region TODO: explain the regions when we get to Exodus/Moses.
+- head of Joseph
+ - crown of the head  ( alluding back to Jacobs blessing )
+- ox - found
+ - horns of wild ox - found
+  - push the peoples all at once to the ends of the earth/land -  found 
+- ten-thousands of Ephraim
+
+
 ![Month 7 Ephraim](07_ephraim_1.jpg)  
 **Figure 32.** *Ephraim: calendar month region (7th Noah / 1st Moses).*
 
 ![Month 7 Ephraim](07_ephraim_2.jpg)  
-**Figure 33.** *Ephraim: base star region.* Image pending.
+**Figure 33.** *Ephraim: base star region.*.
+
+
+
+
+
 
 ---
 
 ## Manasseh
  - Meaning: forget 
+  - Joseph meaning: add, increase
  - 8th month (Noah)
  - 2nd month (Moses)
    - Ziv (זו) means 'light', 'glow' 1Kings 6:1, 6:37
