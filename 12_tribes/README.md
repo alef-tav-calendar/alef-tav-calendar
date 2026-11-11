@@ -101,40 +101,40 @@ TODO: link to study - in Genesis they are wandering Shepherds, Moses updates the
 
 ---
 Leah:
-> And she conceived again and bore a son, and said, 
-> “Now I-will-praise (יָדָה | אוֹדֶה) the LORD.” 
->  Therefore she called his name Judah (יְהוּדָה). 
->  Then she stopped bearing. Gen 29:35
+> And she conceived again and bore a son, and said,  
+> “Now I-will-praise (יָדָה | אוֹדֶה) the LORD.”  
+>  Therefore she called his name Judah (יְהוּדָה).  
+>  Then she stopped bearing. Gen 29:35  
 
 ---
 Jacob:
-> Judah (יְהוּדָה), your brothers shall praise (יָדָה) you; 
-> Your hand (יָד)shall be on the neck of your enemies; 
-> Your father’s sons shall bow down to you. 
-> Judah (יְהוּדָה) is a lion’s whelp; 
-> From the prey, my son, you have gone up. 
-> He couches, he lies down as a lion, 
-> And as a lion, who dares rouse him up? 
-> The scepter shall not depart from Judah, 
-> Nor the ruler’s staff from between his feet, 
-> Until Shiloh comes, 
-> And to him shall be the obedience (יִקָּהָה) of the peoples. 
-> He ties his foal to the vine, 
-> And his donkey’s colt to the choice vine; 
-> He washes his garments in wine (יַיִן) , 
-> And his robes in the blood of grapes. 
-> His eyes are dull from wine(יַיִן), 
-> And his teeth white from milk. 
-> Gen 49:8-12 
+> Judah (יְהוּדָה), your brothers shall praise (יָדָה) you;  
+> Your hand (יָד)shall be on the neck of your enemies;  
+> Your father’s sons shall bow down to you.  
+> Judah (יְהוּדָה) is a lion’s whelp;  
+> From the prey, my son, you have gone up.  
+> He couches, he lies down as a lion,  
+> And as a lion, who dares rouse him up?  
+> The scepter shall not depart from Judah,  
+> Nor the ruler’s staff from between his feet,  
+> Until Shiloh comes,  
+> And to him shall be the obedience (יִקָּהָה) of the peoples.  
+> He ties his foal to the vine,  
+> And his donkey’s colt to the choice vine;  
+> He washes his garments in wine (יַיִן) ,  
+> And his robes in the blood of grapes.  
+> His eyes are dull from wine(יַיִן),  
+> And his teeth white from milk.  
+> Gen 49:8-12  
 
 ---
 Moses
-> And this regarding Judah; so he said,  
-> “Hear, O LORD, the voice of Judah, 
-> And bring him to his people. 
-> With his hands he contended for them, 
-> And may You be a help against his adversaries.”
-> Deut 33:7
+> And this regarding Judah; so he said, 
+> “Hear, O LORD, the voice of Judah,  
+> And bring him to his people.  
+> With his hands he contended for them,  
+> And may You be a help against his adversaries.”  
+> Deut 33:7  
 
 ![Month 1 Judah](01_judah_1.jpg)  
 **Figure 2.** *Judah: calendar month region (1st Noah / 7th Moses).* -1722 approximately time of Joseph and Exodus. Moon in the region of the Yod/Hand. The path of the sun represents one lunar month. The path of the moon is start of lunar month to beginning of next lunar month.
@@ -186,7 +186,7 @@ Moses:
    - Bul uncertain: 'produce/yield or rain/flood' 1Kings 6:38
  - Cheshvan/Marcheshvan 'eighth month' (Akkadian)
  - October-November
- - Feasts: 
+ - Feasts:  
  - Leah's 5th son
  - Jacob's 9th son
 
@@ -194,20 +194,20 @@ Moses:
 
 Leah:
 
-> Now Reuben went in the days of wheat harvest and found mandrakes in the field, 
-> and brought them to his mother Leah. 
-> Then Rachel said to Leah, “Please give me some of your son’s mandrakes.” 
-> But she said to her, “Is it a small matter that you have taken away my husband? 
-> Would you take away my son’s mandrakes also?” 
-> And Rachel said, “Therefore he will lie with you tonight for your son’s mandrakes.” 
-> When Jacob came out of the field in the evening, 
-> Leah went out to meet him and said, 
-> “You must come in to me, for I have surely-hired(שָׂכֹ֣ר שְׂכַרְתִּ֔ךָ) you with my son’s mandrakes.” 
-> And he lay with her that night. 
-> And God listened to Leah, and she conceived and bore Jacob a fifth son. 
-> Leah said, “God has given me my wages(שְׂכָרִ֔י), because I have given my maid to my husband.”
-> So she called his name Issachar(יִשָּׂשכָֽר).
-> Genesis 30:14-18
+> Now Reuben went in the days of wheat harvest and found mandrakes in the field,  
+> and brought them to his mother Leah.  
+> Then Rachel said to Leah, “Please give me some of your son’s mandrakes.”  
+> But she said to her, “Is it a small matter that you have taken away my husband?  
+> Would you take away my son’s mandrakes also?”  
+> And Rachel said, “Therefore he will lie with you tonight for your son’s mandrakes.”  
+> When Jacob came out of the field in the evening,  
+> Leah went out to meet him and said,  
+> “You must come in to me, for I have surely-hired(שָׂכֹ֣ר שְׂכַרְתִּ֔ךָ) you with my son’s mandrakes.”  
+> And he lay with her that night.  
+> And God listened to Leah, and she conceived and bore Jacob a fifth son.  
+> Leah said, “God has given me my wages(שְׂכָרִ֔י), because I have given my maid to my husband.”  
+> So she called his name Issachar(יִשָּׂשכָֽר).  
+> Genesis 30:14-18  
 
 In Hebrew the word for "Mandrakes"(דּוּדַי) is very similar to "beloved"(דּוֹד).  See [Appendix B](#appendix-b) for notes on "Mandrakes".
 
@@ -215,25 +215,25 @@ In Hebrew the word for "Mandrakes"(דּוּדַי) is very similar to "beloved"(
 
 Jacob:
 
-> Issachar is a strong donkey, 
-> Lying down between two sheepfolds/burdens/sattlebags. 
-> “When he saw that a resting place was good 
-> And that the land was pleasant, 
-> He bowed his shoulder to bear burdens, 
-> And became a slave at forced labor. 
-> Gen 49:14-15
+> Issachar is a strong donkey,  
+> Lying down between two sheepfolds/burdens/sattlebags.  
+> “When he saw that a resting place was good  
+> And that the land was pleasant,  
+> He bowed his shoulder to bear burdens,  
+> And became a slave at forced labor.  
+> Gen 49:14-15  
 
 ---
 
 Moses combines Zebulun and Issachar referring to them as "they will":
 
-> Of Zebulun he said, 
-> “Rejoice, Zebulun, in your going forth, 
+> Of Zebulun he said,  
+> “Rejoice, Zebulun, in your going forth,  
 > And, Issachar, in your tents.  
 > They will call peoples to the mountain;  
 > There they will offer righteous sacrifices;  
 > For they will draw out the abundance of the seas,  
-> And the hidden treasures of the sand." 
+> And the hidden treasures of the sand."  
 > Deut 33:18-19
 
 ![Month 2 Issachar](02_issachar_1.jpg)  
@@ -250,10 +250,10 @@ Moses combines Zebulun and Issachar referring to them as "they will":
 
 ![Issachar Wages/Scale](02_issachar_5.jpg)  
 **Figure 9.** *Issachar: wages weighed in balance scales.*  
-> Then I said to them, 
-> “If it is agreeable to you, give me my-wages(שְׂכָרִ֖י); and if not, refrain.” 
-> So they weighed out for my-wages(שְׂכָרִ֖י) thirty pieces of silver. 
-> Zechariah 11:12
+> Then I said to them,  
+> “If it is agreeable to you, give me my-wages(שְׂכָרִ֖י); and if not, refrain.”  
+> So they weighed out for my-wages(שְׂכָרִ֖י) thirty pieces of silver.  
+> Zechariah 11:12  
 
 ![Issachar Woman and Mandrake](02_issachar_6.jpg)  
 **Figure 10.** *Issachar: woman and mandrakes.* From the Leah narrative (Gen 30:14-18).
@@ -286,7 +286,7 @@ Moses combines Zebulun and Issachar:
 ---
 
 ## Zebulun
- - Meaning: dwelling 
+ - Meaning: dwelling  
  - 3rd month (Noah)
  - 9th month (Moses)
  - Kislev
@@ -299,32 +299,32 @@ Moses combines Zebulun and Issachar:
 
 Leah:
 
-> And Leah said, “God has endowed me with a good endowment; 
-> now my husband will-dwell-with-me(יִזְבְּלֵנִי), because I have borne him six sons.” 
-> So she called his name Zebulun(זְבֻלוּן).
-> Gen 30:20
+> And Leah said, “God has endowed me with a good endowment;  
+> now my husband will-dwell-with-me(יִזְבְּלֵנִי), because I have borne him six sons.”  
+> So she called his name Zebulun(זְבֻלוּן).  
+> Gen 30:20  
 
 ---
 
 Jacob:
 
-> Zebulun will dwell at the *seashore*; 
-> And he shall be a *haven for ships*, 
-> And his flank shall be toward Sidon. 
-> Gen 49:13
+> Zebulun will dwell at the *seashore*;  
+> And he shall be a *haven for ships*,  
+> And his flank shall be toward Sidon.  
+> Gen 49:13  
 
 ---
 
 Moses:
 
-> Of Zebulun he said, 
-> “Rejoice, Zebulun, in your going forth, 
+> Of Zebulun he said,  
+> “Rejoice, Zebulun, in your going forth,  
 > And, Issachar, in your tents.  
 > They will call peoples to the mountain;  
 > There they will offer righteous sacrifices;  
-> For they will draw out the abundance of the seas, 
-> And the hidden treasures of the sand." 
-> Deut 33:18-19
+> For they will draw out the abundance of the seas,  
+> And the hidden treasures of the sand."  
+> Deut 33:18-19  
 
 ---
 
@@ -394,31 +394,31 @@ TODO: if it is not describing the land of Israel but rather Nebulae then the mou
 
 Leah:
 
-> So Leah conceived and bore a son, 
-> and she called his name Reuben; 
-> for she said, “The LORD has surely seen my affliction. 
-> Now therefore, my husband will love me.” 
-> Gen 29:32
+> So Leah conceived and bore a son,  
+> and she called his name Reuben;  
+> for she said, “The LORD has surely seen my affliction.  
+> Now therefore, my husband will love me.”  
+> Gen 29:32  
 
 ---
 
 Jacob:
 
-> Reuben, you are my firstborn; 
-> My might and the beginning of my strength, 
-> Preeminent in dignity and preeminent in power. 
-> Uncontrolled as water, you shall not have preeminence, 
-> Because you went up to your father’s bed(מִשְׁכָּב); 
-> Then you defiled it — he went up to my couch(יָצוּעַ). 
-> Gen 49:3-4
+> Reuben, you are my firstborn;  
+> My might and the beginning of my strength,  
+> Preeminent in dignity and preeminent in power.  
+> Uncontrolled as water, you shall not have preeminence,  
+> Because you went up to your father’s bed(מִשְׁכָּב);  
+> Then you defiled it — he went up to my couch(יָצוּעַ).  
+> Gen 49:3-4  
 
 ---
 
 Moses:
 
-> May Reuben live and not die, 
-> Nor his men be few.  
-> Deut 33:6
+> May Reuben live and not die,  
+> Nor his men be few.   
+> Deut 33:6  
 
 ![Month 4 Reuben](04_reuben_1.jpg)  
 **Figure 20.** *Reuben: calendar month region (4th Noah / 10th Moses).*
@@ -452,34 +452,34 @@ Moses:
 
 Leah:
 
-> Then she conceived again and bore a son and said, 
-> Because the LORD has heard(שָׁמַע) that I am unloved, 
-> He has therefore given me this son also. 
-> So she named him Simeon(שִׁמְעוֹן).
+> Then she conceived again and bore a son and said,  
+> Because the LORD has heard(שָׁמַע) that I am unloved,  
+> He has therefore given me this son also.  
+> So she named him Simeon(שִׁמְעוֹן).  
 > Gen 29:33
 
 ---
 
 Jacob:
 
-> Simeon and Levi are brothers; 
-> Their swords are implements of violence. 
-> Let my soul not enter into their council; 
-> Let not my glory be united with their assembly; 
-> Because in their anger they slew men, 
-> And in their self-will they lamed oxen. 
-> Cursed be their anger, for it is fierce; 
-> And their wrath, for it is cruel. 
-> I will disperse them in Jacob, 
-> And scatter them in Israel.
-> Gen 49:5-7
+> Simeon and Levi are brothers;  
+> Their swords are implements of violence.  
+> Let my soul not enter into their council;  
+> Let not my glory be united with their assembly;  
+> Because in their anger they slew men,  
+> And in their self-will they lamed oxen.  
+> Cursed be their anger, for it is fierce;  
+> And their wrath, for it is cruel.  
+> I will disperse them in Jacob,  
+> And scatter them in Israel.  
+> Gen 49:5-7  
 
 ---
 Moses does not mention Simeon in the blessings of Deut 33. A Simeonite, Zimri, brought a Midianite woman into the camp causing Israelites to bow down to their gods, God then sent a plague throughout Israel. Numbers 25. Simeon's tribal census numbers dropped from 59,300 to 22,200 (Numbers 1 & 26) before and after the plague. Jacob refers to how Simeon and Levi had the men of Shechem circumcise themselves then on the 3rd day they killed them because Shechem had defiled Dinah their sister. It is a bit ironic that it is a Levite Phinehas that slays a Simeonite Cozbi for taking a Midianite woman. Jacob said “I will disperse them in Jacob, and scatter them in Israel” - Simeon became a tribe within Judah's land Joshua 19:1-9
-> The second lot came out for Simeon, 
-> for the tribe of the children of Simeon according to their families. 
-> And their inheritance was within the inheritance of the children of Judah.
-> Josh 19:1-2
+> The second lot came out for Simeon,  
+> for the tribe of the children of Simeon according to their families.  
+> And their inheritance was within the inheritance of the children of Judah.  
+> Josh 19:1-2  
 
 
 ![Month 5 Simeon](05_simeon_1.jpg)  
@@ -526,9 +526,9 @@ Moses:
 
 Leah: 
 
-> Then Leah said, “Troop or How-fortunate!”(גָּד)
-> So she named him Gad(גָּד). 
-> Gen 30:11
+> Then Leah said, “Troop or How-fortunate!”(גָּד)  
+> So she named him Gad(גָּד).  
+> Gen 30:11  
 ---
 > גָּ֖ד גְּדוּד יְגוּדֶ֑נּוּ וְה֖וּא יָגֻ֥ד עָקֵֽב
 
@@ -536,24 +536,24 @@ Leah:
 
 Jacob:
 
-> As for Gad(גָּ֖ד), raiders(גְּדוּד) shall raid(יְגוּדֶ֑נּוּ) him, 
-> But he will raid(יָגֻ֥ד) at their heels.  
-> Gen 49:19
+> As for Gad(גָּ֖ד), raiders(גְּדוּד) shall raid(יְגוּדֶ֑נּוּ) him,  
+> But he will raid(יָגֻ֥ד) at their heels.   
+> Gen 49:19  
 
 ---
 
 Moses:
 
-> Of Gad he said, 
+> Of Gad he said,  
 > Blessed is the one who enlarges Gad;  
-> He lies down as a lion, 
-> And tears the arm, also the crown of the head. 
-> He provided the first(רֵאשִׁית֙) part for himself, 
-> Because a lawgiver’s portion was reserved there. 
-> He came with the heads(רָ֣אשֵׁי) of the people; 
-> He administered the justice of the Lord, 
+> He lies down as a lion,  
+> And tears the arm, also the crown of the head.  
+> He provided the first(רֵאשִׁית֙) part for himself,  
+> Because a lawgiver’s portion was reserved there.  
+> He came with the heads(רָ֣אשֵׁי) of the people;  
+> He administered the justice of the Lord,  
 > And His judgments with Israel.”  
-> Deut 33:20-21
+> Deut 33:20-21  
 
 ![Month 6 Gad](06_gad_1.jpg)  
 **Figure 28.** *Gad: calendar month region (6th Noah / 12th Moses).*
@@ -591,11 +591,11 @@ Note: the 13th month is added in order to keep the Lunar calendar in sync with t
 
 Leah:
 
-> She conceived again and bore a son and said, 
-> Now this time my husband will become-attached-to-me(יִלָּוֶ֤ה), 
-> because I have borne him three sons. 
+> She conceived again and bore a son and said,  
+> Now this time my husband will become-attached-to-me(יִלָּוֶ֤ה),  
+> because I have borne him three sons.  
 > Therefore he was named Levi(לֵוִֽי).  
-> Gen 29:34
+> Gen 29:34  
 
 ---
 
@@ -603,17 +603,17 @@ poetry is matching pairs.
 
 Jacob combines two tribes:
 
-> Simeon and Levi are brothers; 
-> Their swords are implements of violence. 
-> Let my soul not enter into their council; 
-> Let not my glory be united with their assembly; 
-> Because in their anger they slew men, 
-> And in their self-will they lamed oxen. 
-> Cursed be their anger, for it is fierce; 
-> And their wrath, for it is cruel. 
-> I will disperse them in Jacob, 
-> And scatter them in Israel.
-> Gen 49:5-7
+> Simeon and Levi are brothers;  
+> Their swords are implements of violence.  
+> Let my soul not enter into their council;  
+> Let not my glory be united with their assembly;  
+> Because in their anger they slew men,  
+> And in their self-will they lamed oxen.  
+> Cursed be their anger, for it is fierce;  
+> And their wrath, for it is cruel.  
+> I will disperse them in Jacob,  
+> And scatter them in Israel.  
+> Gen 49:5-7  
 
 ---
 
@@ -622,25 +622,25 @@ Poetry is matching pairs.
 Moses:
 
 > Of Levi he said,  
-> Let Your Thummim and Your Urim belong to Your godly man, 
-> Whom You proved at Massah, 
-> With whom You contended at the waters of Meribah; 
-> Who said of his father and his mother, 
-> ‘I did not consider them’; 
-> And he did not acknowledge his brothers, 
-> Nor did he regard his own sons, 
-> For they observed Your word, 
-> And kept Your covenant. 
-> They shall teach Your ordinances to Jacob, 
-> And Your law to Israel. 
-> They shall put incense before You, 
-> And whole burnt offerings on Your altar. 
-> O Lord, bless his substance, 
-> And accept the work of his hands; 
-> Shatter the loins of those who rise up against him, 
-> And those who hate him, 
+> Let Your Thummim and Your Urim belong to Your godly man,  
+> Whom You proved at Massah,  
+> With whom You contended at the waters of Meribah;  
+> Who said of his father and his mother,  
+> ‘I did not consider them’;  
+> And he did not acknowledge his brothers,  
+> Nor did he regard his own sons,  
+> For they observed Your word,  
+> And kept Your covenant.  
+> They shall teach Your ordinances to Jacob,  
+> And Your law to Israel.  
+> They shall put incense before You,  
+> And whole burnt offerings on Your altar.  
+> O Lord, bless his substance,  
+> And accept the work of his hands;  
+> Shatter the loins of those who rise up against him,  
+> And those who hate him,  
 > so that they will not rise again.”  
-> Deut 33:8-11
+> Deut 33:8-11  
 
 Moses, Aaron and the priesthood descend from the Tribe of Levi.  Jacob's blessing shows that Levi was dispersed in Jacob and was scattered in Israel as Levitical priests.
 
@@ -695,44 +695,44 @@ Joseph who saves his family and Egypt from the great famine becomes two tribes: 
 
 Rachel:
 
-> So she conceived and bore a son and said, 
-> “God has gathered(אָסַף) my reproach.” 
-> She named him Joseph(יוֹסֵף), saying, 
-> May the LORD add-to-me(יֹסֵ֧ף) another son. 
-> Gen 30:23-24
+> So she conceived and bore a son and said,  
+> “God has gathered(אָסַף) my reproach.”  
+> She named him Joseph(יוֹסֵף), saying,  
+> May the LORD add-to-me(יֹסֵ֧ף) another son.  
+> Gen 30:23-24  
 
 ---
 
 Joseph:
 
-> He named the second Ephraim(אֶפְרָ֑יִם), “For,” he said, 
-> "God has made me fruitful(פָּרָה) in the land of my affliction." 
-> Gen 41:52
+> He named the second Ephraim(אֶפְרָ֑יִם), “For,” he said,  
+> "God has made me fruitful(פָּרָה) in the land of my affliction."  
+> Gen 41:52  
 
 ---
 
 Jacob:
 
-> Joseph is a fruitful(פָּרָה) bough,
-> A fruitful(פָּרָה) bough by a spring; 
-> Its branches run over a wall. 
-> The archers bitterly attacked him, 
-> And shot at him and harassed him; 
-> But his bow remained firm, 
-> And his arms were agile, 
-> From the hands of the Mighty One of Jacob 
-> (From there is the Shepherd, the Stone of Israel), 
-> From the God of your father who helps you, 
-> And by the Almighty who blesses you 
-> With blessings of heaven above, 
-> Blessings of the deep that lies beneath, 
-> Blessings of the breasts and of the womb. 
-> The blessings of your father 
-> Have surpassed the blessings of my ancestors 
-> Up to the utmost bound of the everlasting hills; 
-> May they be on the head of Joseph, 
+> Joseph is a fruitful(פָּרָה) bough,  
+> A fruitful(פָּרָה) bough by a spring;  
+> Its branches run over a wall.  
+> The archers bitterly attacked him,  
+> And shot at him and harassed him;  
+> But his bow remained firm,  
+> And his arms were agile,  
+> From the hands of the Mighty One of Jacob  
+> (From there is the Shepherd, the Stone of Israel),  
+> From the God of your father who helps you,  
+> And by the Almighty who blesses you  
+> With blessings of heaven above,  
+> Blessings of the deep that lies beneath,  
+> Blessings of the breasts and of the womb.  
+> The blessings of your father  
+> Have surpassed the blessings of my ancestors  
+> Up to the utmost bound of the everlasting hills;  
+> May they be on the head of Joseph,  
 > And on the crown of the head of the one distinguished among his brothers.  
-> Gen 49:22-26 
+> Gen 49:22-26  
 
 ---
 
@@ -771,7 +771,7 @@ Jacob/Israel:
 > By you Israel will bless, saying,  
 > ‘May God make you as Ephraim and as Manasseh!’  
 > And thus he set Ephraim before Manasseh.  
-> Genesis 48
+> Genesis 48  
 
 ---
 
@@ -779,23 +779,23 @@ Moses: ( in poetic pairs )
 
 > Of Joseph he said,  
 
-> Blessed of the LORD be his land,  <br> 
-> With the choice things of heaven, with the dew,  <br>
-> And from the deep lying beneath,  <br>
-> And with the choice yield of the sun,  <br>
-> And with the choice produce of the moon (months).  <br>
-> And with the best things of the ancient mountains,  <br>
-> And with the choice things of the everlasting hills,  <br>
-> And with the choice things of the land and its fullness,  <br>
-> And the favor of Him who dwelt in the bush.  <br>
-> Let it come to the head of Joseph,  <br>
-> And to the crown of the head of the one distinguished among his brothers.  <br>
-> As the firstborn of his ox(שׁוֹר), majesty is his,  <br>
-> And his horns are the horns of the wild-ox(רְאֵם);  <br>
-> With them he will push the peoples,  <br>
-> All at once, to the ends of the earth.  <br>
-> And those are the ten-thousands(רְבָבָה) of Ephraim,  <br>
-> And those are the thousands(אֶלֶף) of Manasseh.”  <br>
+> Blessed of the LORD be his land,  
+> With the choice things of heaven, with the dew,  
+> And from the deep lying beneath,  
+> And with the choice yield of the sun,  
+> And with the choice produce of the moon (months).  
+> And with the best things of the ancient mountains,  
+> And with the choice things of the everlasting hills,  
+> And with the choice things of the land and its fullness,  
+> And the favor of Him who dwelt in the bush.  
+> Let it come to the head of Joseph,  
+> And to the crown of the head of the one distinguished among his brothers.  
+> As the firstborn of his ox(שׁוֹר), majesty is his,  
+> And his horns are the horns of the wild-ox(רְאֵם);  
+> With them he will push the peoples,  
+> All at once, to the ends of the earth.  
+> And those are the ten-thousands(רְבָבָה) of Ephraim,  
+> And those are the thousands(אֶלֶף) of Manasseh.”  
 > Deut 33:13-17  
 
 Following the patters above the list of things observable is more difficult as it is mainly reffering to the blessing of entering the physical land of Israel and becoming a multitude.  "As the stars of heaven for multitude" - fitting description of the milky way band seen during this time of year.  The monthly calendar apparent shapes matching tribes only seem to match with the blessings spoken by Moses.
@@ -870,10 +870,10 @@ Moses of Joseph - Ephraim's dad:
  - Jacob's 11, Joseph's 2nd son
 
 
-> Joseph named the firstborn Manasseh, 
+> Joseph named the firstborn Manasseh,  
 > “For,” he said,  
 > “God has made me forget all my trouble and all my father’s household.”  
-> Gen 41:51
+> Gen 41:51  
 
 The verses for Joseph are under Ephraim above.
 
@@ -900,18 +900,18 @@ The verses for Joseph are under Ephraim above.
 
 Rachel:
 
-> It came about as her soul was departing (for she died), 
-> that she named him Ben-oni; 
-> but his father called him Benjamin. 
-> Gen 35:18
+> It came about as her soul was departing (for she died),  
+> that she named him Ben-oni;  
+> but his father called him Benjamin.  
+> Gen 35:18  
 
 ---
 
 Jacob:
 
-> Benjamin is a ravenous wolf; 
-> In the morning he devours the prey, 
-> And in the evening he divides the spoil.” 
+> Benjamin is a ravenous wolf;  
+> In the morning he devours the prey,  
+> And in the evening he divides the spoil.”  
 > Gen 49:27
 
 ---
@@ -919,9 +919,9 @@ Jacob:
 Moses:
 
 > Of Benjamin he said,  
-> “May the beloved (יְדִיד) of the LORD dwell in security by Him, 
-> Who shields him all the day, 
-> And he dwells between His shoulders.” 
+> “May the beloved (יְדִיד) of the LORD dwell in security by Him,  
+> Who shields him all the day,  
+> And he dwells between His shoulders.”  
 > Deut 33:12  
 
 ![Month 9 Benjamin](09_benjamin_1.jpg)  
@@ -944,36 +944,36 @@ Moses:
 ---
 Rachel:
 
-> Then Rachel said, 
-> “God has vindicated/judged me, 
-> and has indeed heard my voice and has given me a son.” 
-> Therefore she named him Dan. 
-> Gen 30:6
+> Then Rachel said,  
+> “God has vindicated/judged me,  
+> and has indeed heard my voice and has given me a son.”  
+> Therefore she named him Dan.  
+> Gen 30:6  
 
 ---
 
 Jacob:
 
-> Dan shall judge his people, 
-> As one of the tribes of Israel. 
-> Dan shall be a serpent in the way, 
-> A horned snake in the path, 
-> That bites the horse’s heels, 
-> So that his rider falls backward. 
-> For Your salvation I wait, O LORD. 
-> Gen 49:16-18
+> Dan shall judge his people,  
+> As one of the tribes of Israel.  
+> Dan shall be a serpent in the way,  
+> A horned snake in the path,  
+> That bites the horse’s heels,  
+> So that his rider falls backward.  
+> For Your salvation I wait, O LORD.  
+> Gen 49:16-18  
 
 ---
 
 Moses:
 
-> Of Dan he said, 
-> Dan is a lion’s whelp, 
-> That leaps forth from Bashan. 
-> Deut 33:22
+> Of Dan he said,  
+> Dan is a lion’s whelp,  
+> That leaps forth from Bashan.  
+> Deut 33:22  
 
 
-![Month 10 Dan](10_dan_1.jpg)  
+![Month 10 Dan](10_dan_1.jpg)   
 **Figure 38.** *Dan: calendar month region (10th Noah / 4th Moses).*
 
 ![Month 10 Dan](10_dan_2.jpg)  
@@ -993,33 +993,33 @@ Moses:
 
 Leah:
 
-> Then Leah said, 
-> Happy am I! 
-> For women will call me happy. 
-> So she named him Asher. 
-> Gen 30:13
+> Then Leah said,  
+> Happy am I!  
+> For women will call me happy.  
+> So she named him Asher.  
+> Gen 30:13  
 
 ---
 
 Jacob:
 
-> As for Asher, 
-> his food shall be rich, 
-> And he will yield royal dainties.  
-> Gen 49:20
+> As for Asher,  
+> his food shall be rich,  
+> And he will yield royal dainties.   
+> Gen 49:20  
 
 ---
 
 Moses:
 
-> Of Asher he said, 
-> More blessed than sons is Asher; 
-> May he be favored by his brothers, 
-> And may he dip his foot in oil. 
-> Your locks will be iron and bronze, 
-> And according to your days, 
-> so will your leisurely walk be. 
-> Deut 33:24-27
+> Of Asher he said,  
+> More blessed than sons is Asher;  
+> May he be favored by his brothers,  
+> And may he dip his foot in oil.  
+> Your locks will be iron and bronze,  
+> And according to your days,  
+> so will your leisurely walk be.  
+> Deut 33:24-27  
 
 
 ![Month 11 Asher](11_asher_1.jpg)  
@@ -1042,30 +1042,30 @@ Moses:
 
 Rachel:
 
-> So Rachel said, 
-> With mighty wrestlings/twistings 
-> I have wrestled/twisted with my sister, 
-> and I have indeed prevailed. 
-> And she named him Naphtali. 
-> Gen 30:8
+> So Rachel said,  
+> With mighty wrestlings/twistings  
+> I have wrestled/twisted with my sister,  
+> and I have indeed prevailed.  
+> And she named him Naphtali.  
+> Gen 30:8  
 
 ---
 
 Jacob:
 
-> Naphtali is a doe let loose, 
-> He gives beautiful words. 
-> Gen 49:21
+> Naphtali is a doe let loose,  
+> He gives beautiful words.  
+> Gen 49:21  
 
 ---
 
 Moses:
 
-> Of Naphtali he said, 
-> O Naphtali, satisfied with favor, 
-> And full of the blessing of the LORD, 
+> Of Naphtali he said,  
+> O Naphtali, satisfied with favor,  
+> And full of the blessing of the LORD,  
 > Take possession of the sea and the south.  
-> Deut 33:23
+> Deut 33:23  
 
 
 ![Month 12 Naphtali](12_naphtali_1.jpg)  
@@ -1089,15 +1089,15 @@ The four apparent lion shapes are demonstrated in
 
 In Hebrew the word for "Mandrakes"(דּוּדַי) is very similar to "beloved"(דּוֹד). It may be the play on the words itself was a mental aphrodisiac rather than a bio-chemical reaction.  I have not found any controlled human trials in relation to Mandragora officinarum or Mandragora autumnalis as an aphrodisiac.  The plant is rich in tropane alkaloids (hyoscyamine, atropine, scopolamine). These are sedative, hallucinogenic, and anticholinergic, which could explain its ancient use as an anesthetic and narcotic.  Those effects are not aphrodisiac effects, and anticholinergics can actually impair sexual function.  The gap between a dose that produces effects and a toxic dose is small and unpredictable, since alkaloid content varies by plant part, season, and preparation. Mandrake poisoning is a real medical emergency.  The following passage demonstrates of beloved/love and Mandrake can be a play on words. It is also worth noting that the mandrake was used as a fragrance and it's yellow-to-orange berry has a strong sweet, apple-like scent.
 
-> And your mouth like the best wine! 
-> It goes down smoothly for my beloved(דּוֹד), 
-> Flowing gently through the lips of those who fall asleep. 
-> I am my beloved’s(דּוֹד), And his desire is for me. 
-> Come, my beloved(דּוֹד), let us go out into the country, Let us spend the night in the villages. 
-> Let us rise early and go to the vineyards; 
-> Let us see whether the vine has budded And its blossoms have opened, 
-> And whether the pomegranates have bloomed. 
-> There I will give you my love(דּוֹד). 
-> The mandrakes(דּוּדַי) have given forth fragrance; 
-> And over our doors are all choice fruits, Both new and old, Which I have saved up for you, my beloved(דּוֹד).
-> Song of Solomon 7:8-13
+> And your mouth like the best wine!  
+> It goes down smoothly for my beloved(דּוֹד),  
+> Flowing gently through the lips of those who fall asleep.  
+> I am my beloved’s(דּוֹד), And his desire is for me.  
+> Come, my beloved(דּוֹד), let us go out into the country, Let us spend the night in the villages.  
+> Let us rise early and go to the vineyards;  
+> Let us see whether the vine has budded And its blossoms have opened,  
+> And whether the pomegranates have bloomed.  
+> There I will give you my love(דּוֹד).  
+> The mandrakes(דּוּדַי) have given forth fragrance;  
+> And over our doors are all choice fruits, Both new and old, Which I have saved up for you, my beloved(דּוֹד).  
+> Song of Solomon 7:8-13  
