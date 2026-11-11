@@ -738,39 +738,39 @@ Jacob:
 
 Jacob/Israel:
 
-> Then Israel stretched out his right hand and laid it on Ephraim’s head, 
-> who was the younger, 
-> and his left hand on Manasseh’s head, 
-> guiding his hands knowingly, 
-> for Manasseh was the firstborn. 
-> And he blessed Joseph, and said: 
-> “God, before whom my fathers Abraham and Isaac walked, 
-> The God who has fed me all my life long to this day, 
-> The Angel who has redeemed me from all evil, 
-> Bless the lads; 
-> Let my name be named upon them,  (Ephraim is later called northern Israel) 
-> And the name of my fathers Abraham and Isaac; 
-> And let them grow into a multitude in the midst of the earth.” 
-> 
-> Now when Joseph saw that his father laid his right hand on the head of Ephraim, 
-> it displeased him; 
-> so he took hold of his father’s hand to remove it from Ephraim’s head to Manasseh’s head. 
-> And Joseph said to his father, 
-> “Not so, my father, 
-> for this one is the firstborn; 
-> put your right hand on his head.”
-> 
-> But his father refused and said, 
-> “I know, my son, I know. 
-> He also shall become a people, 
-> and he also shall be great; 
-> but truly his younger brother shall be greater than he, 
-> and his descendants shall become a multitude of nations.” 
-> 
-> So he blessed them that day, saying, 
-> By you Israel will bless, saying, 
-> ‘May God make you as Ephraim and as Manasseh!’ 
-> And thus he set Ephraim before Manasseh. 
+> Then Israel stretched out his right hand and laid it on Ephraim’s head,  
+> who was the younger,  
+> and his left hand on Manasseh’s head,  
+> guiding his hands knowingly,  
+> for Manasseh was the firstborn.  
+> And he blessed Joseph, and said:  
+> “God, before whom my fathers Abraham and Isaac walked,  
+> The God who has fed me all my life long to this day,  
+> The Angel who has redeemed me from all evil,  
+> Bless the lads;  
+> Let my name be named upon them,  (Ephraim is later called northern Israel)  
+> And the name of my fathers Abraham and Isaac;  
+> And let them grow into a multitude in the midst of the earth.”  
+>  
+> Now when Joseph saw that his father laid his right hand on the head of Ephraim,  
+> it displeased him;  
+> so he took hold of his father’s hand to remove it from Ephraim’s head to Manasseh’s head.  
+> And Joseph said to his father,  
+> “Not so, my father,  
+> for this one is the firstborn;  
+> put your right hand on his head.”  
+>  
+> But his father refused and said,  
+> “I know, my son, I know.  
+> He also shall become a people,  
+> and he also shall be great;  
+> but truly his younger brother shall be greater than he,  
+> and his descendants shall become a multitude of nations.”  
+>  
+> So he blessed them that day, saying,  
+> By you Israel will bless, saying,  
+> ‘May God make you as Ephraim and as Manasseh!’  
+> And thus he set Ephraim before Manasseh.  
 > Genesis 48
 
 ---
@@ -779,24 +779,24 @@ Moses: ( in poetic pairs )
 
 > Of Joseph he said,  
 
-> Blessed of the LORD be his land, 
-> With the choice things of heaven, with the dew, 
-> And from the deep lying beneath, 
-> And with the choice yield of the sun, 
-> And with the choice produce of the moon (months). 
-> And with the best things of the ancient mountains, 
-> And with the choice things of the everlasting hills, 
-> And with the choice things of the land and its fullness, 
-> And the favor of Him who dwelt in the bush. 
-> Let it come to the head of Joseph, 
-> And to the crown of the head of the one distinguished among his brothers. 
-> As the firstborn of his ox(שׁוֹר), majesty is his, 
-> And his horns are the horns of the wild-ox(רְאֵם); 
-> With them he will push the peoples, 
-> All at once, to the ends of the earth. 
-> And those are the ten-thousands(רְבָבָה) of Ephraim, 
-> And those are the thousands(אֶלֶף) of Manasseh.” 
-> Deut 33:13-17
+> Blessed of the LORD be his land,  <br> 
+> With the choice things of heaven, with the dew,  <br>
+> And from the deep lying beneath,  <br>
+> And with the choice yield of the sun,  <br>
+> And with the choice produce of the moon (months).  <br>
+> And with the best things of the ancient mountains,  <br>
+> And with the choice things of the everlasting hills,  <br>
+> And with the choice things of the land and its fullness,  <br>
+> And the favor of Him who dwelt in the bush.  <br>
+> Let it come to the head of Joseph,  <br>
+> And to the crown of the head of the one distinguished among his brothers.  <br>
+> As the firstborn of his ox(שׁוֹר), majesty is his,  <br>
+> And his horns are the horns of the wild-ox(רְאֵם);  <br>
+> With them he will push the peoples,  <br>
+> All at once, to the ends of the earth.  <br>
+> And those are the ten-thousands(רְבָבָה) of Ephraim,  <br>
+> And those are the thousands(אֶלֶף) of Manasseh.”  <br>
+> Deut 33:13-17  
 
 Following the patters above the list of things observable is more difficult as it is mainly reffering to the blessing of entering the physical land of Israel and becoming a multitude.  "As the stars of heaven for multitude" - fitting description of the milky way band seen during this time of year.  The monthly calendar apparent shapes matching tribes only seem to match with the blessings spoken by Moses.
 
