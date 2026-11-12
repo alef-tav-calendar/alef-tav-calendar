@@ -849,9 +849,22 @@ Moses of Joseph - Ephraim's dad:
 
 ![Month 7 Ephraim](07_ephraim_2.jpg)  
 **Figure 33.** *Ephraim: base star region.*.
+- Between Gad and Ephraim there seems to be a jump in which region is being observed.   Within this region an additional month was attached on in order to keep the lunar and solar calendars in sync.  The padded month would represent Levi/attached.
+- Allot of blessings pertain to Joseph how he receives a double portion through his two sons which becomes the tribes of Ephraim and Manasseh.   Ephraim meaning double-fruit could have related to the firstfruits (בִּכּוּרִים) which is also Passover in calendar terms.  The feast of firstfruits was not just `fruit` as in the sense of Ephraim's name but at that time of year the main crop was barly and early flax.  
+> Joseph named the firstborn Manasseh,  
+> “For,” he said,  
+> “God has made me forget all my trouble and all my father’s household.”  
+> Gen 41:51  
+- Now there was allot said of Joseph who's narative focuses on storing up grain for the famine and represents the one who provided for his family.  Now, in terms of a yearly calendar, it seems fitting for the two tribes of Joseph to be in the spring after the cold winter months.  Farming communities in those days would have to store up grain to get through each winter, hense:
+  - Ephraim firstfruit barly harvest of the spring.
+  - Manessah forgetting the past trouble winter months.
+- The ten-thousands of Ephraim and thousands of Manasseh may relate to this dense region of starts these months pertain to as per the above image.
 
+![Ephraim Ox](07_ephraim_3.jpg)  
+**Figure 34.** *Ephraim: Ox and horns*
 
-
+- Earth's orbit as well as the rotation cause this "Ox" region to move/set toward the western horizon.  This may be alluded to in "pushing the peoples all at once to the ends of the earth/land.
+- There are regions that resemble archers, head of joseph, crown of the head.  However they are out of sequence with this calendar.
 
 
 
@@ -880,7 +893,7 @@ The verses for Joseph are under Ephraim above.
 ![Month 8 Manasseh](08_manasseh_1.jpg)  
 **Figure 34.** *Manasseh: calendar month region (8th Noah / 2nd Moses).*
 
-![Month 8 Manasseh](08_manasseh_2.jpg)  
+![Month 8 Manasseh](07_ephraim_2.jpg)  
 **Figure 35.** *Manasseh: base star region.* Image pending.
 
 ---
